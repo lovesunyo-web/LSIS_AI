@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>산특개발 AI팀원</title>
+    <!-- 외부 스타일시트 불러오기 -->
+    <link rel="stylesheet" href="style.css?v=20260724-ui-refinement">
+
+    <!-- GitHub Pages 접속용 비밀번호 화면: 정적 페이지이므로 실제 서버 보안 기능은 아닙니다. -->
+    <style>
+        body.password-locked { overflow: hidden; }
+        #passwordGate {
+            position: fixed; inset: 0; z-index: 2147483647;
+            display: flex; align-items: center; justify-content: center;
+            padding: 20px; box-sizing: border-box;
+            background: rgba(15, 23, 42, 0.94);
+            font-family: Arial, "Noto Sans KR", sans-serif;
+        }
+        #passwordGate .password-card {
+            width: min(360px, 100%); padding: 28px; box-sizing: border-box;
+            background: #ffffff; border-radius: 12px;
+            box-shadow: 0 18px 45px rgba(0, 0, 0, 0.35);
+            text-align: center;
+        }
+        #passwordGate h2 { margin: 0 0 8px; color: #0f172a; font-size: 21px; }
+        #passwordGate p { margin: 0 0 20px; color: #475569; font-size: 14px; line-height: 1.5; }
+        #passwordGate input {
+            width: 100%; height: 42px; padding: 0 12px; box-sizing: border-box;
+            border: 1px solid #94a3b8; border-radius: 6px; font-size: 15px;
+        }
+        #passwordGate button {
+            width: 100%; height: 42px; margin-top: 10px; border: 0; border-radius: 6px;
+            background: #1d4ed8; color: #ffffff; cursor: pointer; font-size: 15px; font-weight: 700;
+        }
+        #passwordGate .password-error {
+            min-height: 18px; margin: 9px 0 0; color: #dc2626; font-size: 13px;
+        }
+    </style>
+</head>
+<body class="password-locked">
+
+<div id="passwordGate" role="dialog" aria-modal="true" aria-labelledby="passwordGateTitle">
+    <div class="password-card">
+        <h2 id="passwordGateTitle">접근 비밀번호</h2>
+        <p>계속하려면 비밀번호를 입력하세요.</p>
+        <form id="passwordGateForm" novalidate>
+            <input id="passwordGateInput" type="password" inputmode="numeric" pattern="[0-9]{6}" maxlength="6" aria-label="비밀번호" autocomplete="current-password" autofocus>
+            <button type="submit" id="passwordGateButton">확인</button>
+        </form>
+        <div id="passwordGateError" class="password-error" role="alert" aria-live="polite"></div>
+    </div>
+</div>
+<script>
+    /*
+     * 접근 제어는 다른 계산 스크립트보다 먼저 초기화합니다.
+     * 정적 HTML의 클라이언트 측 잠금이므로 실제 보안 기능은 아닙니다.
+     */
+    (function () {
+        const requiredPassword = '202607';
+        // 비밀번호 변경 시 이전 로그인 상태가 남지 않도록 새 인증 키를 사용합니다.
+        const authKey = 'ls_cable_password_verified_v8';
+        const form = document.getElementById('passwordGateForm');
+        const gate = document.getElementById('passwordGate');
+        const input = document.getElementById('passwordGateInput');
+        const button = document.getElementById('passwordGateButton');
+        const error = document.getElementById('passwordGateError');
+        if (!gate || !form || !input || !button || !error) return;
+
+        function isVerified() {
+            try {
+                return localStorage.getItem(authKey) === '1' ||
+                    sessionStorage.getItem(authKey) === '1';
+            } catch (e) {
+                try { return sessionStorage.getItem(authKey) === '1'; } catch (ignore) { return false; }
+            }
+        }
+        function closeGate() {
+            document.body.classList.remove('password-locked');
+            gate.remove();
+        }
+        function getEnteredPassword() {
+            let value = String(input.value || '');
+            // 일부 브라우저에서 String.prototype.normalize 미지원으로 인증이 중단되지 않도록 처리합니다.
+            if (typeof value.normalize === 'function') value = value.normalize('NFKC');
+            return value.replace(/[^0-9]/g, '').slice(0, 6);
+        }
+        function unlock() {
+            const entered = getEnteredPassword();
+            if (entered === requiredPassword) {
+                // 입력값을 정리한 뒤 인증 상태를 저장합니다.
+                input.value = entered;
+                try {
+                    localStorage.setItem(authKey, '1');
+                } catch (e) {}
+                try { sessionStorage.setItem(authKey, '1'); } catch (e) {}
+                closeGate();
+                return true;
+            }
+            error.textContent = '비밀번호가 일치하지 않습니다. 초기 비밀번호는 202607입니다.';
+            input.value = '';
+            input.focus();
+            return false;
+        }
+        if (isVerified()) closeGate();
+        else {
+            // form submit을 사용하여 PC Enter 키와 모바일 키보드 완료 동작을 모두 처리합니다.
+            form.addEventListener('submit', function (event) {
+                event.preventDefault();
+                unlock();
+            });
+            // 버튼은 submit 타입이므로 form submit 한 곳에서만 처리합니다.
+            // 이중 실행을 막아 초기 비밀번호 입력 후에도 안정적으로 잠금이 해제됩니다.
+            input.addEventListener('input', function () {
+                error.textContent = '';
+                let value = String(input.value || '');
+                if (typeof value.normalize === 'function') value = value.normalize('NFKC');
+                input.value = value.replace(/[^0-9]/g, '').slice(0, 6);
+            });
+            input.focus();
+        }
+    }());
+</script>
+
+<div class="app-container">
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <div class="top-row">
+                <div class="sub-desc">산업용특수케이블을 더욱 특별하게 만드는 기술</div>
+                <div class="copyright-box">
+                    <div class="author">J.R.LEE</div>
+                    <div class="team">산특기술개발팀</div>
+                </div>
+            </div>
+            <h1>
+                <span class="app-title-text">산특개발 AI팀원</span>
+                <span class="ai-warning-board" aria-label="도면AI 책임 고지">
+                    <span class="ai-warning-text">도면AI는 실수할 수 있으며 모든 책임은 사용자에게 있습니다.</span>
+                </span>
+            </h1>
+        </div>
+        <div class="form-container">
+
+            <!-- ==================== PART 1. 기본 정보 및 도체 사양 ==================== -->
+            <div class="menu-group-wrapper part-1">
+                <div class="menu-group-header part-1-header">
+                    <span>■ PART 1. 기본 정보 및 도체 사양</span>
+                    <div class="part-1-action-buttons">
+                        <button class="btn-part1-action btn-part1-spec" type="button" onclick="openSpecTablePage()">사양서부표</button>
+                        <button class="btn-part1-action btn-part1-spec" type="button" onclick="return openFullSpecIfAvailable(event)">FULL SPEC 작성</button>
+                    </div>
+                </div>
+
+                <!-- 1. 기본 정보 -->
+                <div class="section-box">
+                    <div class="section-title" style="display: flex; justify-content: space-between; align-items: center;">
+                        <span>1. 기본 정보 (Voltage & Cores)</span>
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <input type="checkbox" id="all_na_checkbox" onchange="toggleAllNotApplicable(this.checked)" style="display: none;">
+                            <button type="button" id="reset_btn" onclick="resetAllFields()" style="background-color: #ef4444; color: #ffffff; border: none; padding: 2px 8px; font-size: 11px; font-weight: 800; border-radius: 4px; cursor: pointer; transition: background 0.2s;">초기화</button>
+                        </div>
+                    </div>
+                    <div class="section-body">
+
+                        <!-- 1-1. 사양서 정보 -->
+                        <div id="standard_section" style="margin-top: 2px; padding-top: 2px;">
+                            <p style="font-size: 10.5px; font-weight: 800; color: var(--text-blue); margin-bottom: 4px;">1-1. 사양서 정보</p>
+                            <div class="standard-inline-row">
+                                
+                                <div class="field-group standard-cabling-sheath-select">
+                                    <label>시스 방식</label>
+                                    <select id="cabling_sheath_method" onchange="handleCablingSheathMethodChange()">
+                                        <option value="GENERAL_EXTRUDED" selected>일반 압출 쉬스</option>
+                                        <option value="CCV_SHEATH">CCV 쉬스</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-group standard-main-select">
+                                    <label>사양서 선택</label>
+                                    <select id="thickness_rule_mode" onchange="handleThicknessRuleChange()">
+                                        <option value="MANUAL" selected>수동 지정</option>
+                                        <option value="IEC_60092">IEC 60092</option>
+                                        <option value="IEC_60502">IEC 60502</option>
+                                        <option value="IEEE_1580">IEEE 1580</option>
+                                        <option value="AEIC">AEIC 규격</option>
+                                        <option value="ICEA_S95_NEMA_WC70">ICEA S-95-658 / NEMA WC 70</option>
+                                        <option value="ICEA_S96_NEMA_WC71">ICEA S-96-659 / NEMA WC 71</option>
+                                        <option value="ICEA_S93_NEMA_WC74">ICEA S-93-639 / NEMA WC 74</option>
+                                        <option value="ICEA_S73_NEMA_WC57">ICEA S-73-532 / NEMA WC 57</option>
+                                        <option value="EN_50264_3_1">EN 50264-3-1</option>
+                                    </select>
+                                </div>
+                                <div class="field-group standard-material-select">
+                                    <label>절연 재질</label>
+                                    <select id="standard_insu_material" onchange="handleStandardMaterialChange()"></select>
+                                </div>
+<div id="standard_extra_conditions" class="standard-extra-inline">
+                                <div class="field-group standard-cond standard-cond-level">
+                                    <label>절연레벨</label>
+                                    <select id="nema_level_main" onchange="handleThicknessRuleChange()">
+                                        <option value="100%" selected>100%</option>
+                                        <option value="133%">133%</option>
+                                    </select>
+                                </div>
+                                <div class="field-group standard-cond standard-cond-60092 standard-cond-60092-unified">
+                                    <label>IEC 60092 베딩/이너 구분</label>
+                                    <select id="standard_iec60092_bedding_inner_mode" onchange="handleStandardConditionChange()">
+                                        <option value="미적용">미적용</option>
+                                        <option value="LAPPED_INNER_COVERING">LAPPED 이너커버링</option>
+                                        <option value="EXTRUDED_INNER_COVERING" selected>압출형 이너커버링</option>
+                                        <option value="EXTRUDED_INNER_SHEATH">압출형 이너시스</option>
+                                    </select>
+                                </div>
+                                <div class="field-group standard-cond standard-cond-60092 standard-cond-60092-legacy">
+                                    <label>이너커버링 / 이너시스</label>
+                                    <select id="standard_inner_division" onchange="handleStandardConditionChange()">
+                                        <option value="Inner Covering" selected>이너커버링</option>
+                                        <option value="Inner Sheath">이너시스</option>
+                                    </select>
+                                </div>
+                                <div class="field-group standard-cond standard-cond-60092 standard-cond-60092-legacy">
+                                    <label>베딩 방식</label>
+                                    <select id="standard_bedding_form" onchange="handleStandardConditionChange()">
+                                        <option value="압출형" selected>압출형</option>
+                                        <option value="테이프식">LAPPED / 테이프식</option>
+                                    </select>
+                                </div>
+                                <div class="field-group standard-cond standard-cond-60092">
+                                    <label>외장 종류</label>
+                                    <select id="standard_armour_type" onchange="handleStandardConditionChange()">
+                                        <option value="미적용" selected>비외장</option>
+                                        <option value="SWA/AWA (횡권)">SWA/AWA</option>
+                                        <option value="STA (테이프)">STA</option>
+                                        <option value="편조 (Braid)">편조</option>
+                                    </select>
+                                </div>
+                                <div class="field-group standard-cond standard-cond-en">
+                                    <label>시스 유무</label>
+                                    <select id="standard_en_sheath" onchange="handleStandardConditionChange()">
+                                        <option value="미적용" selected>시스 미적용</option>
+                                        <option value="적용">시스 있음</option>
+                                    </select>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 1-2. 케이블 기본 정보 -->
+                        <div id="cable_basic_section" style="margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border-color);">
+                            <p style="font-size: 10.5px; font-weight: 800; color: var(--text-blue); margin-bottom: 4px;">1-2. 케이블 기본 정보</p>
+                            <div class="grid-5" style="display:grid; grid-template-columns: 1fr 2fr 1fr 1fr; gap: 6px;">
+                                <div class="field-group">
+                                    <label>정격 전압 (Voltage)</label>
+                                    <select id="v_rating" onchange="handleVoltageAndDraw()">
+                                        <option value="250V">250V</option>
+                                        <option value="300V">300V</option>
+                                        <option value="600V">600V</option>
+                                        <option value="1000V">1000V</option>
+                                        <option value="1500V">1500V</option>
+                                        <option value="2000V">2000V (2kV)</option>
+                                        <option value="450/750V">450/750V</option>
+                                        <option value="0.6/1kV" selected>0.6/1kV</option>
+                                        <option value="1.8/3kV">1.8/3kV</option>
+                                        <option value="3.6/6kV">3.6/6kV</option>
+                                        <option value="5KV">5KV</option>
+                                        <option value="6/10KV">6/10KV</option>
+                                        <option value="8.0KV">8.0KV (8kV)</option>
+                                        <option value="8.7/15KV">8.7/15KV</option>
+                                        <option value="15KV">15KV</option>
+                                        <option value="12/20KV">12/20KV</option>
+                                        <option value="18/30KV">18/30KV</option>
+                                        <option value="25KV">25KV (25kV)</option>
+                                        <option value="28KV">28KV</option>
+                                        <option value="35KV">35KV</option>
+                                        <option value="46KV">46KV</option>
+                                        <option value="66KV">66KV</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>품명 (Product Name)</label>
+                                    <input type="text" id="cable_name" value="CABLE ENGINE" maxlength="25" oninput="handleCableNameChange()" placeholder="최대 25자">
+                                </div>
+                                <div class="field-group">
+                                    <label>선심 구분 구조</label>
+                                    <select id="core_type" onchange="handleCoreTypeChange()">
+                                        <option value="CORE" selected>CORE (단독)</option>
+                                        <option value="PAIR">PAIR (2가닥 SET)</option>
+                                        <option value="TRIAD">TRIAD (3가닥 SET)</option>
+                                        <option value="QUAD">QUAD (4가닥 SET)</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>수량 (1~101)</label>
+                                    <input type="number" id="core_num" value="3" min="1" max="101" onchange="handleCoreNumChange()">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 1-3. 도체 정보 -->
+                        <div id="conductor_section" style="margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border-color);">
+                            <p style="font-size: 10.5px; font-weight: 800; color: var(--text-blue); margin-bottom: 4px;">1-3. 도체 정보</p>
+                            <div class="grid-6" style="grid-template-columns: repeat(6, 1fr) !important;">
+                                <div class="field-group">
+                                    <label>도체 재질</label>
+                                    <select id="cond_material" onchange="updateConductorSizes(); handleCondSizeChange();">
+                                        <option value="copper" selected>동 (구리)</option>
+                                        <option value="aluminum">알루미늄</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>도체 도금 종류</label>
+                                    <select id="cond_coating" onchange="handleConductorCoatingChange()">
+                                        <option value="A" selected>A (연동선)</option>
+                                        <option value="TA">TA (주석도금선)</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>도체 표준</label>
+                                    <select id="conductorStandard" onchange="handleConductorStandardChange()">
+                                        <option value="IEC" selected>IEC 60228 (Metric)</option>
+                                        <option value="ASTM">ASTM (AWG / kcmil)</option>
+                                        <option value="IEEE_1580">IEEE 1580 Type P</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>도체 구조</label>
+                                    <select id="cond_class" onchange="handleConductorStructureChange()">
+                                        <option value="연선" selected>연선</option>
+                                        <option value="solid">SOLID</option>
+                                        <option value="집/복합">집/복합</option>
+                                        <option value="압축">압축</option>
+                                    </select>
+                                </div>
+
+                                <div class="field-group">
+                                    <label>도체 크기</label>
+                                    <select id="cond_size" onchange="updateConductorConstructionOptions(); handleCondSizeChange()"></select>
+                                </div>
+                                <div class="field-group">
+                                    <label>소선구성</label>
+                                    <select id="cond_strand_config" onchange="handleConductorConstructionChange()"></select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 1-4. 접지선 설정 -->
+                        <div id="ground_section" style="margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border-color);">
+                            <p style="font-size: 10.5px; font-weight: 800; color: var(--text-blue); margin-bottom: 4px;">1-4. 접지선 설정 (Earthing Conductor)</p>
+                            <div class="grid-4">
+                                <div class="field-group">
+                                    <label>접지선 적용 유무</label>
+                                    <select id="has_ground" onchange="handleGroundChange()">
+                                        <option value="미적용" selected>미적용</option>
+                                        <option value="적용">적용</option>
+                                    </select>
+                                </div>
+                                <div class="field-group" style="display: none;">
+                                    <label>접지선 삽입 형태 (자동 제어)</label>
+                                    <input type="text" id="ground_insert_type_display" value="자동 최적화 계산 적용" disabled>
+                                </div>
+                                <div class="field-group">
+                                    <label>접지선 절연 색상 지정</label>
+                                    <select id="ground_insu_color" onchange="calculateAndDraw()">
+                                        <option value="GN" selected>녹색 (Green)</option>
+                                        <option value="BK">흑색 (Black)</option>
+                                        <option value="none">미적용</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>접지선 수량</label>
+                                    <select id="num_ground" onchange="handleGroundChange()">
+                                        <option value="1">1가닥</option>
+                                        <option value="2">2가닥</option>
+                                        <option value="3">3가닥</option>
+                                    </select>
+                                </div>
+                                <div class="field-group">
+                                    <label>접지선 절연 두께 (mm)</label>
+                                    <input type="number" id="thick_ground_insu" value="0.8" step="0.1" min="0.1" max="10.0" onchange="calculateAndDraw()">
+                                </div>
+                            </div>
+
+                            <!-- 사용자 임의 외경 지정 UI 패널 영역 -->
+                            <div class="grid-2" id="ground_manual_od_row" style="margin-top: 10px; display: none; padding: 10px; background-color: #f8fafc; border-radius: 4px; border: 1px solid var(--border-color);">
+                                <div class="field-group">
+                                    <label style="color: #b91c1c;">연합외경 결정 방식</label>
+                                    <select id="cabling_od_mode" onchange="handleCablingODModeChange()" style="background-color: #fff5f5 !important; border-color: #f87171 !important;">
+                                        <option value="AUTO" selected>자동 계산 (설계표준 기하엔진)</option>
+                                        <option value="MANUAL">사용자 임의 지정 (User-Defined OD)</option>
+                                    </select>
+                                </div>
+                                <div class="field-group" id="manual_od_group" style="display: none;">
+                                    <label style="color: #b91c1c;">임의 지정 연합외경 (mm)</label>
+                                    <input type="number" id="manual_cabling_od" value="" step="0.1" min="1.0" max="150.0" placeholder="외경 수동 기입" onchange="calculateAndDraw()" style="background-color: #fff5f5 !important; border-color: #f87171 !important;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="part-scroll-wrapper">
+            <!-- ==================== PART 2. 선심 제조 공정 (2~8번) ==================== -->
+            <div class="menu-group-wrapper part-2">
+                <div class="menu-group-header">■ PART 2. 선심 제조 공정 (2~8번)</div>
+
+                <!-- 2. 도체 위 테이프 -->
+                <div class="section-box">
+                    <div class="section-title">2. 도체 위 테이프</div>
+                    <div class="section-body">
+                        <div class="grid-3">
+                            <div class="field-group">
+                                <label>마이카 테이프</label>
+                                <select id="tape_mica" onchange="calculateAndDraw()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="적용">적용 (MICA 녹회색)</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>세퍼레이터</label>
+                                <select id="tape_sep" onchange="calculateAndDraw()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="PET">PET</option>
+                                    <option value="부직포">부직포</option>
+                                    <option value="우레탄글라스">우레탄글라스</option>
+                                    <option value="고무입면">고무입면</option>
+                                    <option value="마이카">마이카</option>
+                                    <option value="폴리이미드">폴리이미드</option>
+                                    <option value="나일론">나일론</option>
+                                    <option value="NDPA">NDPA</option>
+                                    <option value="반도전">반도전</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>반도전 테이프</label>
+                                <select id="tape_semi" onchange="calculateAndDraw()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="TETRON">TETRON</option>
+                                    <option value="부직포">부직포</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3. 내도 -->
+                <div class="section-box">
+                    <div class="section-title">3. 내도 (Inner Semi-con)</div>
+                    <div class="section-body">
+                        <div class="grid-2">
+                            <div class="field-group">
+                                <label>내도 검은색압출</label>
+                                <select id="inner_semi" onchange="syncDisabledInputs(); calculateAndDraw();">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="적용">적용</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>내도 두께 (mm)</label>
+                                <input type="number" id="thick_inner_semi" value="0.4" step="0.1" min="0.1" max="5.0" onchange="calculateAndDraw()">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 4. 절연 -->
+                <div class="section-box">
+                    <div class="section-title">4. 절연 (Insulation)</div>
+                    <div class="section-body">
+                        <div class="grid-2">
+                            <div class="field-group">
+                                <label>절연 재질</label>
+                                <select id="insu_material" onchange="calculateAndDraw()"></select>
+                            </div>
+                            <div class="field-group">
+                                <label>★ 절연 두께 (mm)</label>
+                                <input type="number" id="thick_insu" value="0.8" step="0.1" min="0.2" max="10.0" onchange="calculateAndDraw()">
+                            </div>
+                        </div>
+                        <div class="field-group" style="padding-top: 8px; margin-bottom: 8px;">
+                            <label><input type="checkbox" id="sync_all_colors" onchange="handleSyncAllColorsCheckbox()">모든 선심 동일 색상 적용 (세트별)</label>
+                        </div>
+                        <div class="field-group">
+                            <label id="matrix_title">선심별 커스텀 절연 색상 지정</label>
+                            <div class="insu-color-matrix" id="dynamicInsuContainer"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 5. 외도 -->
+                <div class="section-box">
+                    <div class="section-title">5. 외도 (Outer Semi-con)</div>
+                    <div class="section-body">
+                        <div class="grid-2">
+                            <div class="field-group">
+                                <label>외도 검은색압출</label>
+                                <select id="outer_semi" onchange="syncDisabledInputs(); calculateAndDraw();">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="적용">적용</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>외도 두께 (mm)</label>
+                                <input type="number" id="thick_outer_semi" value="0.6" step="0.1" min="0.1" max="5.0" onchange="calculateAndDraw()">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 6. 절연위 테이프 -->
+                <div class="section-box">
+                    <div class="section-title">6. 절연위 테이프</div>
+                    <div class="section-body">
+                        <div class="field-group">
+                            <label>절연위 테이프 선택</label>
+                            <select id="tape_insu_above" onchange="calculateAndDraw()">
+                                <option value="미적용" selected>미적용</option>
+                                <option value="PET">PET</option>
+                                <option value="부직포">부직포</option>
+                                <option value="우레탄글라스">우레탄글라스</option>
+                                <option value="고무입면">고무입면</option>
+                                <option value="마이카">마이카</option>
+                                <option value="폴리이미드">폴리이미드</option>
+                                <option value="나일론">나일론</option>
+                                <option value="반도전">반도전</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 7. 각심/각대차폐 -->
+                <div class="section-box">
+                    <div class="section-title">7. 각심/각대차폐</div>
+                    <div class="section-body">
+                        <div class="grid-3" id="ind_shield_grid" style="grid-template-columns: repeat(3, 1fr) !important;">
+                            <div class="field-group">
+                                <label>세퍼레이터 (Separator)</label>
+                                <select id="ind_separator" onchange="calculateAndDraw()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="PET">PET</option>
+                                    <option value="부직포">부직포</option>
+                                    <option value="우레탄글라스">우레탄글라스</option>
+                                    <option value="고무입면">고무입면</option>
+                                    <option value="마이카">마이카</option>
+                                    <option value="폴리이미드">폴리이미드</option>
+                                    <option value="나일론">나일론</option>
+                                    <option value="반도전">반도전</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>차폐 재질 (Material)</label>
+                                <select id="ind_shield_material" onchange="handleIndShieldMaterialChange()">
+                                    <option value="AL/Mylar" selected>AL/Mylar</option>
+                                    <option value="CU/Mylar">CU/Mylar</option>
+                                    <option value="구리 (동)">구리 (동)</option>
+                                    <option value="면사">면사</option>
+                                    <option value="납">납 (Lead)</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>차폐 형태 (Type)</label>
+                                <select id="ind_shield_type" onchange="handleIndShieldTypeChange()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="Tape (테이프)">Tape (테이프)</option>
+                                    <option value="Tape + D/W (드레인와이어 포함)">Tape + D/W</option>
+                                    <option value="Braid (편조)">Braid (편조)</option>
+                                    <option value="Serve (횡권)">Serve (횡권)</option>
+                                </select>
+                            </div>
+                            <div class="field-group" id="lead_thick_group" style="display: none;">
+                                <label>★ 납 두께 (mm)</label>
+                                <input type="number" id="thick_lead_shield" value="1.0" step="0.1" min="0.1" max="5.0" onchange="calculateAndDraw()">
+                            </div>
+                            <div class="field-group" id="ind_dw_ref_group" style="display: none;">
+                                <label>★ D/W 참조 규격</label>
+                                <select id="ind_dw_size_ref" onchange="calculateAndDraw()"></select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 8. 각심/각대차폐위 테이프 -->
+                <div class="section-box">
+                    <div class="section-title">8. 각심/각대차폐위 테이프</div>
+                    <div class="section-body">
+                        <div class="field-group">
+                            <label>개별차폐위 테이프 선택</label>
+                            <select id="ind_screen_tape" onchange="calculateAndDraw()">
+                                <option value="미적용" selected>미적용</option>
+                                <option value="PET">PET</option>
+                                <option value="부직포">부직포</option>
+                                <option value="우레탄글라스">우레탄글라스</option>
+                                <option value="고무입면">고무입면</option>
+                                <option value="마이카">마이카</option>
+                                <option value="폴리이미드">폴리이미드</option>
+                                <option value="나일론">나일론</option>
+                                <option value="반도전">반도전</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ==================== PART 3. 케이블 성형 및 외장 후공정 ==================== -->
+            <div class="menu-group-wrapper part-3">
+                <div class="menu-group-header">■ PART 3. 케이블 성형 및 외장 후공정 (9~13번)</div>
+
+                <!-- 9. 연합 -->
+                <div class="section-box">
+                    <div class="section-title">9. 연합</div>
+                    <div class="section-body">
+                        <div class="grid-3" style="margin-bottom: 10px;">
+                            <div class="field-group">
+                                <label>배열 제어 모드</label>
+                                <select id="array_mode" onchange="toggleArrayMode()">
+                                    <option value="AUTO" selected>표준 배열표 자동 매핑</option>
+                                    <option value="MANUAL">사용자 정의 수동 입력</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>현재 적용 외경 계수 (K)</label>
+                                <input type="number" id="calc_k_factor" value="3.45" step="0.01" onchange="calculateAndDraw()">
+                            </div>
+                            <div class="field-group">
+                                <label>개재 재질</label>
+                                <select id="filler_material" onchange="calculateAndDraw()">
+                                    <option value="PP" selected>PP</option>
+                                    <option value="EPDM">EPDM스티링</option>
+                                    <option value="PVC">PVC 개재</option>
+                                    <option value="실리콘">실리콘</option>
+                                    <option value="나일론">나일론</option>
+                                </select>
+                            </div>
+                        </div>
+                        <p style="font-size: 11px; font-weight: bold; margin-bottom: 6px; color: #475569;">각 레이어별 세트 배치 수</p>
+                        <div class="grid-6">
+                            <div class="field-group sub">
+                                <label>중심층</label>
+                                <input type="text" id="layer_center" value="1" disabled onchange="handleManualArrayChange()">
+                            </div>
+                            <div class="field-group sub">
+                                <label>1층(1st)</label>
+                                <input type="number" id="layer_1st" value="0" min="0" disabled onchange="handleManualArrayChange()">
+                            </div>
+                            <div class="field-group sub">
+                                <label>2층(2nd)</label>
+                                <input type="number" id="layer_2nd" value="0" min="0" disabled onchange="handleManualArrayChange()">
+                            </div>
+                            <div class="field-group sub">
+                                <label>3층(3rd)</label>
+                                <input type="number" id="layer_3rd" value="0" min="0" disabled onchange="handleManualArrayChange()">
+                            </div>
+                            <div class="field-group sub">
+                                <label>4층(4th)</label>
+                                <input type="number" id="layer_4th" value="0" min="0" disabled onchange="handleManualArrayChange()">
+                            </div>
+                            <div class="field-group sub">
+                                <label>5층(5th)</label>
+                                <input type="number" id="layer_5th" value="0" min="0" disabled onchange="handleManualArrayChange()">
+                            </div>
+                        </div>
+                        <div class="grid-2" style="margin-top: 10px;">
+                            <div class="field-group">
+                                <label>바인더 테이프</label>
+                                <select id="binder_tape" onchange="calculateAndDraw()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="PET">PET</option>
+                                    <option value="부직포">부직포</option>
+                                    <option value="부직포 0.13">부직포 0.13</option>
+                                    <option value="우레탄글라스">우레탄글라스</option>
+                                    <option value="고무입면">고무입면</option>
+                                    <option value="마이카">마이카</option>
+                                    <option value="폴리이미드">폴리이미드</option>
+                                    <option value="나일론">나일론</option>
+                                    <option value="반도전">반도전</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 10. 공동 차폐 -->
+                <div class="section-box">
+                    <div class="section-title">10. 공동 차폐</div>
+                    <div class="section-body">
+                        <div class="grid-3" id="ov_shield_grid" style="grid-template-columns: repeat(3, 1fr) !important;">
+                            <div class="field-group">
+                                <label>공통차폐 재질</label>
+                                <select id="ov_shield_material" onchange="handleOvShieldMaterialChange()">
+                                    <option value="AL/Mylar" selected>AL/Mylar</option>
+                                    <option value="CU/Mylar">CU/Mylar</option>
+                                    <option value="구리 (동)">구리 (동)</option>
+                                    <option value="면사">면사</option>
+                                    <option value="납">납 (Lead)</option>
+                                </select>
+                            </div>
+                            <div class="field-group" id="ov_lead_thick_group" style="display: none;">
+                                <label>★ 공동 납 두께 (mm)</label>
+                                <input type="number" id="thick_ov_lead_shield" value="1.0" step="0.1" min="0.1" max="5.0" onchange="calculateAndDraw()">
+                            </div>
+                            <div class="field-group">
+                                <label>공통차폐 형태</label>
+                                <select id="ov_shield_type" onchange="handleOvShieldTypeChange()">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="Tape (테이프)">Tape (테이프)</option>
+                                    <option value="Tape + D/W (드레인와이어 포함)">Tape + D/W</option>
+                                    <option value="Braid (편조)">Braid (편조)</option>
+                                    <option value="Serve (횡권)">Serve (횡권)</option>
+                                </select>
+                            </div>
+                            <div class="field-group" id="ov_dw_ref_group" style="display: none;">
+                                <label>★ D/W 참조 규격</label>
+                                <select id="ov_dw_size_ref" onchange="calculateAndDraw()"></select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 11. 베딩 -->
+                <div class="section-box">
+                    <div class="section-title">11. 베딩</div>
+                    <div class="section-body">
+                        <div class="grid-3" style="grid-template-columns: repeat(4, 1fr) !important;">
+                            <div class="field-group">
+                                <label>배딩 적용 형태</label>
+                                <select id="bedding_type" onchange="syncDisabledInputs(); calculateAndDraw();">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="압출형">압출형</option>
+                                    <option value="LAPPED">LAPPED</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>베딩 구분</label>
+                                <select id="bedding_division" onchange="calculateAndDraw()">
+                                    <option value="Inner Covering" selected>이너커버링 (Inner Covering)</option>
+                                    <option value="Inner Sheath">이너시스 (Inner Sheath)</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>베딩 재질 선택</label>
+                                <select id="bedding_material" onchange="calculateAndDraw()"></select>
+                            </div>
+                            <div class="field-group">
+                                <label>★ 베딩 두께 (mm)</label>
+                                <input type="number" id="thick_bedding" value="1.2" step="0.1" min="0.2" max="10.0" onchange="calculateAndDraw()">
+                            </div>
+                        </div>
+                        <div class="field-group" style="margin-top:8px;" id="bedding_color_group">
+                            <label>베딩 색상 선택</label>
+                            <div class="color-chips-container" id="beddingColorContainer"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 12. 외장 -->
+                <div class="section-box">
+                    <div class="section-title">12. 외장</div>
+                    <div class="section-body">
+                        <div class="grid-3">
+                            <div class="field-group">
+                                <label>외장 재질</label>
+                                <select id="armour_material_new" onchange="calculateAndDraw()">
+                                    <option value="아연도철선" selected>아연도철선 (GI)</option>
+                                    <option value="알루미늄">알루미늄</option>
+                                    <option value="구리">구리</option>
+                                    <option value="철 (STA)">철 (STA)</option>
+                                    <option value="아라미드 얀">아라미드 얀</option>
+                                    <option value="폴리에스터 얀">폴리에스터 얀</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label>외장 형태</label>
+                                <select id="armour_type_new" onchange="syncDisabledInputs(); calculateAndDraw();">
+                                    <option value="미적용" selected>미적용</option>
+                                    <option value="SWA/AWA (횡권)">SWA/AWA (횡권)</option>
+                                    <option value="STA (테이프)">STA (테이프)</option>
+                                    <option value="편조 (Braid)">편조 (Braid)</option>
+                                </select>
+                            </div>
+                            <div class="field-group">
+                                <label id="armour_thick_label">★ 아머 두께 (mm)</label>
+                                <input type="number" id="thick_armour" value="1.0" step="0.1" min="0.1" max="10.0" onchange="calculateAndDraw()">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 13. 시스 -->
+                <div class="section-box">
+                    <div class="section-title">13. 시스</div>
+                    <div class="section-body">
+                        <div class="grid-3">
+                            <div class="field-group">
+                                <label>시스 재질</label>
+                                <select id="sheath_material" onchange="calculateAndDraw()"></select>
+                            </div>
+                            <div class="field-group">
+                                <label>★ 시스 두께 (mm)</label>
+                                <input type="number" id="thick_sheath" value="1.6" step="0.1" min="0" max="15.0" onchange="calculateAndDraw()">
+                            </div>
+                            <div class="field-group" style="grid-column: span 3; margin-top:8px;" id="sheath_color_group">
+                                <label>시스 색상 선택</label>
+                                <div class="color-chips-container" id="sheathColorContainer"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- 우측 메인 뷰어 영역 -->
+    <div class="main-viewer">
+        <div class="viewer-container">
+            <div class="viewer-header">
+                <!-- [3-1단계 수정] 불필요한 제품명 입력을 없애고 "단면도" 타이틀로 고정, 기존 지시선 엔진 호환용 히든 태그 장착 -->
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <span id="sectionDrawingTitle" style="font-size: 14px; font-weight: 800; color: #ffffff; letter-spacing: 0.3px;">0.6/1kV CABLE ENGINE 3C x 2.5SQ</span>
+                    <input type="hidden" id="cableTagDisplay" value="0.6/1kV CABLE ENGINE 3C x 2.5SQ">
+                </div>
+                <div style="display: flex; align-items: center; gap: 8px; margin-left: auto;">
+                    <label style="font-size: 11.5px; font-weight: 800; color: #ffffff; cursor: pointer; display: flex; align-items: center; gap: 4px; margin-bottom: 0; white-space: nowrap;">
+                        <input type="checkbox" id="show_labels" onchange="calculateAndDraw()" style="cursor:pointer;" checked>단면도 설명
+                    </label>
+                    <label style="font-size: 11.5px; font-weight: 800; color: #ffffff; cursor: pointer; display: flex; align-items: center; gap: 4px; margin-bottom: 0; white-space: nowrap;">
+                        <input type="checkbox" id="show_3d_view" style="cursor:pointer;" checked>3D 보기
+                    </label>
+                    <button class="btn-copy btn-gray-main" onclick="copySvgToClipboard()">2D 복사</button>
+                    <!-- 3D 단면도 제어 버튼: PPT 복사 → 3D 복사 → 3D 기본 → 회전모드 순서 -->
+                    <button class="btn-copy btn-gray-main" onclick="copySvgAsVectorToClipboard()">PPT 복사</button>
+                    <button class="btn-copy btn-viewer-teal btn-3d-control" id="btn_copy_3d_view" type="button" style="display:none;">3D 복사</button>
+                    <button class="btn-copy btn-viewer-teal btn-3d-control" id="btn_3d_default_view" type="button" style="display:none;">3D 기본</button>
+                    <!-- 회전 중에는 설명 번호를 숨기고, 3D 기본에서 설명 시점으로 복귀합니다. -->
+                    <button class="btn-copy btn-viewer-teal btn-3d-control" id="btn_3d_review_mode" type="button" style="display:none;">회전모드</button>
+                </div>
+            </div>
+            <div class="canvas-area canvas-area-3d-enabled">
+                <div class="canvas-wrapper-layout">
+                    <div id="canvas-2d-area" class="panel-area active">
+                        <svg id="cableSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 750" width="650" height="650" style="background-color: transparent;"><g id="mainGroup"></g></svg>
+                    </div>
+                    <div id="canvas-3d-area" class="panel-area hidden">
+                        <div id="cable3DContainer">
+                            <div id="labels3DOverlay"></div>
+                            <div id="threeMissingMessage" class="three-missing-message" style="display:none;">
+                                Three.js 파일이 없거나 아직 로드되지 않았습니다.<br>
+                                <b>lib/three.min.js</b>에 공식 r128 파일을 저장해 주세요.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="viewerVerticalResizer" class="viewer-vertical-resizer" role="separator" aria-label="단면도와 자재량계산 영역 높이 조절" aria-orientation="horizontal" tabindex="0">
+                <span></span>
+            </div>
+
+            <div class="table-area" id="tableArea">
+                <div id="calcPlaceholder" style="text-align: center; color: #64748b; padding: 35px 20px; font-weight: bold; font-size: 13px; line-height: 1.6;">
+                    왼쪽 하단의 <span style="color: #1e40af;">[재료비계산]</span> 버튼을 누르면<br>
+                    초정밀 기하 구조에 기반한 실시간 공정별 누적외경, 단면적, 소요자재량 및 재료비 연산서가 여기에 출력됩니다.
+                </div>
+
+                <!-- [3-2단계 수정] 동가 계산 및 고분자(절연,베딩,시스) 수동 자재단가 입력창 신설 -->
+                <div id="copper_price_calc_container" style="background-color: #f0f7ff; border: 1.5px solid #c0d6f2; padding: 10px; margin-bottom: 12px; border-radius: 8px; display: flex; flex-direction: column; gap: 8px; box-sizing: border-box; width: 100%;">
+                    <div style="font-weight: 800; color: #1e3a8a; font-size: 11px; width: 100%;">
+                        자재 단위 중량당 실시간 단가 연동 및 수동 조정 콘솔 (₩/kg)
+                    </div>
+                    
+                    <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-end; width: 100%;">
+                        <!-- Left: LME Input Fields -->
+                        <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; flex: 1;">
+                            <div style="display: flex; flex-direction: column; gap: 1px;">
+                                <label style="font-size: 9px; font-weight: 700; color: #475569;">전월 LME (USD/t)</label>
+                                <input type="number" id="lme_usd_t" value="13500" style="width: 80px; height: 22px !important; font-size: 10px !important; padding: 2px 4px !important; background-color: #fef9c3 !important; border: 1.5px solid #cbd5e1 !important; border-radius: 4px;">
+                            </div>
+                            <div style="display: flex; flex-direction: column; gap: 1px;">
+                                <label style="font-size: 9px; font-weight: 700; color: #475569;">SCR 가공비</label>
+                                <input type="number" id="scr_usd_t" value="415" style="width: 80px; height: 22px !important; font-size: 10px !important; padding: 2px 4px !important; background-color: #fef9c3 !important; border: 1.5px solid #cbd5e1 !important; border-radius: 4px;">
+                            </div>
+                            <div style="display: flex; flex-direction: column; gap: 1px;">
+                                <label style="font-size: 9px; font-weight: 700; color: #475569;">원달러 환율</label>
+                                <input type="number" id="exchange_rate" value="1500" style="width: 80px; height: 22px !important; font-size: 10px !important; padding: 2px 4px !important; background-color: #fef9c3 !important; border: 1.5px solid #cbd5e1 !important; border-radius: 4px;">
+                            </div>
+                            <div style="display: flex; flex-direction: column; gap: 2px;">
+                                <label style="font-size: 9px; font-weight: 700; color: #475569;">운임마크업 (%)</label>
+                                <input type="number" id="markup_rate" value="5" step="0.1" style="width: 60px; height: 26px !important; font-size: 11px !important; padding: 2px 4px !important; background-color: #fef9c3 !important; border: 1.5px solid #cbd5e1 !important; border-radius: 4px;">
+                            </div>
+                            <div style="display: flex; flex-direction: column; gap: 1px;">
+                                <label style="font-size: 9px; font-weight: 800; color: #be123c;">★ 동가(구리)</label>
+                                <input type="text" id="calculated_copper_price" readonly style="width: 95px; height: 22px !important; background-color: #fff1f2 !important; border: 1.5px solid #fecdd3 !important; border-radius: 4px !important; padding: 2px 6px !important; font-size: 10px !important; text-align: right; font-weight: 800; color: #be123c !important;">
+                            </div>
+                            <!-- [3-2단계 추가] 고분자 재질 실시간 단가 수정 에디터 주입 완료 -->
+                            <div style="display: flex; gap: 6px; align-items: center; border-left: 2px dashed #cbd5e1; padding-left: 10px;">
+                                <div style="display: flex; flex-direction: column; gap: 1px;">
+                                    <label style="font-size: 9px; font-weight: 800; color: #166534;">절연재 단가</label>
+                                    <input type="number" id="insu_base_price" value="3400" style="width: 75px; height: 22px !important; font-size: 10px !important; background-color: #fef9c3 !important; border: 1.5px solid #eab308 !important;">
+                                </div>
+                                <div style="display: flex; flex-direction: column; gap: 1px;">
+                                    <label style="font-size: 9px; font-weight: 800; color: #166534;">베딩재 단가</label>
+                                    <input type="number" id="bedding_base_price" value="2400" style="width: 75px; height: 22px !important; font-size: 10px !important; background-color: #fef9c3 !important; border: 1.5px solid #eab308 !important;">
+                                </div>
+                                <div style="display: flex; flex-direction: column; gap: 1px;">
+                                    <label style="font-size: 9px; font-weight: 800; color: #166534;">시스재 단가</label>
+                                    <input type="number" id="sheath_base_price" value="2800" style="width: 75px; height: 22px !important; font-size: 10px !important; background-color: #fef9c3 !important; border: 1.5px solid #eab308 !important;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Right: Buttons -->
+                    <div style="display: flex; gap: 6px; align-items: flex-end; margin-bottom: 2px;">
+                        <button class="btn-copy btn-ppt" style="background-color: #dc2626; padding: 6px 12px; font-size: 11px; font-weight: 800; border-radius: 4px; height: 28px; cursor: pointer; border: none; color: white;" onclick="runCableDesignCalculation()">단가변경계산</button>
+                        <button class="btn-copy" style="background-color: #64748b; padding: 6px 12px; font-size: 11px; font-weight: 800; border-radius: 4px; height: 28px; cursor: pointer; border: none; color: white;" onclick="copyTableToClipboard()">복사하기</button>
+                    </div>
+                </div>
+
+                <div id="calcTableContainer" style="display: none;">
+                    
+                    
+                    <!-- [3-2단계 수정] 3중 고정 Sticky 홀더 프레임 적용 완료 -->
+                    <div class="table-scroll-wrapper" style="max-height: 380px; overflow-y: auto; border: 1.5px solid var(--border-color); border-radius: 6px;">
+                        <table class="design-table" id="cableCalcTable" style="margin-top: 0; width: 100%;">
+                            <thead>
+                                <!-- 첫째 줄: Header 고정 -->
+                                <tr style="position: sticky; top: 0; z-index: 15;">
+                                    <th>공정명</th>
+                                    <th>자재명</th>
+                                    <th>두께 (mm)</th>
+                                    <th>누적외경 (mm)</th>
+                                    <th>단면적 (mm²)</th>
+                                    <th>연입율 (%)</th>
+                                    <th>비중 (g/cm³)</th>
+                                    <th>자재량 (kg/km)</th>
+                                    <th>단가 (원/kg)</th>
+                                    <th>로스율 (%)</th>
+                                    <th>재료비 (원/m)</th>
+                                </tr>
+                                <!-- [3-2단계 수정] 테이블의 둘째 줄에 합계 행을 강제 승격 배치하여 헤더와 동시에 고정 완료 -->
+                                <tr id="tableHeaderTotalRow" style="position: sticky; top: 22px; z-index: 15; background-color: #1e293b !important; color: #ffffff !important; font-weight: 800; height: 32px !important;">
+                                    <td colspan="3" style="background-color: #1e293b !important; color: #60a5fa !important; font-size: 10.5px; text-align: center; border-bottom: 1.5px solid #475569;" id="table_final_od">최종 완성 외경: - mm</td>
+                                    <td colspan="4" style="background-color: #1e293b !important; color: #ffffff !important; font-size: 10.5px; text-align: center; border-bottom: 1.5px solid #475569;">총 제조원가 합계:</td>
+                                    <td colspan="4" style="background-color: #1e293b !important; color: #f87171 !important; font-size: 11px !important; text-align: right; font-weight: 900; padding-right: 12px !important; border-bottom: 1.5px solid #475569;" id="table_final_cost">0</td>
+                                </tr>
+                            </thead>
+                            <tbody id="resultTableBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 외부 데이터 및 자바스크립트 스크립트 결합 -->
+<script src="full-spec-storage.js?v=20260723-2"></script>
+<script src="conductor-standard-ui.js?v=20260723-astm-solid-a"></script>
+<script src="main-full-spec.js?v=20260916-performance-overview-1"></script>
+<script src="conductor-db.js?v=20260723-astm-source-db"></script>
+<script src="db.js?v=20260723-astm-solid-a"></script>
+<script src="cable-state.js"></script>
+<script src="conductor-utils.js?v=20260723-main-tech-sync"></script>
+    <script src="shared-material-engine.js?v=20260911-stability-1"></script>
+    <script src="cable-calc.js?v=20260911-stability-1"></script>
+<script src="cable-draw.js?v=20260915-white-insulation-outline-1"></script>
+<script src="lib/three.min.js"></script>
+<script src="cable-3d-renderer.js?v=20260724-3d-review-ui"></script>
+<script src="cable-ui.js?v=20260723-main-tech-sync"></script>
+<script src="excel-paste-addon.js?v=20260723-2"></script>
+<script src="viewer-resizer.js?v=20260723-1"></script>
+
+
+</body>
+</html>

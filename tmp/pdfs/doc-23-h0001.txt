@@ -1,0 +1,5637 @@
+PAGES: 64\n\n--- PAGE 1 ---\n\n\n--- PAGE 2 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 2 / 64 
+ 
+ 
+INDEX 
+ 
+1. Scope ................................................................................................................................. 3 
+2. Applicable Standard .......................................................................................................... 3 
+3. Cable type and designation ................................................................................................ 4 
+4. Test items and method ....................................................................................................... 6 
+5. Mechanical & Electrical Properties..................................................................................... 7 
+6. Cable marking ................................................................................................................... 8 
+7. Drum Marking ................................................................................................................... 9 
+8. Packing ............................................................................................................................. 9 
+9. Construction and Material ................................................................................................. 9 
+10. Technical information .................................................................................................... 56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 3 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 3 / 64 
+ 
+1. Scope 
+This specification covers the minimum requirement of the halogen free cables in accordance with IEC 
+60092-350, -352, -353, -354, -360, -376 and relevant standards. 
+ 
+2. Applicable Standard 
+IEC 60228        (2004) Conductors of insulated cables   
+IEC 60092-350 (2020) Electrical installations in ships. Part 350: Shipboard power cables  
+- General construction and test requirements    
+IEC 60092-352 (2005) Electrical installations in ships   
+Part 352: Choice and installation of cables for low-voltage power systems    
+IEC 60092-353 (2016) Electrical installations in ships   
+Part 353: Power cables for rated voltages 1 kV and 3 kV   
+IEC 60092-360 (2021) Electrical installations in ships  
+ Part 360: Insulating and sheathing materials for shipboard and offshore 
+units, power, control, instrumentation and telecommunication cables 
+  
+IEC 60092-354 (2020) Electrical installations in ships  
+ Part 354: Single - and three -core power cables with extruded solid 
+insulation for rated voltages 6 kV (Um = 7,2 kV) up to 30 kV (Um = 36 kV) 
+  
+IEC 60092-376 (2017) Electrical installations in ships  
+Part 376: Cables for control and instrumentation circuits 150/250V(300 V)  
+    
+ 
+IEC 60332-1-2  (2015) Tests on electric and optical fibre cables under fire conditions - Part 1-2: 
+Test for vertical flame propagation for a single insulatedwire or cable -  
+Procedure for 1 kW pre-mixed flame   
+IEC 60332-3-22 (2018) Tests on electric cables under fire conditions -  
+Part 3 -22: Test for vertical flame spread of vertically -mounted bunched 
+wires or cables - Category A   
+IEC 60331-1      (2018) Tests for electric cables under fire conditions - Circuit integrity   
+Test method for fire with shock at a temperature of at least    
+at 830 °C for cables of rated voltage up to and including 0,6/1,0 kV and  with 
+an overall diameter exceeding 20 mm   
+IEC 60331-2      (2018) Tests for electric cables under fire conditions - Circuit integrity   
+Test method for fire with shock at a temperature of at least 830 °C for 
+cables of rated voltage up to and including 0,6/1,0 kV and with an overall 
+diameter not exceeding 20 mm   
+IEC 60331-21      (1999) Tests for electric cables under fire conditions ;  
+Procedures and requirements – Cables of rated voltage up to and including 
+0.6/1kV   
+IEC 61034-1,2     (2019) Measurement of smoke density of cables burning under defined conditions   
+IEC 60754-1,2     (2019) Test on gases evolved during combustion of materials from cables   \n\n--- PAGE 4 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 4 / 64 
+ 
+IEEE 1580          (2021) IEEE Recommended Practice for Marine Cable for Use on Shipboard and 
+Fixed or Floating Facilities  
+ 
+ 
+UL 1581              (2017) Reference Standard for Electrical Wires, Cables, and Flexible Cords 
+  
+LSGS-11-RC0101 LS cable Specification for XLPE insulated SHF1 sheathed cable 
+  
+LSGS-16-RC0056 LS cable Specification for XLPE insulated SHF1 sheathed cable 
+ 
+3. Cable type and designation 
+ 
+3.1 Cable designation for power, control, instrument cable 
+No. Component Letter Material & construction Reference Standard 
+1 Conductor 
+- Stranded annealed copper (Class 2) 
+IEC 60228 
+FX- Flexible annealed copper (Class 5) 
+2 - 
+F- Flame Retardant Cables IEC 60332-3 CAT.A 
+FRT- Fire Resistant & Flame Retardant Cables IEC 60331, IEC 60332-3 CAT.A 
+3 - 
+S Single core 
+ 
+D Double core 
+T Three core 
+F Four core 
+M Multi core 
+TT Telephone (Twisted pair/triad/quad cable) 
+4 Insulation C XLPE insulation IEC 60092-360 
+5 
+Inner sheath O SHF1 (Thermoplastic Halogen Free) IEC 60092-360 
+Inner covering - Taped inner covering IEC 60092-350 
+6 Armor 
+C Galvanized steel wire braid 
+ CB Copper wire braid 
+BB Copper alloy wire braid 
+TB Tinned annealed copper wire braid 
+7 Outer Sheath O SHF1 (Thermoplastic Halogen Free) IEC 60092-360 
+8 
+Shield 
+(C) Common shield 
+IEC 60092-376 (I) Individual shield 
+(I/C) Individual & Common shield 
+Earth E Earth core  
+VFD (VFD) Variable Frequency Drive IEEE 1580 
+Earthing cable GO Flame Retardant  
+only SHF1 sheathed cable IEC 60092-360, IEC 60332-3A 
+ \n\n--- PAGE 5 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 5 / 64 
+ 
+3.2 Cable types 
+ Voltage 
+rating Cable Code letter Table 
+Flame retardant 
+Un-Armoured 
+0.6/1kV F-SCO, DCO, DCO(C), TCO, TCO(C), FCO, FCO(C) , DCOE, TCOE, FCOE , MCO, MCO(C), MCOE, 
+MCOE(C) B 
+250V 
+F-MCO, MCO(C) C 
+F-TTCO, TTCO(C), TTCO(I), TTCO(I/C) D 
+0.6/1kV F-GO E 
+Armoure & Sheathed 
+0.6/1kV F-TCOTBO(VFD) A 
+0.6/1kV F-SCOTBO, DCOTBO, DCOTBO(C), TCOTBO, TCOTBO(C), FCOTBO, FCOTBO(C), 
+DCOTBOE, TCOTBOE, FCOTBOE, MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C) B 
+250V 
+F-MCOTBO, MCOTBO(C) C 
+F-TTCOTBO, TTCOTBO(C), TTCOTBO(I), TTCOTBO(I/C) D 
+Fire resistant & Flame retardant 
+Un-Armoured 
+0.6/1kV FRT-SCO, DCO, DCO(C), TCO, TCO(C), FCO, FCO(C) , DCOE, TCOE, FCOE, MCO, MCO(C), MCOE, 
+MCOE(C) F 
+250V 
+FRT-MCO, MCO(C) G 
+FRT-TTCO, TTCO(C), TTCO(I), TTCO(I/C) H 
+Armoure & Sheathed 
+0.6/1kV FRT-SCOTBO, DCOTBO, DCOTBO(C), TCOTBO, TCOTBO(C), FCOTBO, FCOTBO(C), 
+DCOTBOE, TCOTBOE, FCOTBOE, MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C) F 
+0.6/1kV FRT-TCOTBO(VFD) I 
+250V 
+FRT-MCOTBO, MCOTBO(C) G 
+FRT-TTCOTBO, TTCOTBO(C), TTCOTBO(I), TTCOTBO(I/C) H 
+* For VFD Cable, depending on the nominal voltage rating and the reflected voltage, over insulated conductor ratings 
+is considered. It should have an overall non-ferrous shield with a coverage of 100%. The purpose of thisoverall shield is to minimize 
+EMI emissions. The insulation material used on these cables have a dielectric constant less than 3.0 to reduce cable capacitance. 
+ 
+3.3 Core identification and information of cable types 
+Cable Voltage 
+rating Cable Code  Core Identification & 
+Information of cable types 
+Sheath 
+Color 
+VFD 0.6/1kV 
+F- or FRT 
+ 
+TCOTBO(VFD) 
+1. Core identification  
+- 3 Core : Brown, Black, Grey 
+- Earth Core : Green/yellow 
+ 
+2. Screen tape : Copper/polyester tape + Tinned copper wire braid 
+Black 
+LV 
+Power 
+/ 
+Control 
+0.6/1kV  
+250V 
+F- or FRT- 
+ 
+SCO.. 
+DCO.. 
+TCO... 
+FCO… 
+MCO… 
+1. Core identification  
+- Brown(L1), Black(L2), Grey(L3), Blue(Neutral) 
+- Single phase & Neutral : Brown(L1), Blue(Neutral) 
+- D.C : Red(Positive), White(Negative) 
+- 1 Core : Black 
+- Multi core type (MCO..) : White with number (1, 2, 3…) 
+- Earth Core : Green/yellow 
+ 
+2. Screen tape : Copper/polyester tape 
+Black 
+Instrument 250V 
+F- or FRT- 
+ 
+TTCO… 
+1. Core identification 
+- Pair   : Black, White with number  (1, 2, 3 …) 
+- Triad : Black, White, Red with number  (1, 2, 3 …) 
+ 
+2. Screen tape : Copper/polyester tape 
+Grey 
+* Note. According to customer requirement, cable identification can be applied primarily. \n\n--- PAGE 6 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 6 / 64 
+ 
+4. Test items and method 
+The following test shall be carried out in accordance with IEC 60092-350,-353,-354,-376 and this spec. 
+ 
+4.1 Routine test 
+Clause Test Item Test Method Remark 
+4.1.1 Conductor resistance test IEC 60092-350, 5.2.2  
+4.1.2 Voltage test IEC 60092-350, 5.2.3  
+4.1.3 
+Insulation resistance test IEC 60092-350, 6.9 LV cable only 
+(Except F-GO cable) 
+Screen insulation resistance IEC 60092-376, 17.1 Instrument cable 
+only 
+ 
+4.2. Sample test 
+Clause Test Item Test Method Remark 
+4.2.1 Conductor examination test IEC 60092-350, 6.4  
+4.2.2 Check of dimension test IEC 60092-350,6.5~6.7  
+4.2.3 Hot set test IEC 60092-350, 6.8  
+ 
+4.3. Type test, Electrical 
+Clause Test item Test Method Remark 
+4.3.1 Insulation resistance at room temperature IEC 60092-350, 7.2.1 Except F-GO cable 
+4.3.2 Insulation resistance at operating temperature IEC 60092-350, 7.2.2 Except F-GO cable 
+4.3.3 Increase in a.c capacity after  immersion in water test IEC 60092-350, 7.3  
+4.3.4 High voltage test for 4h IEC 60092-350, 7.4 LV cable only 
+4.3.5 Mutual capacitance test IEC 60092-350, 7.5 Control & 
+Instrument cable 
+only 4.3.6 The inductance to resistance ratio IEC 60092-350, 7.6 
+ 
+4.4. Type test, Non-Electrical 
+Clause Test item Test Method Remark 
+4.4.1 Non-electrical characteristics of insulation IEC 60092-360  
+4.4.2 Non-electrical characteristics of sheath IEC 60092-360  
+4.4.3 Measurement of thickness of insulation IEC 60092-350, 8.2  
+4.4.4 Measurement of thickness of sheath IEC 60092-350, 8.3  
+4.4.5 Additional ageing test(compatibility test) IEC 60092-350, 8.6  
+4.4.6 Test for the behavior of sheath at high temperature IEC 60092-350, 8.8  
+4.4.7 Test for the behavior of sheath at low temperature IEC 60092-350, 8.9  
+4.4.8 Test for the metal coating of copper wire IEC 60092-350, 8.11  
+4.4.9 Test for resistance of halogen-free SHF1 sheaths to 
+cracking (heat shock test) IEC 60092-350, 8.13  
+4.4.10 Flammability test IEC 60332-1-2  
+4.4.11 Flame retardant test IEC 60332-3-22 Cat. A  \n\n--- PAGE 7 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 7 / 64 
+ 
+Clause Test item Test Method Remark 
+4.4.12 Fire resistance test IEC 60331-1 & 2 “FRT-” type only 
+4.4.13 Fluorine content test (Max. 0.1%) IEC 60684-2  
+4.4.14 Smoke emission test(Min. 60%) IEC 61034-1, 2  
+4.4.15 Halogen gas emission test(Max. 0.5%) IEC 60754-1  
+4.4.16 pH and conductivity test IEC 60754-2  
+4.4.17 Durability of print IEC 60092-350, 8.20  
+4.4.18 UV degradation accelerated test JCA 130 For lighting cables 
+4.4.19 Sunlight(UV) resistant test UL 1581 Sheath only 
+ 
+5. Mechanical & Electrical Properties 
+5.1 Insulation (Comply with IEC 60092-360) 
+Description Unit XLPE 
+Maximum rated conductor temperature  ℃ 90 
+A. Without aging    
+1. Min. Tensile strength N/㎟ 12.5 
+2. Min. Elongation at break  % 200 
+B. After aging in air oven without copper conductor (135±3℃/ 168hrs)    
+1. Max. variation for Tensile strength              % ±25 
+2. Max. variation for Elongation at rupture         % ±25 
+C. Hot set test (200℃±3℃/10min., 20N/㎠)    
+1. Max. Elongation under load  % 175 
+2. Max. Elongation after cooling  % 15 
+D. Compatibility test (100℃±2℃ / 168hrs)   
+1. The variation of Tensile strength  % 25 
+2. The variation of Elongation at rupture % 25 
+E. Determination of degree of acidity (IEC 60754-2)   
+1. Min. PH  - 4.3 
+2. Max. conductivity  ㎲/mm 10 
+F. Amount of halogen acid gas:   
+1. Max. HCl and HBr (IEC 60754-1) % 0.5 
+2. Max. HF (IEC 60684-2:2011) % 0.1 
+G. Min. Constant for Insulation resistance    
+1. at 20℃ - 3670 
+2. at 90℃ - 3.67 
+ \n\n--- PAGE 8 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 8 / 64 
+ 
+5.2 Outer Sheath (Comply with IEC 60092-360)  
+ 
+Description Unit SHF1 
+A. Without aging    
+1. Min. Tensile strength     N/㎟ 9 
+2. Min. Elongation at break  % 120 
+B. After aging in air oven (100℃±2 /168hr)    
+1. Min. Tensile strength 
+-  Max. variation for Tensile strength              
+N/mm2 
+% 
+7.0 
+±30 
+2. Min. Elongation at break 
+- Max. variation for Elongation at rupture         
+% 
+% 
+110 
+±30 
+C. Pressure test at high temperature    
+1. Max. permissible deformation (80℃±2/ 4hr : dia. ≤12.5mm) % 50 
+2. Max. permissible deformation (80℃±2/ 6hr : dia. >12.5mm) % 50 
+D. Heat shock test (150 ℃±3/1hr) - No crack 
+E. Behavior at low temperature   
+1. Cold bending test (-15℃±2 /16hr) : dia. ≤12.5mm - No crack 
+2. Min. Elongation (-15℃ ±2 /4hr) : dia. > 12.5mm % 30 
+3. Cold impact test (-15℃ ±2 /16hr) - No crack 
+F. Determination of degree of acidity (IEC 60754-2)   
+1. Min. PH  - 4.3 
+2. Max. conductivity  ㎲/mm 10 
+G. Amount of halogen acid gas   
+1. Max. HCl and HBr (IEC 60754-1) % 0.5 
+2. Max. HF (IEC 60684-2:2011) % 0.1 
+H. After oil immersion (ASTM No.2/ IRM 902, 70 ℃±1/4hr)   
+1. Max. variation for Tensile strength % ±40 
+2. Max. variation for Elongation at rupture % ±40 
+ 
+6. Cable marking 
+The following information shall be printed on the surface of the cable through the length of cable  
+at least 1m interval. 
+ 
+- Voltage rating 
+- Cable type 
+- Numbers  of core(s), pair(s) or triad(s) and Conductor size 
+- Manufacturer’s name 
+- Year of Manufacture 
+- Application standard (if necessary) 
+- Length (in every meter) \n\n--- PAGE 9 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 9 / 64 
+ 
+ 
+* Example. 
+0.6/1kV F-TCOTBO 3C X 4SQMM LS CABLE [YEAR] IEC 60332-3A 0001M  
+ 
+* Note. Cable identification & Marking according to customer requirement can be applied primarily. 
+ 
+7. Drum Marking 
+The metallic labels reporting the  following information shall be attached on the flange surface of the 
+wooden drum. 
+ 
+- Project name  
+- Voltage rating/ Cable type 
+- Numbers of core(s), pair(s) or triad(s) 
+- Conductor size 
+- Manufacturer’s name 
+- Length 
+- Drum length 
+- Net & Gross weight 
+- End point  
+- Arrow of Rolling direction 
+ 
+8. Packing 
+Each end of each cable shall be hermetically sealed with a cap, or other suitable means, to protect against 
+the ingress of moisture. Cable shall be packed so completely as not to be damaged during transportation 
+or storage. 
+ 
+9. Construction and Material 
+The construction and material of cable shall be given in the following table. 
+ 
+* Note: Where these cables are terminated within designated hazardous areas in ships or offshore units, 
+special gas barrier glands are to be used to achieve the appropriate seal, such that gas can not migrate 
+through the cables as per 3.16 and 4.6 of IEC 60092-350. 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 10 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 10 / 64 
+ 
+0.6/1kV   
+F-TCOTBO(VFD) 
+ 
+  
+[LV VFD CABLES, FLAME RETARDANT] 
+[TABLE. A]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+ - Base Std.  : IEC 60092-350, 353 
+ - Insulation : IEC 60092-360 XLPE 
+ - Sheath                 : IEC 60092-360 SHF1 
+ - Flame retardant : IEC 60332-3-22 (Cat.A) 
+ - HCl gas emission : IEC 60754-1 (Max.0.5%) 
+ - Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2   
+Insulation XLPE to IEC 60092-360   C 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Inner sheath SHF1 to IEC 60092-360 O 
+Armour 
+(Concentric shield) Copper/polyester tape + Tinned copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 11 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 11 / 64 
+ 
+TABLE. A  0.6/1kV F-TCOTBO(VFD)  3C+3E 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight Size Max.  
+O.D. 
+No. SQMM mm mm mm mm mm mm mm mm mm kg/km 
+3C 10 4.2  2.0  1.4 19.5 1.0  0.3  1.1  23.2  1.2  1,060  3E 4 2.7  0.7  
+3C 16 5.3  2.0  1.5 22.1  1.2  0.3  1.1  25.8  1.3  1,380  3E 6 3.3  0.7  
+3C 25 6.6  2.0  1.6 24.7  1.3  0.3  1.2  28.6  1.5   1,730  3E 6 3.3  0.7  
+3C 35 7.9  2.0  1.7 27.3  1.4  0.3  1.3  31.4  1.6  2,220  3E 6 3.3  0.7  
+3C 50 9.1  2.0  1.8 30.4  1.6  0.4 1.4  35.2  1.8  2,810  3E 10 4.2  0.7  
+3C 70 11.0 2.0  2.0 34.6  1.8  0.4  1.5  39.6  2.0  3,910  3E 16 5.3  0.7  
+3C 95 12.9 2.0  2.1 38.9  2.0 0.4  1.6  44.1  2.3  4,790  3E 16 5.3  0.7  
+3C 120 14.5  2.0  2.3 42.7  2.2  0.4  1.7  48.1  2.5   5,880  3E 25 6.6  0.9  
+3C 150 16.2  2.0  2.4 46.2  2.4  0.4  1.8  51.8  2.6  6,930  3E 25 6.6  0.9  
+3C 185 18.0  2.0  2.6 50.6  2.6  0.4  1.9  56.4  2.9  8,400  3E 35 7.9  0.9  
+3C 240 20.6  2.0  2.8 56.5  2.9  0.4  2.0  62.5  3.2  10,620  3E 50 9.1  1.0  
+3C 300 23.1  2.0  3.0 62.0  3.2 0.4 2.2  68.4  3.5  12,680 3E 50 9.1  1.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 12 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 12 / 64 
+ 
+0.6/1kV   
+F-SCO, DCO, DCO(C), TCO, TCO(C), FCO, FCO(C) 
+F-DCOE, TCOE, FCOE, MCO, MCO(C), MCOE, MCOE(C) 
+F-SCOTBO, DCOTBO, DCOTBO(C), TCOTBO, TCOTBO(C), 
+F-FCOTBO, FCOTBO(C), DCOTBOE, TCOTBOE, FCOTBOE, 
+F-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C) 
+ 
+[LV  POWER & CONTROL CABLES, FLAME RETARDANT] 
+[TABLE. B]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+ - Base Std.  : IEC 60092-350, 353 
+ - Insulation : IEC 60092-360 XLPE 
+ - Sheath                 : IEC 60092-360 SHF1 
+ - Flame retardant : IEC 60332-3-22 (Cat.A) 
+ - HCl gas emission : IEC 60754-1 (Max.0.5%) 
+ - Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor 
+Stranded annealed copper conductor to IEC 60228, Class 2   
+Flexible annealed copper conductor to IEC 60228, Class 5 (Only for Table B1, B4) FX- 
+Insulation XLPE to IEC 60092-360   C 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Overall screen Copper/polyester tape with drain wire  
+* (C) type only (C) 
+Inner sheath SHF1 to IEC 60092-360 O 
+Armor Tinned annealed copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+\n\n--- PAGE 13 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 13 / 64 
+ 
+TABLE. B1  0.6/1kV  ① F-SCO,  ② F-SCOTBO 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1C 
+(Class 2) 
+1.5 1.7  0.7  1.0  5.0  0.6  50  0.2  0.8  7.6  0.7  120  
+2.5 2.2  0.7  1.0  5.4  0.7  60  0.2  0.8  8.0  0.7  140  
+4 2.7  0.7  1.0  5.9  0.7  80  0.2  0.8  8.5  0.8  160  
+6 3.3  0.7  1.0  6.4  0.7  100  0.2  0.8  9.0  0.8  180  
+10 4.2  0.7  1.0  7.4  0.7  140  0.2  0.8  10.0  0.8  240  
+16 5.3  0.7  1.0  8.4  0.8  200  0.2  0.8  11.0  0.8  310  
+25 6.6  0.9  1.1  10.3  0.8  300  0.3  0.8  13.4  0.9  440  
+35 7.9  0.9  1.1  11.4  0.8  390  0.3  0.9  14.7  0.9  550  
+50 9.1  1.0  1.2  13.1  0.9  530  0.3  0.9  16.4  1.0  700  
+70 11.0  1.1  1.3  15.3  1.0  740  0.3  1.0  18.8  1.1  950  
+95 12.9  1.1  1.3  17.1  1.0  980  0.3  1.0  20.6  1.1  1,220  
+120 14.5  1.2  1.4  19.1  1.1  1230  0.3  1.1  22.8  1.2  1,500  
+150 16.2  1.4  1.5  21.2  1.1  1510  0.3  1.1  24.9  1.2  1,810  
+185 18.0  1.6  1.6  23.6  1.2  1880  0.3  1.2  27.5  1.3  2,220  
+240  20.6  1.7  1.7  26.6  1.3  2440  0.3  1.3  30.7  1.4  2,840  
+300  23.1  1.8  1.8  29.3  1.4  3030  0.3  1.3  33.4  1.5  3,470  
+400  26.1 2.0  1.9  32.8  1.5  3840  0.4  1.4  37.6  1.6  4,430  
+500  29.2 2.2  2.1  36.9  1.6  4910  0.4  1.5  41.9  1.8  5,590  
+630  33.2 2.4  2.2  41.4  1.7  6280  0.4  1.6  46.6  1.9  7,060  
+1C 
+(Class 5) 
+95 15.1 1.1 1.3 19.0 1.3 1,000  0.3 1.0 22.5 1.4 1,290  
+240 24.0 1.7 1.6 28.8 1.7 2,410  0.3 1.2 32.7 1.8 2,870  
+ 
+ 
+TABLE. B2  0.6/1kV  ① F-DCO, F-DCO(C)  ② F-DCOTBO, F-DCOTBO(C) 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2C 
+1.5 1.7  0.7  1.0  7.8  0.7  90  0.2  0.8  10.4  0.8  190  
+2.5 2.2  0.7  1.0  8.6  0.8  110  0.2  0.8  11.2  0.8  220  
+4 2.7  0.7  1.1  9.9  0.8  160  0.2  0.8  12.5  0.9  280  
+6 3.3  0.7  1.1  10.9  0.8  200  0.3  0.9  14.2  0.9  340  
+10 4.2  0.7  1.2  13.0  0.9  300  0.3  0.9  16.3  1.0  460  
+16 5.3  0.7  1.3  15.3  1.0  450  0.3  1.0  18.8  1.1  640  
+25 6.6  0.9  1.4  18.9  1.1  670  0.3  1.1  22.6  1.2  920  
+35 7.9  0.9  1.5  21.3  1.1  890  0.3  1.1  25.0  1.2  1,170  
+50 9.1  1.0  1.6  24.5  1.2  1190  0.3  1.2  28.4  1.4  1,520  
+70 11.0  1.1  1.8  28.8  1.4  1670  0.3  1.3  32.9  1.5  2,070  
+95 12.9  1.1  1.9  32.8  1.5  2250  0.4  1.4  37.6  1.6  2,800  
+120 14.5  1.2  2.1  36.8  1.6  2820  0.4  1.5  41.8  1.8  3,460  
+150 16.2  1.4  2.2  40.8  1.7  3450  0.4  1.6  46.0  1.9  4,170  
+185 18.0  1.6  2.4  45.6  1.9  4310  0.4  1.7  51.0  2.0  5,140  
+240  20.6  1.7  2.6  51.5  2.0  5580  0.4  1.9  57.3  2.2  6,560  
+300  23.1  1.8  2.8  57.0  2.2  6930  0.4  2.0  63.0  2.4  8,040  
+ 
+ 
+ 
+ \n\n--- PAGE 14 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 14 / 64 
+ 
+TABLE. B3  0.6/1kV ① F-TCO, F-TCO(C)  ② F-TCOTBO, F-TCOTBO(C) 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+3C 
+1.5 1.7  0.7  1.0  8.2  0.7  110  0.2  0.8  10.8  0.8  210  
+2.5 2.2  0.7  1.0  9.1  0.8  140  0.2  0.8  11.7  0.9  260  
+4 2.7  0.7  1.1  10.4  0.8  200  0.3  0.8  13.5  0.9  330  
+6 3.3  0.7  1.1  11.6  0.8  260  0.3  0.9  14.9  0.9  410  
+10 4.2  0.7  1.2  13.7  0.9  400  0.3  0.9  17.0  1.0  570  
+16 5.3  0.7  1.3  16.3  1.0  600  0.3  1.0  19.8  1.1  800  
+25 6.6  0.9  1.4  20.1  1.1  910  0.3  1.1  23.8  1.2  1,180  
+35 7.9  0.9  1.5  22.7  1.2  1220  0.3  1.2  26.6  1.3  1,520  
+50 9.1  1.0  1.7  26.3  1.3  1640  0.3  1.2  30.2  1.4  1,990  
+70 11.0  1.1  1.8  30.7  1.4  2300  0.4  1.4  35.5  1.6  2,820  
+95 12.9  1.1  2.0  35.2  1.6  3120  0.4  1.5  40.2  1.7  3,730  
+120 14.5  1.2  2.2  39.4  1.7  3920  0.4  1.6  44.6  1.8  4,620  
+150 16.2  1.4  2.3  43.7  1.8  4800  0.4  1.7  49.1  2.0  5,600  
+185 18.0  1.6  2.5  48.8  2.0  6000  0.4  1.8  54.4  2.1  6,900  
+240  20.6  1.7  2.7  55.1  2.2  7780  0.4  2.0  61.1  2.3  8,860  
+300  23.1  1.8  3.0  61.3  2.3  9710  0.4  2.1  67.5  2.5  10,930  
+ 
+ 
+TABLE. B4  0.6/1kV ① F-FCO, F-FCO(C)  ② F-FCOTBO, F-FCOTBO(C) 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+4C 
+(Class 2) 
+1.5 1.7  0.7  1.0  8.9  0.8  130  0.2  0.8  11.5  0.8  240  
+2.5 2.2  0.7  1.1  10.2  0.8  180  0.3  0.8  13.3  0.9  310  
+4 2.7  0.7  1.1  11.4  0.8  250  0.3  0.9  14.7  0.9  390  
+6 3.3  0.7  1.2  12.9  0.9  340  0.3  0.9  16.2  1.0  500  
+10 4.2  0.7  1.3  15.3  1.0  520  0.3  1.0  18.8  1.1  710  
+16 5.3  0.7  1.4  18.1  1.0  770  0.3  1.0  21.6  1.1  1,000  
+25 6.6  0.9  1.5  22.3  1.2  1180  0.3  1.1  26.0  1.3  1,470  
+35 7.9  0.9  1.6  25.2  1.3  1580  0.3  1.2  29.1  1.4  1,920  
+50 9.1  1.0  1.8  29.3  1.4  2130  0.3  1.3  33.4  1.5  2,530  
+70 11.0  1.1  2.0  34.3  1.5  3010  0.4  1.5  39.3  1.7  3,610  
+95 12.9  1.1  2.1  39.1  1.7  4060  0.4  1.6  44.3  1.8  4,760  
+120 14.5  1.2  2.3  43.8  1.8  5110  0.4  1.7  49.2  2.0  5,900  
+150 16.2  1.4  2.5  48.8  2.0  6290  0.4  1.8  54.4  2.1  7,190  
+185 18.0  1.6  2.7  54.5  2.1  7840  0.4  2.0  60.5  2.3  8,910  
+240  20.6  1.7  3.0  61.7  2.4  10220  0.4  2.1  67.9  2.5  11,450  
+300  23.1  1.8  3.2  68.3  2.5  12700  0.4  2.3  74.9  2.7  14,130  
+4C 
+(Class 5) 70 13.1 1.1 1.9 38.5 2.0 3,140  0.4 1.4 43.3 2.2 3,930  
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 15 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 15 / 64 
+ 
+TABLE. B5  0.6/1kV  ① F-DCOE  ② F-DCOTBOE 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2C+E 
+1.5 1.7  0.7  1.0  8.2  0.7  100  0.2  0.8  10.8  0.8  210  
+2.5 2.2  0.7  1.0  9.1  0.8  140  0.2  0.8  11.7  0.9  250  
+4 2.7  0.7  1.1  10.4  0.8  200  0.3  0.8  13.5  0.9  320  
+6 3.3  0.7  1.1  11.6  0.8  260  0.3  0.9  14.9  0.9  410  
+10 4.2  0.7  1.2  13.7  0.9  390  0.3  0.9  17.0  1.0  560  
+16 5.3  0.7  1.3  16.3  1.0  590  0.3  1.0  19.8  1.1  800  
+25 6.6  0.9  1.4  19.3  1.1  830  0.3  1.1  23.0  1.2  1,080  
+35 7.9  0.9  1.5  22.1  1.2  1,150  0.3  1.1  25.8  1.3  1,430  
+50 9.1  1.0  1.6  24.9  1.2  1,430  0.3  1.2  28.8  1.4  1,590  
+70 11.0  1.1  1.8  29.8  1.4  2,130  0.3  1.3  33.9  1.5  2,550  
+95 12.9  1.1  1.9  33.2  1.5  2,690  0.4  1.4  38.0  1.6  3,250  
+120 14.5  1.2  2.1  37.5  1.6  3,470  0.4  1.5  42.5  1.8  4,120  
+150 16.2  1.4  2.2  41.8  1.8  4,350  0.4  1.6  47.0  1.9  5,090  
+185 18.0  1.6  2.4  45.9  1.9  5,180  0.4  1.7  51.3  2.0  6,010  
+240  20.6  1.7  2.6  51.8  2.1  6,670  0.4  1.9  57.6  2.2  7,660  
+300  23.1  1.8  2.8  57.4  2.2  8,280  0.4  2.0  63.4  2.4  9,390  
+ 
+ 
+TABLE. B6  0.6/1kV  ① F-TCOE  ② F-TCOTBOE 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+3C+E 
+1.5 1.7  0.7  1.0  8.9  0.8  130  0.2  0.8  11.5  0.8  240  
+2.5 2.2  0.7  1.1  10.2  0.8  180  0.3  0.8  13.3  0.9  300  
+4 2.7  0.7  1.1  11.4  0.8  250  0.3  0.9  14.7  0.9  390  
+6 3.3  0.7  1.2  12.9  0.9  340  0.3  0.9  16.2  1.0  500  
+10 4.2  0.7  1.3  15.3  1.0  510  0.3  1.0  18.8  1.1  710  
+16 5.3  0.7  1.4  18.1  1.0  770  0.3  1.0  21.6  1.1  1,000  
+25 6.6  0.9  1.5  21.6  1.1  1,110  0.3  1.1  25.3  1.3  1,390  
+35 7.9  0.9  1.6  24.8  1.2  1,520  0.3  1.2  28.7  1.4  1,850  
+50 9.1  1.0  1.7  28.0  1.3  1,930  0.3  1.3  32.1  1.5  2,120  
+70 11.0  1.1  1.9  33.3  1.5  2,850  0.4  1.4  38.1  1.6  3,410  
+95 12.9  1.1  2.1  37.6  1.6  3,680  0.4  1.5  42.6  1.8  4,330  
+120 14.5  1.2  2.3  42.3  1.8  4,670  0.4  1.7  47.7  1.9  5,440  
+150 16.2  1.4  2.4  47.1  1.9  5,840  0.4  1.8  52.7  2.1  6,720  
+185 18.0  1.6  2.6  51.9  2.1  7,040  0.4  1.9  57.7  2.2  8,020  
+240  20.6  1.7  2.9  58.7  2.3  9,130  0.4  2.1  64.9  2.4  10,300  
+300  23.1  1.8  3.1  65.0  2.4  11,280  0.4  2.2  71.4  2.6  12,610  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 16 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 16 / 64 
+ 
+TABLE. B7  0.6/1kV  ① F-FCOE  ② F-FCOTBOE 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+4C+E 
+1.5 1.7  0.7  1.1  10.0  0.8  160  0.2  0.8  12.6  0.9  280  
+2.5 2.2  0.7  1.1  11.1  0.8  210  0.3  0.9  14.4  0.9  360  
+4 2.7  0.7  1.2  12.7  0.9  310  0.3  0.9  16.0  1.0  470  
+6 3.3  0.7  1.2  14.2  0.9  410  0.3  0.9  17.5  1.0  580  
+10 4.2  0.7  1.3  16.8  1.0  630  0.3  1.0  20.3  1.1  840  
+16 5.3  0.7  1.4  20.0  1.1  940  0.3  1.1  23.7  1.2  1,200  
+25 6.6  0.9  1.6  24.2  1.2  1,390  0.3  1.2  28.1  1.3  1,720  
+35 7.9  0.9  1.7  27.7  1.3  1,900  0.3  1.3  31.8  1.5  2,290  
+50 9.1  1.0  1.9  31.6  1.4  2,460  0.4  1.4  36.4  1.6  2,690  
+70 11.0  1.1  2.1  37.5  1.6  3,600  0.4  1.5  42.5  1.8  4,240  
+95 12.9  1.1  2.3  42.3  1.8  4,690  0.4  1.7  47.7  1.9  5,460  
+120 14.5  1.2  2.5  47.6  1.9  5,930  0.4  1.8  53.2  2.1  6,810  
+150 16.2  1.4  2.7  53.1  2.1  7,420  0.4  1.9  58.9  2.3  8,430  
+185 18.0  1.6  2.9  58.6  2.3  8,990  0.4  2.1  64.8  2.4  10,170  
+240  20.6  1.7  3.1  66.1  2.5  11,630  0.4  2.3  72.7  2.7  13,010  
+300  23.1  1.8  3.4  73.3  2.7  14,420  0.4  2.4  80.1  2.9  15,960  
+ 
+TABLE. B8  0.6/1kV ① F-MCO, MCO(C), MCOE, MCOE(C) 
+  ② F-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)   1SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1 1.4 0.7  1.0  7.4  0.7  80  0.2  0.8  10.0  0.8  170  
+3(2+E) 1 1.4 0.7  1.0  7.8  0.7  90  0.2  0.8  10.4  0.8  190  
+4(3+E) 1 1.4 0.7  1.0  8.4  0.8  110  0.2  0.8  11.0  0.8  210  
+5(4+E) 1 1.4 0.7  1.0  9.2  0.8  130  0.2  0.8  11.8  0.9  240  
+6(5+E) 1 1.4 0.7  1.1  10.1  0.8  160  0.3  0.8  13.2  0.9  280  
+7(6+E) 1 1.4 0.7  1.1  10.1  0.8  170  0.3  0.8  13.2  0.9  290  
+8(7+E) 1 1.4 0.7  1.1  10.9  0.8  190  0.3  0.9  14.2  0.9  330  
+9(8+E) 1 1.4 0.7  1.1  11.7  0.9  210  0.3  0.9  15.0  1.0  360  
+10(9+E) 1 1.4 0.7  1.2  12.9  0.9  240  0.3  0.9  16.2  1.0  400  
+11(10+E) 1 1.4 0.7  1.2  12.9  0.9  250  0.3  0.9  16.2  1.0  410  
+12(11+E) 1 1.4 0.7  1.2  13.3  0.9  270  0.3  0.9  16.6  1.0  430  
+13(12+E) 1 1.4 0.7  1.2  13.9  0.9  290  0.3  0.9  17.2  1.0  460  
+14(13+E) 1 1.4 0.7  1.2  13.9  0.9  300  0.3  0.9  17.2  1.0  470  
+15(14+E) 1 1.4 0.7  1.2  14.7  0.9  320  0.3  1.0  18.2  1.0  510  
+16(15+E) 1 1.4 0.7  1.2  14.7  0.9  340  0.3  1.0  18.2  1.0  530  
+17(16+E) 1 1.4 0.7  1.3  15.6  1.0  370  0.3  1.0  19.1  1.1  570  
+18(17+E) 1 1.4 0.7  1.3  15.6  1.0  380  0.3  1.0  19.1  1.1  580  
+19(18+E) 1 1.4 0.7  1.3  15.6  1.0  390  0.3  1.0  19.1  1.1  590  
+20(19+E) 1 1.4 0.7  1.3  16.4  1.0  410  0.3  1.0  19.9  1.1  620  
+21(20+E) 1 1.4 0.7  1.3  16.4  1.0  430  0.3  1.0  19.9  1.1  640  
+24(23+E) 1 1.4 0.7  1.4  18.4  1.1  500  0.3  1.0  21.9  1.2  730  
+25(24+E) 1 1.4 0.7  1.4  18.4  1.1  510  0.3  1.0  21.9  1.2  740  
+26(25+E) 1 1.4 0.7  1.4  18.4  1.1  530  0.3  1.0  21.9  1.2  760  
+27(26+E) 1 1.4 0.7  1.4  18.8  1.1  540  0.3  1.1  22.5  1.2  790  
+28(27+E) 1 1.4 0.7  1.4  19.4  1.1  570  0.3  1.1  23.1  1.2  830  
+30(29+E) 1 1.4 0.7  1.4  19.4  1.1  590  0.3  1.1  23.1  1.2  840  
+31(30+E) 1 1.4 0.7  1.4  20.2  1.1  620  0.3  1.1  23.9  1.2  880  \n\n--- PAGE 17 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 17 / 64 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+33(32+E) 1 1.4 0.7  1.4  20.2  1.1  640  0.3  1.1  23.9  1.2  900  
+34(33+E) 1 1.4 0.7  1.5  21.1  1.1  680  0.3  1.1  24.8  1.2  960  
+36(35+E) 1 1.4 0.7  1.5  21.1  1.1  700  0.3  1.1  24.8  1.2  970  
+37(36+E) 1 1.4 0.7  1.5  21.1  1.1  710  0.3  1.1  24.8  1.2  980  
+38(37+E) 1 1.4 0.7  1.5  21.9  1.2  740  0.3  1.1  25.6  1.3  1,030  
+44(43+E) 1 1.4 0.7  1.6  23.9  1.2  860  0.3  1.2  27.8  1.3  1,180  
+45(44+E) 1 1.4 0.7  1.6  23.9  1.2  870  0.3  1.2  27.8  1.3  1,200  
+48(47+E) 1 1.4 0.7  1.6  24.3  1.2  910  0.3  1.2  28.2  1.3  1,240  
+49(48+E) 1 1.4 0.7  1.6  24.9  1.2  940  0.3  1.2  28.8  1.4  1,280  
+ 
+TABLE. B9  0.6/1kV  ① F-MCO, MCO(C), MCOE, MCOE(C) 
+② F-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)   1.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1.5 1.7  0.7  1.0  7.9  0.7  90  0.2  0.8  10.5  0.8  190  
+3(2+E) 1.5 1.7  0.7  1.0  8.4  0.8  110  0.2  0.8  11.0  0.8  220  
+4(3+E) 1.5 1.7  0.7  1.0  9.1  0.8  140  0.2  0.8  11.7  0.9  250  
+5(4+E) 1.5 1.7  0.7  1.1  10.1  0.8  170  0.3  0.8  13.2  0.9  290  
+6(5+E) 1.5 1.7  0.7  1.1  11.0  0.8  190  0.3  0.9  14.3  0.9  330  
+7(6+E) 1.5 1.7  0.7  1.1  11.0  0.8  210  0.3  0.9  14.3  0.9  350  
+8(7+E) 1.5 1.7  0.7  1.1  11.9  0.9  240  0.3  0.9  15.2  1.0  390  
+9(8+E) 1.5 1.7  0.7  1.2  12.9  0.9  270  0.3  0.9  16.2  1.0  430  
+10(9+E) 1.5 1.7  0.7  1.2  14.0  0.9  310  0.3  0.9  17.3  1.0  480  
+11(10+E) 1.5 1.7  0.7  1.2  14.0  0.9  320  0.3  0.9  17.3  1.0  500  
+12(11+E) 1.5 1.7  0.7  1.2  14.4  0.9  340  0.3  0.9  17.7  1.0  520  
+13(12+E) 1.5 1.7  0.7  1.3  15.4  1.0  380  0.3  1.0  18.9  1.1  580  
+14(13+E) 1.5 1.7  0.7  1.3  15.4  1.0  390  0.3  1.0  18.9  1.1  590  
+15(14+E) 1.5 1.7  0.7  1.3  16.2  1.0  420  0.3  1.0  19.7  1.1  630  
+16(15+E) 1.5 1.7  0.7  1.3  16.2  1.0  440  0.3  1.0  19.7  1.1  650  
+17(16+E) 1.5 1.7  0.7  1.3  17.0  1.0  470  0.3  1.0  20.5  1.1  690  
+18(17+E) 1.5 1.7  0.7  1.3  17.0  1.0  490  0.3  1.0  20.5  1.1  700  
+19(18+E) 1.5 1.7  0.7  1.3  17.0  1.0  500  0.3  1.0  20.5  1.1  720  
+20(19+E) 1.5 1.7  0.7  1.4  18.1  1.0  540  0.3  1.0  21.6  1.1  770  
+21(20+E) 1.5 1.7  0.7  1.4  18.1  1.0  560  0.3  1.0  21.6  1.1  790  
+24(23+E) 1.5 1.7  0.7  1.4  20.1  1.1  650  0.3  1.1  23.8  1.2  910  
+25(24+E) 1.5 1.7  0.7  1.4  20.1  1.1  660  0.3  1.1  23.8  1.2  920  
+26(25+E) 1.5 1.7  0.7  1.4  20.1  1.1  680  0.3  1.1  23.8  1.2  940  
+27(26+E) 1.5 1.7  0.7  1.5  20.7  1.1  710  0.3  1.1  24.4  1.2  980  
+28(27+E) 1.5 1.7  0.7  1.5  21.5  1.1  750  0.3  1.1  25.2  1.3  1,030  
+30(29+E) 1.5 1.7  0.7  1.5  21.5  1.1  780  0.3  1.1  25.2  1.3  1,050  
+31(30+E) 1.5 1.7  0.7  1.5  22.3  1.2  810  0.3  1.1  26.0  1.3  1,100  
+33(32+E) 1.5 1.7  0.7  1.5  22.3  1.2  840  0.3  1.1  26.0  1.3  1,130  
+34(33+E) 1.5 1.7  0.7  1.6  23.3  1.2  890  0.3  1.2  27.2  1.3  1,210  
+36(35+E) 1.5 1.7  0.7  1.6  23.3  1.2  920  0.3  1.2  27.2  1.3  1,230  
+37(36+E) 1.5 1.7  0.7  1.6  23.3  1.2  930  0.3  1.2  27.2  1.3  1,250  
+38(37+E) 1.5 1.7  0.7  1.6  24.2  1.2  980  0.3  1.2  28.1  1.3  1,300  
+44(43+E) 1.5 1.7  0.7  1.7  26.3  1.3  1,130  0.3  1.2  30.2  1.4  1,480  
+45(44+E) 1.5 1.7  0.7  1.7  26.3  1.3  1,150  0.3  1.2  30.2  1.4  1,500  
+48(47+E) 1.5 1.7  0.7  1.7  26.8  1.3  1,200  0.3  1.3  30.9  1.4  1,580  \n\n--- PAGE 18 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 18 / 64 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+49(48+E) 1.5 1.7  0.7  1.7  27.5  1.3  1,240  0.3  1.3  31.6  1.4  1,630  
+ 
+TABLE. B10  0.6/1kV  ① F-MCO, MCO(C), MCOE, MCOE(C) 
+                                       ② F-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)   2.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 2.5 2.2  0.7  1.0  8.8  0.8  120  0.2  0.8  11.4  0.8  230  
+3(2+E) 2.5 2.2  0.7  1.0  9.3  0.8  150  0.2  0.8  11.9  0.9  260  
+4(3+E) 2.5 2.2  0.7  1.1  10.3  0.8  190  0.3  0.8  13.4  0.9  320  
+5(4+E) 2.5 2.2  0.7  1.1  11.3  0.8  230  0.3  0.9  14.6  0.9  370  
+6(5+E) 2.5 2.2  0.7  1.2  12.5  0.9  270  0.3  0.9  15.8  1.0  430  
+7(6+E) 2.5 2.2  0.7  1.2  12.5  0.9  290  0.3  0.9  15.8  1.0  450  
+8(7+E) 2.5 2.2  0.7  1.2  13.5  0.9  330  0.3  0.9  16.8  1.0  500  
+9(8+E) 2.5 2.2  0.7  1.2  14.5  0.9  370  0.3  0.9  17.8  1.0  550  
+10(9+E) 2.5 2.2  0.7  1.3  15.9  1.0  430  0.3  1.0  19.4  1.1  630  
+11(10+E) 2.5 2.2  0.7  1.3  15.9  1.0  450  0.3  1.0  19.4  1.1  650  
+12(11+E) 2.5 2.2  0.7  1.3  16.4  1.0  480  0.3  1.0  19.9  1.1  690  
+13(12+E) 2.5 2.2  0.7  1.3  17.3  1.0  520  0.3  1.0  20.8  1.1  740  
+14(13+E) 2.5 2.2  0.7  1.3  17.3  1.0  550  0.3  1.0  20.8  1.1  770  
+15(14+E) 2.5 2.2  0.7  1.4  18.4  1.1  600  0.3  1.0  21.9  1.2  830  
+16(15+E) 2.5 2.2  0.7  1.4  18.4  1.1  620  0.3  1.0  21.9  1.2  850  
+17(16+E) 2.5 2.2  0.7  1.4  19.4  1.1  670  0.3  1.1  23.1  1.2  920  
+18(17+E) 2.5 2.2  0.7  1.4  19.4  1.1  690  0.3  1.1  23.1  1.2  940  
+19(18+E) 2.5 2.2  0.7  1.4  19.4  1.1  710  0.3  1.1  23.1  1.2  970  
+20(19+E) 2.5 2.2  0.7  1.5  20.6  1.1  770  0.3  1.1  24.3  1.2  1,040  
+21(20+E) 2.5 2.2  0.7  1.5  20.6  1.1  800  0.3  1.1  24.3  1.2  1,070  
+24(23+E) 2.5 2.2  0.7  1.5  22.9  1.2  920  0.3  1.2  26.8  1.3  1,230  
+25(24+E) 2.5 2.2  0.7  1.5  22.9  1.2  940  0.3  1.2  26.8  1.3  1,250  
+26(25+E) 2.5 2.2  0.7  1.5  22.9  1.2  970  0.3  1.2  26.8  1.3  1,280  
+27(26+E) 2.5 2.2  0.7  1.6  23.5  1.2  1,010  0.3  1.2  27.4  1.3  1,330  
+28(27+E) 2.5 2.2  0.7  1.6  24.4  1.2  1,060  0.3  1.2  28.3  1.3  1,390  
+30(29+E) 2.5 2.2  0.7  1.6  24.4  1.2  1,110  0.3  1.2  28.3  1.3  1,430  
+31(30+E) 2.5 2.2  0.7  1.6  25.3  1.3  1,160  0.3  1.2  29.2  1.4  1,500  
+33(32+E) 2.5 2.2  0.7  1.6  25.3  1.3  1,200  0.3  1.2  29.2  1.4  1,540  
+34(33+E) 2.5 2.2  0.7  1.7  26.5  1.3  1,270  0.3  1.3  30.6  1.4  1,640  
+36(35+E) 2.5 2.2  0.7  1.7  26.5  1.3  1,310  0.3  1.3  30.6  1.4  1,680  
+37(36+E) 2.5 2.2  0.7  1.7  26.5  1.3  1,340  0.3  1.3  30.6  1.4  1,710  
+38(37+E) 2.5 2.2  0.7  1.7  27.5  1.3  1,390  0.3  1.3  31.6  1.4  1,780  
+44(43+E) 2.5 2.2  0.7  1.8  30.0  1.4  1,610  0.3  1.3  34.1  1.5  2,030  
+45(44+E) 2.5 2.2  0.7  1.8  30.0  1.4  1,640  0.3  1.3  34.1  1.5  2,050  
+48(47+E) 2.5 2.2  0.7  1.8  30.5  1.4  1,720  0.4  1.4  35.3  1.6  2,160  
+49(48+E) 2.5 2.2  0.7  1.9  31.5  1.4  1,800  0.4  1.4  36.3  1.6  2,330  
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 19 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 19 / 64 
+ 
+TABLE. B11  0.6/1kV  ① F-MCO, MCO(C), MCOE, MCOE(C) 
+② F-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)   4SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 4 2.7  0.7  1.1  10.0  0.8  160  0.3  0.8  13.1  0.9  290  
+3(2+E) 4 2.7  0.7  1.1  10.6  0.8  210  0.3  0.9  13.9  0.9  340  
+4(3+E) 4 2.7  0.7  1.1  11.6  0.8  260  0.3  0.9  14.9  0.9  410  
+5(4+E) 4 2.7  0.7  1.2  12.9  0.9  320  0.3  0.9  16.2  1.0  480  
+6(5+E) 4 2.7  0.7  1.2  14.0  0.9  370  0.3  0.9  17.3  1.0  550  
+7(6+E) 4 2.7  0.7  1.2  14.0  0.9  410  0.3  0.9  17.3  1.0  580  
+8(7+E) 4 2.7  0.7  1.3  15.4  1.0  470  0.3  1.0  18.9  1.1  670  
+9(8+E) 4 2.7  0.7  1.3  16.6  1.0  530  0.3  1.0  20.1  1.1  740  
+10(9+E) 4 2.7  0.7  1.4  18.2  1.0  600  0.3  1.0  21.7  1.2  830  
+11(10+E) 4 2.7  0.7  1.4  18.2  1.0  640  0.3  1.0  21.7  1.2  870  
+12(11+E) 4 2.7  0.7  1.4  18.8  1.1  690  0.3  1.1  22.5  1.2  930  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 20 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 20 / 64 
+ 
+250V   
+F-MCO, MCO(C), MCOTBO, MCOTBO(C) 
+ 
+ 
+[CONTROL CABLES, FLAME RETARDANT] 
+[TABLE. C]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+ - Base Std.  : IEC 60092-350, 376 
+ - Insulation : IEC 60092-360 XLPE 
+ - Sheath                 : IEC 60092-360 SHF1 
+ - Flame retardant : IEC 60332-3-22 (Cat.A) 
+ - HCl gas emission : IEC 60754-1 (Max.0.5%) 
+ - Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2  
+Insulation XLPE to IEC 60092-360   C 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Overall screen Copper/polyester tape with drain wire 
+* (C) type only (C) 
+Inner sheath SHF1 to IEC 60092-360 O 
+Armor Tinned annealed copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 21 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 21 / 64 
+ 
+TABLE. C1  250V  ① F-MCO, F-MCO(C)  ② F-MCOTBO, F-MCOTBO(C)  0.75SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 0.75 1.2 0.5  1.0  6.5  0.7  60  0.2  0.8  9.1  0.8  140  
+3 0.75 1.2 0.5  1.0  6.8  0.7  70  0.2  0.8  9.4  0.8  160  
+4 0.75 1.2 0.5  1.0  7.3  0.7  80  0.2  0.8  9.9  0.8  180  
+5 0.75 1.2 0.5  1.0  8.0  0.7  100  0.2  0.8  10.6  0.8  200  
+6 0.75 1.2 0.5  1.0  8.6  0.8  110  0.2  0.8  11.2  0.8  220  
+7 0.75 1.2 0.5  1.0  8.6  0.8  120  0.2  0.8  11.2  0.8  230  
+8 0.75 1.2 0.5  1.0  9.2  0.8  130  0.2  0.8  11.8  0.9  250  
+9 0.75 1.2 0.5  1.1  10.1  0.8  160  0.3  0.8  13.2  0.9  280  
+10 0.75 1.2 0.5  1.1  10.9  0.8  170  0.3  0.9  14.2  0.9  310  
+11 0.75 1.2 0.5  1.1  10.9  0.8  180  0.3  0.9  14.2  0.9  320  
+12 0.75 1.2 0.5  1.1  11.2  0.8  190  0.3  0.9  14.5  0.9  340  
+13 0.75 1.2 0.5  1.1  11.8  0.9  210  0.3  0.9  15.1  1.0  360  
+14 0.75 1.2 0.5  1.1  11.8  0.9  220  0.3  0.9  15.1  1.0  360  
+15 0.75 1.2 0.5  1.2  12.6  0.9  240  0.3  0.9  15.9  1.0  400  
+16 0.75 1.2 0.5  1.2  12.6  0.9  250  0.3  0.9  15.9  1.0  410  
+17 0.75 1.2 0.5  1.2  13.2  0.9  260  0.3  0.9  16.5  1.0  430  
+18 0.75 1.2 0.5  1.2  13.2  0.9  270  0.3  0.9  16.5  1.0  440  
+19 0.75 1.2 0.5  1.2  13.2  0.9  280  0.3  0.9  16.5  1.0  440  
+20 0.75 1.2 0.5  1.2  13.9  0.9  300  0.3  0.9  17.2  1.0  470  
+24 0.75 1.2 0.5  1.3  15.5  1.0  360  0.3  1.0  19.0  1.1  560  
+25 0.75 1.2 0.5  1.3  15.5  1.0  370  0.3  1.0  19.0  1.1  570  
+27 0.75 1.2 0.5  1.3  15.8  1.0  390  0.3  1.0  19.3  1.1  590  
+30 0.75 1.2 0.5  1.3  16.4  1.0  420  0.3  1.0  19.9  1.1  630  
+33 0.75 1.2 0.5  1.3  17.0  1.0  450  0.3  1.0  20.5  1.1  670  
+36 0.75 1.2 0.5  1.4  17.8  1.0  500  0.3  1.0  21.3  1.1  720  
+37 0.75 1.2 0.5  1.4  17.8  1.0  500  0.3  1.0  21.3  1.1  730  
+44 0.75 1.2 0.5  1.4  19.9  1.1  600  0.3  1.1  23.6  1.2  860  
+48 0.75 1.2 0.5  1.4  20.2  1.1  640  0.3  1.1  23.9  1.2  900  
+ 
+TABLE. C2  250V ① F-MCO, F-MCO(C)  ② F-MCOTBO, F-MCOTBO(C)  1SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1 1.4 0.5  1.0  6.8  0.7  70  0.2  0.8  9.4  0.8  160  
+3 1 1.4 0.5  1.0  7.2  0.7  80  0.2  0.8  9.8  0.8  180  
+4 1 1.4 0.5  1.0  7.8  0.7  100  0.2  0.8  10.4  0.8  200  
+5 1 1.4 0.5  1.0  8.5  0.8  120  0.2  0.8  11.1  0.8  220  
+6 1 1.4 0.5  1.0  9.1  0.8  140  0.2  0.8  11.7  0.9  250  
+7 1 1.4 0.5  1.0  9.1  0.8  140  0.2  0.8  11.7  0.9  260  
+8 1 1.4 0.5  1.1  10.0  0.8  170  0.3  0.8  13.1  0.9  290  
+9 1 1.4 0.5  1.1  10.8  0.8  190  0.3  0.9  14.1  0.9  330  
+10 1 1.4 0.5  1.1  11.6  0.8  210  0.3  0.9  14.9  0.9  360  
+11 1 1.4 0.5  1.1  11.6  0.8  220  0.3  0.9  14.9  0.9  370  
+12 1 1.4 0.5  1.1  12.0  0.9  230  0.3  0.9  15.3  1.0  380  
+13 1 1.4 0.5  1.2  12.8  0.9  260  0.3  0.9  16.1  1.0  420  
+14 1 1.4 0.5  1.2  12.8  0.9  270  0.3  0.9  16.1  1.0  430  
+15 1 1.4 0.5  1.2  13.4  0.9  290  0.3  0.9  16.7  1.0  460  
+16 1 1.4 0.5  1.2  13.4  0.9  300  0.3  0.9  16.7  1.0  470  
+17 1 1.4 0.5  1.2  14.1  0.9  320  0.3  0.9  17.4  1.0  500  \n\n--- PAGE 22 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 22 / 64 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+18 1 1.4 0.5  1.2  14.1  0.9  330  0.3  0.9  17.4  1.0  510  
+19 1 1.4 0.5  1.2  14.1  0.9  340  0.3  0.9  17.4  1.0  520  
+20 1 1.4 0.5  1.2  14.8  0.9  360  0.3  1.0  18.3  1.0  550  
+24 1 1.4 0.5  1.3  16.6  1.0  440  0.3  1.0  20.1  1.1  650  
+25 1 1.4 0.5  1.3  16.6  1.0  450  0.3  1.0  20.1  1.1  660  
+27 1 1.4 0.5  1.3  17.0  1.0  470  0.3  1.0  20.5  1.1  690  
+30 1 1.4 0.5  1.3  17.6  1.0  510  0.3  1.0  21.1  1.1  740  
+33 1 1.4 0.5  1.4  18.4  1.1  570  0.3  1.0  21.9  1.2  800  
+36 1 1.4 0.5  1.4  19.1  1.1  610  0.3  1.1  22.8  1.2  860  
+37 1 1.4 0.5  1.4  19.1  1.1  620  0.3  1.1  22.8  1.2  870  
+44 1 1.4 0.5  1.5  21.6  1.1  750  0.3  1.1  25.3  1.3  1,030  
+48 1 1.4 0.5  1.5  21.9  1.2  800  0.3  1.1  25.6  1.3  1,080  
+ 
+TABLE. C3 250V ① F-MCO, F-MCO(C)  ② F-MCOTBO, F-MCOTBO(C)  1.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1.5 1.7  0.6  1.0  7.6  0.7  90  0.2  0.8  10.2  0.8  190  
+3 1.5 1.7  0.6  1.0  8.0  0.7  110  0.2  0.8  10.6  0.8  210  
+4 1.5 1.7  0.6  1.0  8.7  0.8  130  0.2  0.8  11.3  0.8  240  
+5 1.5 1.7  0.6  1.0  9.4  0.8  150  0.2  0.8  12.0  0.9  270  
+6 1.5 1.7  0.6  1.1  10.4  0.8  180  0.3  0.8  13.5  0.9  310  
+7 1.5 1.7  0.6  1.1  10.4  0.8  200  0.3  0.8  13.5  0.9  330  
+8 1.5 1.7  0.6  1.1  11.3  0.8  220  0.3  0.9  14.6  0.9  370  
+9 1.5 1.7  0.6  1.1  12.1  0.9  250  0.3  0.9  15.4  1.0  400  
+10 1.5 1.7  0.6  1.2  13.3  0.9  290  0.3  0.9  16.6  1.0  450  
+11 1.5 1.7  0.6  1.2  13.3  0.9  300  0.3  0.9  16.6  1.0  470  
+12 1.5 1.7  0.6  1.2  13.7  0.9  320  0.3  0.9  17.0  1.0  490  
+13 1.5 1.7  0.6  1.2  14.4  0.9  350  0.3  0.9  17.7  1.0  530  
+14 1.5 1.7  0.6  1.2  14.4  0.9  360  0.3  0.9  17.7  1.0  540  
+15 1.5 1.7  0.6  1.3  15.3  1.0  400  0.3  1.0  18.8  1.1  600  
+16 1.5 1.7  0.6  1.3  15.3  1.0  420  0.3  1.0  18.8  1.1  610  
+17 1.5 1.7  0.6  1.3  16.1  1.0  450  0.3  1.0  19.6  1.1  650  
+18 1.5 1.7  0.6  1.3  16.1  1.0  460  0.3  1.0  19.6  1.1  670  
+19 1.5 1.7  0.6  1.3  16.1  1.0  470  0.3  1.0  19.6  1.1  680  
+20 1.5 1.7  0.6  1.3  17.0  1.0  500  0.3  1.0  20.5  1.1  720  
+24 1.5 1.7  0.6  1.4  19.0  1.1  610  0.3  1.1  22.7  1.2  860  
+25 1.5 1.7  0.6  1.4  19.0  1.1  630  0.3  1.1  22.7  1.2  870  
+27 1.5 1.7  0.6  1.4  19.4  1.1  660  0.3  1.1  23.1  1.2  920  
+30 1.5 1.7  0.6  1.4  20.1  1.1  720  0.3  1.1  23.8  1.2  990  
+33 1.5 1.7  0.6  1.5  21.1  1.1  800  0.3  1.1  24.8  1.2  1,070  
+36 1.5 1.7  0.6  1.5  21.9  1.2  860  0.3  1.1  25.6  1.3  1,140  
+37 1.5 1.7  0.6  1.5  21.9  1.2  870  0.3  1.1  25.6  1.3  1,160  
+44 1.5 1.7  0.6  1.6  24.7  1.2  1,060  0.3  1.2  28.6  1.4  1,390  
+48 1.5 1.7  0.6  1.6  25.1  1.3  1,120  0.3  1.2  29.0  1.4  1,460  
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 23 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 23 / 64 
+ 
+TABLE. C4  250V ① F-MCO, F-MCO(C)  ② F-MCOTBO, F-MCOTBO(C)  2.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 2.5 2.2  0.6  1.0  8.4  0.8  120  0.2  0.8  11.0  0.8  220  
+3 2.5 2.2  0.6  1.0  8.9  0.8  140  0.2  0.8  11.5  0.8  250  
+4 2.5 2.2  0.6  1.1  9.9  0.8  180  0.2  0.8  12.5  0.9  300  
+5 2.5 2.2  0.6  1.1  10.8  0.8  220  0.3  0.9  14.1  0.9  360  
+6 2.5 2.2  0.6  1.1  11.7  0.9  250  0.3  0.9  15.0  1.0  400  
+7 2.5 2.2  0.6  1.1  11.7  0.9  280  0.3  0.9  15.0  1.0  420  
+8 2.5 2.2  0.6  1.2  12.9  0.9  320  0.3  0.9  16.2  1.0  480  
+9 2.5 2.2  0.6  1.2  13.8  0.9  360  0.3  0.9  17.1  1.0  530  
+10 2.5 2.2  0.6  1.3  15.2  1.0  410  0.3  1.0  18.7  1.1  610  
+11 2.5 2.2  0.6  1.3  15.2  1.0  430  0.3  1.0  18.7  1.1  630  
+12 2.5 2.2  0.6  1.3  15.7  1.0  460  0.3  1.0  19.2  1.1  660  
+13 2.5 2.2  0.6  1.3  16.5  1.0  500  0.3  1.0  20.0  1.1  710  
+14 2.5 2.2  0.6  1.3  16.5  1.0  520  0.3  1.0  20.0  1.1  730  
+15 2.5 2.2  0.6  1.3  17.4  1.0  560  0.3  1.0  20.9  1.1  780  
+16 2.5 2.2  0.6  1.3  17.4  1.0  590  0.3  1.0  20.9  1.1  810  
+17 2.5 2.2  0.6  1.4  18.5  1.1  640  0.3  1.0  22.0  1.2  870  
+18 2.5 2.2  0.6  1.4  18.5  1.1  660  0.3  1.0  22.0  1.2  890  
+19 2.5 2.2  0.6  1.4  18.5  1.1  680  0.3  1.0  22.0  1.2  920  
+20 2.5 2.2  0.6  1.4  19.4  1.1  730  0.3  1.1  23.1  1.2  980  
+24 2.5 2.2  0.6  1.5  21.8  1.2  880  0.3  1.1  25.5  1.3  1,160  
+25 2.5 2.2  0.6  1.5  21.8  1.2  900  0.3  1.1  25.5  1.3  1,180  
+27 2.5 2.2  0.6  1.5  22.2  1.2  960  0.3  1.1  25.9  1.3  1,250  
+30 2.5 2.2  0.6  1.6  23.3  1.2  1,060  0.3  1.2  27.2  1.3  1,370  
+33 2.5 2.2  0.6  1.6  24.1  1.2  1,150  0.3  1.2  28.0  1.3  1,480  
+36 2.5 2.2  0.6  1.6  25.1  1.3  1,240  0.3  1.2  29.0  1.4  1,580  
+37 2.5 2.2  0.6  1.6  25.1  1.3  1,270  0.3  1.2  29.0  1.4  1,600  
+44 2.5 2.2  0.6  1.7  28.3  1.4  1,530  0.3  1.3  32.4  1.5  1,920  
+48 2.5 2.2  0.6  1.8  29.0  1.4  1,650  0.3  1.3  33.1  1.5  2,050  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 24 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 24 / 64 
+ 
+250V  
+F-TTCO, TTCO(C), TTCO(I), TTCO(I/C) 
+F-TTCOTBO, TTCOTBO(C), TTCOTBO(I), TTCOTBO(I/C),  
+ 
+ 
+[INSTRUMENT CABLES, FLAME RETARDANT] 
+[TABLE. D]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+ - Base Std.  : IEC 60092-350, 376 
+ - Insulation : IEC 60092-360 XLPE 
+ - Sheath                 : IEC 60092-360 SHF1 
+ - Flame retardant : IEC 60332-3-22 (Cat.A) 
+ - HCl gas emission : IEC 60754-1 (Max.0.5%) 
+ - Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2  
+Insulation XLPE to IEC 60092-360   C 
+Individual screen Copper/polyester tape with drain wire 
+* (I) type only (I) 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Overall screen Copper/polyester tape with drain wire 
+* (C) type only (C) 
+Inner sheath SHF1 to IEC 60092-360 O 
+Armor Tinned annealed copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 25 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 25 / 64 
+ 
+TABLE. D1  250V ①F-TTCO, F-TTCO(C)  ②F-TTCOTBO, F-TTCOTBO(C)  0.75SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 0.75 1.2 0.5  1.0  6.5  0.7  70  0.2  0.8  9.1  0.8  150  
+2P 0.75 1.2 0.5  1.1  9.8  0.8  120  0.2  0.8  12.4  0.9  240  
+3P 0.75 1.2 0.5  1.1  10.4  0.8  150  0.3  0.8  13.5  0.9  270  
+4P 0.75 1.2 0.5  1.1  11.3  0.8  180  0.3  0.9  14.6  0.9  320  
+5P 0.75 1.2 0.5  1.2  12.8  0.9  220  0.3  0.9  16.1  1.0  380  
+6P 0.75 1.2 0.5  1.2  13.2  0.9  240  0.3  0.9  16.5  1.0  410  
+7P 0.75 1.2 0.5  1.2  13.2  0.9  260  0.3  0.9  16.5  1.0  420  
+8P 0.75 1.2 0.5  1.2  14.5  0.9  300  0.3  0.9  17.8  1.0  470  
+9P 0.75 1.2 0.5  1.3  15.5  1.0  340  0.3  1.0  19.0  1.1  540  
+10P 0.75 1.2 0.5  1.3  16.6  1.0  370  0.3  1.0  20.1  1.1  580  
+11P 0.75 1.2 0.5  1.3  16.8  1.0  390  0.3  1.0  20.3  1.1  610  
+12P 0.75 1.2 0.5  1.3  17.2  1.0  420  0.3  1.0  20.7  1.1  630  
+13P 0.75 1.2 0.5  1.3  17.4  1.0  440  0.3  1.0  20.9  1.1  660  
+14P 0.75 1.2 0.5  1.4  18.2  1.0  480  0.3  1.0  21.7  1.2  710  
+15P 0.75 1.2 0.5  1.4  18.7  1.1  500  0.3  1.1  22.4  1.2  750  
+16P 0.75 1.2 0.5  1.4  19.5  1.1  540  0.3  1.1  23.2  1.2  790  
+17P 0.75 1.2 0.5  1.4  19.7  1.1  560  0.3  1.1  23.4  1.2  820  
+18P 0.75 1.2 0.5  1.4  19.9  1.1  580  0.3  1.1  23.6  1.2  840  
+19P 0.75 1.2 0.5  1.4  19.9  1.1  590  0.3  1.1  23.6  1.2  850  
+20P 0.75 1.2 0.5  1.5  20.5  1.1  630  0.3  1.1  24.2  1.2  900  
+24P 0.75 1.2 0.5  1.6  23.5  1.2  780  0.3  1.2  27.4  1.3  1,090  
+27P 0.75 1.2 0.5  1.6  24.1  1.2  840  0.3  1.2  28.0  1.3  1,170  
+30P 0.75 1.2 0.5  1.6  25.0  1.2  910  0.3  1.2  28.9  1.4  1,250  
+33P 0.75 1.2 0.5  1.7  26.4  1.3  1,010  0.3  1.2  30.3  1.4  1,360  
+37P 0.75 1.2 0.5  1.7  26.8  1.3  1,090  0.3  1.3  30.9  1.4  1,460  
+44P 0.75 1.2 0.5  1.8  30.2  1.4  1,320  0.4  1.4  35.0  1.6  1,750  
+48P 0.75 1.2 0.5  1.8  30.8  1.4  1,400  0.4  1.4  35.6  1.6  1,920  
+1T 0.75 1.2 0.5  1.0  6.8  0.7  80  0.2  0.8  9.4  0.8  160  
+2T 0.75 1.2 0.5  1.1  11.1  0.8  170  0.3  0.9  14.4  0.9  310  
+3T 0.75 1.2 0.5  1.1  11.7  0.9  180  0.3  0.9  15.0  1.0  330  
+4T 0.75 1.2 0.5  1.2  13.0  0.9  260  0.3  0.9  16.3  1.0  420  
+5T 0.75 1.2 0.5  1.2  14.3  0.9  310  0.3  0.9  17.6  1.0  480  
+6T 0.75 1.2 0.5  1.3  15.1  1.0  360  0.3  1.0  18.6  1.1  550  
+7T 0.75 1.2 0.5  1.3  15.1  1.0  380  0.3  1.0  18.6  1.1  580  
+8T 0.75 1.2 0.5  1.3  16.4  1.0  440  0.3  1.0  19.9  1.1  650  
+9T 0.75 1.2 0.5  1.4  17.8  1.0  500  0.3  1.0  21.3  1.1  730  
+10T 0.75 1.2 0.5  1.4  19.4  1.1  560  0.3  1.1  23.1  1.2  820  
+11T 0.75 1.2 0.5  1.4  19.4  1.1  590  0.3  1.1  23.1  1.2  850  
+12T 0.75 1.2 0.5  1.4  20.0  1.1  630  0.3  1.1  23.7  1.2  890  
+13T 0.75 1.2 0.5  1.5  21.2  1.1  700  0.3  1.1  24.9  1.2  980  
+14T 0.75 1.2 0.5  1.5  21.2  1.1  730  0.3  1.1  24.9  1.2  1,010  
+15T 0.75 1.2 0.5  1.5  22.4  1.2  790  0.3  1.1  26.1  1.3  1,080  
+16T 0.75 1.2 0.5  1.5  22.4  1.2  820  0.3  1.1  26.1  1.3  1,110  
+17T 0.75 1.2 0.5  1.6  23.9  1.2  890  0.3  1.2  27.8  1.3  1,210  
+18T 0.75 1.2 0.5  1.6  23.9  1.2  920  0.3  1.2  27.8  1.3  1,240  
+19T 0.75 1.2 0.5  1.6  23.9  1.2  950  0.3  1.2  27.8  1.3  1,270  
+20T 0.75 1.2 0.5  1.6  24.6  1.2  1,000  0.3  1.2  28.5  1.4  1,330  
+24T 0.75 1.2 0.5  1.7  27.6  1.3  1,210  0.3  1.3  31.7  1.5  1,590  
+27T 0.75 1.2 0.5  1.7  28.2  1.3  1,310  0.3  1.3  32.3  1.5  1,700  
+30T 0.75 1.2 0.5  1.8  29.5  1.4  1,450  0.3  1.3  33.6  1.5  1,850  
+33T 0.75 1.2 0.5  1.8  30.6  1.4  1,570  0.4  1.4  35.4  1.6  2,090  
+37T 0.75 1.2 0.5  1.9  32.0  1.5  1,750  0.4  1.4  36.8  1.6  2,280  
+1Q 0.75 1.2 0.5  1.0  7.3  0.7  90  0.2  0.8  9.9  0.8  180  \n\n--- PAGE 26 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 26 / 64 
+ 
+TABLE. D2  250V  ① F-TTCO, F-TTCO(C)  ② F-TTCOTBO, F-TTCOTBO(C)  1SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 1 1.4 0.5  1.0  6.8  0.7  80  0.2  0.8  9.4  0.8  170  
+2P 1 1.4 0.5  1.1  10.5  0.8  140  0.3  0.8  13.6  0.9  270  
+3P 1 1.4 0.5  1.1  11.1  0.8  170  0.3  0.9  14.4  0.9  320  
+4P 1 1.4 0.5  1.1  12.1  0.9  210  0.3  0.9  15.4  1.0  360  
+5P 1 1.4 0.5  1.2  13.7  0.9  260  0.3  0.9  17.0  1.0  430  
+6P 1 1.4 0.5  1.2  14.1  0.9  290  0.3  0.9  17.4  1.0  460  
+7P 1 1.4 0.5  1.2  14.1  0.9  310  0.3  0.9  17.4  1.0  490  
+8P 1 1.4 0.5  1.3  15.7  1.0  360  0.3  1.0  19.2  1.1  570  
+9P 1 1.4 0.5  1.3  16.6  1.0  400  0.3  1.0  20.1  1.1  620  
+10P 1 1.4 0.5  1.4  18.0  1.0  460  0.3  1.0  21.5  1.1  680  
+11P 1 1.4 0.5  1.4  18.2  1.0  480  0.3  1.0  21.7  1.2  710  
+12P 1 1.4 0.5  1.4  18.6  1.1  510  0.3  1.1  22.3  1.2  760  
+13P 1 1.4 0.5  1.4  18.9  1.1  540  0.3  1.1  22.6  1.2  790  
+14P 1 1.4 0.5  1.4  19.6  1.1  580  0.3  1.1  23.3  1.2  830  
+15P 1 1.4 0.5  1.4  20.0  1.1  610  0.3  1.1  23.7  1.2  870  
+16P 1 1.4 0.5  1.5  21.1  1.1  660  0.3  1.1  24.8  1.2  940  
+17P 1 1.4 0.5  1.5  21.4  1.1  690  0.3  1.1  25.1  1.3  970  
+18P 1 1.4 0.5  1.5  21.6  1.1  710  0.3  1.1  25.3  1.3  1,000  
+19P 1 1.4 0.5  1.5  21.6  1.1  740  0.3  1.1  25.3  1.3  1,020  
+20P 1 1.4 0.5  1.5  22.0  1.2  770  0.3  1.1  25.7  1.3  1,060  
+24P 1 1.4 0.5  1.6  25.2  1.3  940  0.3  1.2  29.1  1.4  1,280  
+27P 1 1.4 0.5  1.7  26.1  1.3  1,040  0.3  1.2  30.0  1.4  1,390  
+30P 1 1.4 0.5  1.7  27.0  1.3  1,130  0.3  1.3  31.1  1.4  1,510  
+33P 1 1.4 0.5  1.8  28.6  1.4  1,250  0.3  1.3  32.7  1.5  1,650  
+37P 1 1.4 0.5  1.8  29.1  1.4  1,350  0.3  1.3  33.2  1.5  1,760  
+44P 1 1.4 0.5  1.9  32.7  1.5  1,630  0.4  1.4  37.5  1.6  2,180  
+48P 1 1.4 0.5  1.9  33.4  1.5  1,740  0.4  1.4  38.2  1.6  2,300  
+1T 1 1.4 0.5  1.0  7.2  0.7  90  0.2  0.8  9.8  0.8  180  
+2T 1 1.4 0.5  1.1  11.8  0.9  200  0.3  0.9  15.1  1.0  350  
+3T 1 1.4 0.5  1.2  12.7  0.9  220  0.3  0.9  16.0  1.0  380  
+4T 1 1.4 0.5  1.2  13.9  0.9  310  0.3  0.9  17.2  1.0  480  
+5T 1 1.4 0.5  1.3  15.5  1.0  380  0.3  1.0  19.0  1.1  580  
+6T 1 1.4 0.5  1.3  16.2  1.0  430  0.3  1.0  19.7  1.1  640  
+7T 1 1.4 0.5  1.3  16.2  1.0  470  0.3  1.0  19.7  1.1  680  
+8T 1 1.4 0.5  1.3  17.5  1.0  540  0.3  1.0  21.0  1.1  760  
+9T 1 1.4 0.5  1.4  19.1  1.1  610  0.3  1.1  22.8  1.2  870  
+10T 1 1.4 0.5  1.5  21.0  1.1  700  0.3  1.1  24.7  1.2  970  
+11T 1 1.4 0.5  1.5  21.0  1.1  740  0.3  1.1  24.7  1.2  1,010  
+12T 1 1.4 0.5  1.5  21.7  1.1  790  0.3  1.1  25.4  1.3  1,080  
+13T 1 1.4 0.5  1.5  22.8  1.2  860  0.3  1.2  26.7  1.3  1,170  
+14T 1 1.4 0.5  1.5  22.8  1.2  900  0.3  1.2  26.7  1.3  1,210  
+15T 1 1.4 0.5  1.6  24.3  1.2  980  0.3  1.2  28.2  1.3  1,310  
+16T 1 1.4 0.5  1.6  24.3  1.2  1,020  0.3  1.2  28.2  1.3  1,350  
+17T 1 1.4 0.5  1.6  25.6  1.3  1,100  0.3  1.2  29.5  1.4  1,440  
+18T 1 1.4 0.5  1.6  25.6  1.3  1,140  0.3  1.2  29.5  1.4  1,480  
+19T 1 1.4 0.5  1.6  25.6  1.3  1,170  0.3  1.2  29.5  1.4  1,520  
+20T 1 1.4 0.5  1.7  26.7  1.3  1,250  0.3  1.3  30.8  1.4  1,620  
+24T 1 1.4 0.5  1.8  29.9  1.4  1,510  0.3  1.3  34.0  1.5  1,920  
+27T 1 1.4 0.5  1.8  30.5  1.4  1,650  0.4  1.4  35.3  1.6  2,170  
+30T 1 1.4 0.5  1.9  31.9  1.5  1,820  0.4  1.4  36.7  1.6  2,360  
+33T 1 1.4 0.5  1.9  33.1  1.5  1,980  0.4  1.4  37.9  1.6  2,540  
+37T 1 1.4 0.5  2.0  34.6  1.5  2,200  0.4  1.5  39.6  1.7  2,800  
+1Q 1 1.4 0.5  1.0  7.8  0.7  100  0.2  0.8  10.4  0.8  200  \n\n--- PAGE 27 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 27 / 64 
+ 
+TABLE. D3  250V ① F-TTCO, F-TTCO(C)  ② F-TTCOTBO, F-TTCOTBO(C)  1.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 1.5 1.7  0.6  1.0  7.6  0.7  100  0.2  0.8  10.2  0.8  190  
+2P 1.5 1.7  0.6  1.1  11.8  0.9  180  0.3  0.9  15.1  1.0  330  
+3P 1.5 1.7  0.6  1.2  12.7  0.9  230  0.3  0.9  16.0  1.0  390  
+4P 1.5 1.7  0.6  1.2  13.8  0.9  280  0.3  0.9  17.1  1.0  450  
+5P 1.5 1.7  0.6  1.3  15.6  1.0  350  0.3  1.0  19.1  1.1  550  
+6P 1.5 1.7  0.6  1.3  16.1  1.0  390  0.3  1.0  19.6  1.1  600  
+7P 1.5 1.7  0.6  1.3  16.1  1.0  430  0.3  1.0  19.6  1.1  630  
+8P 1.5 1.7  0.6  1.4  17.9  1.0  500  0.3  1.0  21.4  1.1  720  
+9P 1.5 1.7  0.6  1.4  19.0  1.1  550  0.3  1.1  22.7  1.2  800  
+10P 1.5 1.7  0.6  1.5  20.5  1.1  630  0.3  1.1  24.2  1.2  900  
+11P 1.5 1.7  0.6  1.5  20.8  1.1  660  0.3  1.1  24.5  1.2  930  
+12P 1.5 1.7  0.6  1.5  21.3  1.1  710  0.3  1.1  25.0  1.3  990  
+13P 1.5 1.7  0.6  1.5  21.6  1.1  750  0.3  1.1  25.3  1.3  1,030  
+14P 1.5 1.7  0.6  1.5  22.4  1.2  800  0.3  1.1  26.1  1.3  1,090  
+15P 1.5 1.7  0.6  1.5  22.9  1.2  840  0.3  1.2  26.8  1.3  1,150  
+16P 1.5 1.7  0.6  1.6  24.2  1.2  910  0.3  1.2  28.1  1.3  1,240  
+17P 1.5 1.7  0.6  1.6  24.4  1.2  950  0.3  1.2  28.3  1.4  1,280  
+18P 1.5 1.7  0.6  1.6  24.7  1.2  990  0.3  1.2  28.6  1.4  1,330  
+19P 1.5 1.7  0.6  1.6  24.7  1.2  1,020  0.3  1.2  28.6  1.4  1,360  
+20P 1.5 1.7  0.6  1.6  25.2  1.3  1,070  0.3  1.2  29.1  1.4  1,410  
+24P 1.5 1.7  0.6  1.8  29.1  1.4  1,330  0.3  1.3  33.2  1.5  1,730  
+27P 1.5 1.7  0.6  1.8  29.9  1.4  1,450  0.3  1.3  34.0  1.5  1,860  
+30P 1.5 1.7  0.6  1.8  31.0  1.4  1,580  0.4  1.4  35.8  1.6  2,100  
+33P 1.5 1.7  0.6  1.9  32.7  1.5  1,750  0.4  1.4  37.5  1.6  2,300  
+37P 1.5 1.7  0.6  1.9  33.3  1.5  1,890  0.4  1.4  38.1  1.6  2,450  
+44P 1.5 1.7  0.6  2.1  37.7  1.6  2,310  0.4  1.5  42.7  1.8  2,960  
+48P 1.5 1.7  0.6  2.1  38.5  1.7  2,460  0.4  1.6  43.7  1.8  3,150  
+1T 1.5 1.7  0.6  1.0  8.0  0.7  110  0.2  0.8  10.6  0.8  210  
+2T 1.5 1.7  0.6  1.2  13.5  0.9  270  0.3  0.9  16.8  1.0  440  
+3T 1.5 1.7  0.6  1.2  14.3  0.9  300  0.3  0.9  17.6  1.0  470  
+4T 1.5 1.7  0.6  1.3  15.9  1.0  430  0.3  1.0  19.4  1.1  630  
+5T 1.5 1.7  0.6  1.3  17.5  1.0  520  0.3  1.0  21.0  1.1  740  
+6T 1.5 1.7  0.6  1.4  18.5  1.1  600  0.3  1.0  22.0  1.2  840  
+7T 1.5 1.7  0.6  1.4  18.5  1.1  660  0.3  1.0  22.0  1.2  890  
+8T 1.5 1.7  0.6  1.4  20.1  1.1  750  0.3  1.1  23.8  1.2  1,020  
+9T 1.5 1.7  0.6  1.5  21.9  1.2  860  0.3  1.1  25.6  1.3  1,150  
+10T 1.5 1.7  0.6  1.6  24.0  1.2  980  0.3  1.2  27.9  1.3  1,310  
+11T 1.5 1.7  0.6  1.6  24.0  1.2  1,040  0.3  1.2  27.9  1.3  1,370  
+12T 1.5 1.7  0.6  1.6  24.8  1.2  1,120  0.3  1.2  28.7  1.4  1,450  
+13T 1.5 1.7  0.6  1.7  26.3  1.3  1,230  0.3  1.2  30.2  1.4  1,580  
+14T 1.5 1.7  0.6  1.7  26.3  1.3  1,290  0.3  1.2  30.2  1.4  1,640  
+15T 1.5 1.7  0.6  1.7  27.8  1.3  1,390  0.3  1.3  31.9  1.5  1,770  
+16T 1.5 1.7  0.6  1.7  27.8  1.3  1,450  0.3  1.3  31.9  1.5  1,830  
+17T 1.5 1.7  0.6  1.8  29.6  1.4  1,570  0.3  1.3  33.7  1.5  1,980  
+18T 1.5 1.7  0.6  1.8  29.6  1.4  1,630  0.3  1.3  33.7  1.5  2,040  
+19T 1.5 1.7  0.6  1.8  29.6  1.4  1,690  0.3  1.3  33.7  1.5  2,100  
+20T 1.5 1.7  0.6  1.8  30.5  1.4  1,780  0.4  1.4  35.3  1.6  2,290  
+24T 1.5 1.7  0.6  2.0  34.4  1.5  2,160  0.4  1.5  39.4  1.7  2,760  
+27T 1.5 1.7  0.6  2.0  35.2  1.6  2,370  0.4  1.5  40.2  1.7  2,980  
+30T 1.5 1.7  0.6  2.1  36.7  1.6  2,610  0.4  1.5  41.7  1.8  3,250  
+33T 1.5 1.7  0.6  2.1  38.1  1.6  2,840  0.4  1.6  43.3  1.8  3,520  
+37T 1.5 1.7  0.6  2.2  39.8  1.7  3,160  0.4  1.6  45.0  1.9  3,860  
+1Q 1.5 1.7  0.6  1.0  8.7  0.8  130  0.2  0.8  11.3  0.8  240  \n\n--- PAGE 28 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 28 / 64 
+ 
+TABLE. D4  250V ① F-TTCO, F-TTCO(C)  ② F-TTCOTBO, F-TTCOTBO(C)  2.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 2.5 2.2  0.6  1.0  8.4  0.8  120  0.2  0.8  11.0  0.8  230  
+2P 2.5 2.2  0.6  1.2  13.5  0.9  250  0.3  0.9  16.8  1.0  420  
+3P 2.5 2.2  0.6  1.2  14.3  0.9  310  0.3  0.9  17.6  1.0  490  
+4P 2.5 2.2  0.6  1.3  15.8  1.0  390  0.3  1.0  19.3  1.1  600  
+5P 2.5 2.2  0.6  1.4  17.9  1.0  490  0.3  1.0  21.4  1.1  720  
+6P 2.5 2.2  0.6  1.4  18.5  1.1  550  0.3  1.0  22.0  1.2  780  
+7P 2.5 2.2  0.6  1.4  18.5  1.1  600  0.3  1.0  22.0  1.2  830  
+8P 2.5 2.2  0.6  1.5  20.5  1.1  700  0.3  1.1  24.2  1.2  970  
+9P 2.5 2.2  0.6  1.5  21.8  1.2  780  0.3  1.1  25.5  1.3  1,060  
+10P 2.5 2.2  0.6  1.6  23.5  1.2  880  0.3  1.2  27.4  1.3  1,200  
+11P 2.5 2.2  0.6  1.6  23.8  1.2  940  0.3  1.2  27.7  1.3  1,260  
+12P 2.5 2.2  0.6  1.6  24.4  1.2  1,000  0.3  1.2  28.3  1.4  1,330  
+13P 2.5 2.2  0.6  1.6  24.7  1.2  1,060  0.3  1.2  28.6  1.4  1,390  
+14P 2.5 2.2  0.6  1.6  25.7  1.3  1,130  0.3  1.2  29.6  1.4  1,480  
+15P 2.5 2.2  0.6  1.7  26.5  1.3  1,220  0.3  1.2  30.4  1.4  1,570  
+16P 2.5 2.2  0.6  1.7  27.7  1.3  1,300  0.3  1.3  31.8  1.5  1,690  
+17P 2.5 2.2  0.6  1.7  28.0  1.3  1,360  0.3  1.3  32.1  1.5  1,750  
+18P 2.5 2.2  0.6  1.7  28.3  1.4  1,420  0.3  1.3  32.4  1.5  1,810  
+19P 2.5 2.2  0.6  1.7  28.3  1.4  1,470  0.3  1.3  32.4  1.5  1,860  
+20P 2.5 2.2  0.6  1.8  29.2  1.4  1,550  0.3  1.3  33.3  1.5  1,960  
+24P 2.5 2.2  0.6  1.9  33.4  1.5  1,900  0.4  1.4  38.2  1.6  2,460  
+27P 2.5 2.2  0.6  2.0  34.5  1.5  2,100  0.4  1.5  39.5  1.7  2,690  
+30P 2.5 2.2  0.6  2.0  35.7  1.6  2,290  0.4  1.5  40.7  1.7  2,910  
+33P 2.5 2.2  0.6  2.1  37.8  1.6  2,530  0.4  1.5  42.8  1.8  3,180  
+37P 2.5 2.2  0.6  2.1  38.4  1.7  2,750  0.4  1.6  43.6  1.8  3,430  
+44P 2.5 2.2  0.6  2.3  43.4  1.8  3,340  0.4  1.7  48.8  2.0  4,130  
+48P 2.5 2.2  0.6  2.3  44.3  1.8  3,580  0.4  1.7  49.7  2.0  4,380  
+1T 2.5 2.2  0.6  1.0  8.9  0.8  150  0.2  0.8  11.5  0.8  260  
+2T 2.5 2.2  0.6  1.3  15.5  1.0  370  0.3  1.0  19.0  1.1  570  
+3T 2.5 2.2  0.6  1.3  16.4  1.0  410  0.3  1.0  19.9  1.1  620  
+4T 2.5 2.2  0.6  1.4  18.3  1.0  610  0.3  1.0  21.8  1.2  840  
+5T 2.5 2.2  0.6  1.4  20.1  1.1  740  0.3  1.1  23.8  1.2  1,010  
+6T 2.5 2.2  0.6  1.5  21.2  1.1  870  0.3  1.1  24.9  1.2  1,140  
+7T 2.5 2.2  0.6  1.5  21.2  1.1  960  0.3  1.1  24.9  1.2  1,240  
+8T 2.5 2.2  0.6  1.6  23.2  1.2  1,110  0.3  1.2  27.1  1.3  1,420  
+9T 2.5 2.2  0.6  1.6  25.1  1.3  1,250  0.3  1.2  29.0  1.4  1,580  
+10T 2.5 2.2  0.6  1.7  27.5  1.3  1,420  0.3  1.3  31.6  1.4  1,800  
+11T 2.5 2.2  0.6  1.7  27.5  1.3  1,510  0.3  1.3  31.6  1.4  1,890  
+12T 2.5 2.2  0.6  1.8  28.6  1.4  1,640  0.3  1.3  32.7  1.5  2,040  
+13T 2.5 2.2  0.6  1.8  30.2  1.4  1,780  0.4  1.4  35.0  1.5  2,220  
+14T 2.5 2.2  0.6  1.8  30.2  1.4  1,870  0.4  1.4  35.0  1.5  2,310  
+15T 2.5 2.2  0.6  1.9  32.1  1.5  2,040  0.4  1.4  36.9  1.6  2,580  
+16T 2.5 2.2  0.6  1.9  32.1  1.5  2,130  0.4  1.4  36.9  1.6  2,670  
+17T 2.5 2.2  0.6  2.0  34.1  1.5  2,300  0.4  1.5  39.1  1.7  2,890  
+18T 2.5 2.2  0.6  2.0  34.1  1.5  2,390  0.4  1.5  39.1  1.7  2,990  
+19T 2.5 2.2  0.6  2.0  34.1  1.5  2,480  0.4  1.5  39.1  1.7  3,080  
+20T 2.5 2.2  0.6  2.0  35.3  1.6  2,610  0.4  1.5  40.3  1.7  3,230  
+24T 2.5 2.2  0.6  2.2  39.7  1.7  3,180  0.4  1.6  44.9  1.8  3,880  
+27T 2.5 2.2  0.6  2.2  40.6  1.7  3,490  0.4  1.6  45.8  1.9  4,210  
+30T 2.5 2.2  0.6  2.3  42.3  1.8  3,850  0.4  1.7  47.7  1.9  4,620  
+33T 2.5 2.2  0.6  2.3  44.0  1.8  4,190  0.4  1.7  49.4  2.0  4,990  
+37T 2.5 2.2  0.6  2.4  45.9  1.9  4,660  0.4  1.7  51.3  2.0  5,490  
+1Q 2.5 2.2  0.6  1.1  9.9  0.8  190  0.2  0.8  12.5  0.9  310  \n\n--- PAGE 29 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 29 / 64 
+ 
+TABLE. D5  250V ① F-TTCO(I), F-TTCO(I/C) ② F-TTCOTBO(I), F-TTCOTBO(I/C) 0.75SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 0.75 1.2 0.5  1.1  10.9  0.8  130  0.3  0.9  14.2  0.9  270  
+3P 0.75 1.2 0.5  1.1  11.5  0.8  160  0.3  0.9  14.8  0.9  300  
+4P 0.75 1.2 0.5  1.2  12.8  0.9  190  0.3  0.9  16.1  1.0  350  
+5P 0.75 1.2 0.5  1.2  14.0  0.9  230  0.3  0.9  17.3  1.0  400  
+6P 0.75 1.2 0.5  1.2  14.6  0.9  250  0.3  1.0  18.1  1.0  440  
+7P 0.75 1.2 0.5  1.2  14.6  0.9  270  0.3  1.0  18.1  1.0  460  
+8P 0.75 1.2 0.5  1.3  16.1  1.0  310  0.3  1.0  19.6  1.1  520  
+9P 0.75 1.2 0.5  1.3  17.3  1.0  350  0.3  1.0  20.8  1.1  570  
+10P 0.75 1.2 0.5  1.4  19.0  1.1  410  0.3  1.1  22.7  1.2  660  
+11P 0.75 1.2 0.5  1.4  19.0  1.1  420  0.3  1.1  22.7  1.2  680  
+12P 0.75 1.2 0.5  1.4  19.6  1.1  450  0.3  1.1  23.3  1.2  710  
+13P 0.75 1.2 0.5  1.5  20.9  1.1  500  0.3  1.1  24.6  1.2  770  
+14P 0.75 1.2 0.5  1.5  20.9  1.1  520  0.3  1.1  24.6  1.2  790  
+15P 0.75 1.2 0.5  1.5  22.0  1.2  560  0.3  1.1  25.7  1.3  850  
+16P 0.75 1.2 0.5  1.5  22.0  1.2  570  0.3  1.1  25.7  1.3  860  
+17P 0.75 1.2 0.5  1.6  23.4  1.2  630  0.3  1.2  27.3  1.3  950  
+18P 0.75 1.2 0.5  1.6  23.4  1.2  650  0.3  1.2  27.3  1.3  960  
+19P 0.75 1.2 0.5  1.6  23.4  1.2  660  0.3  1.2  27.3  1.3  970  
+20P 0.75 1.2 0.5  1.6  24.2  1.2  690  0.3  1.2  28.1  1.3  1,020  
+24P 0.75 1.2 0.5  1.7  27.1  1.3  840  0.3  1.3  31.2  1.4  1,220  
+27P 0.75 1.2 0.5  1.7  27.7  1.3  900  0.3  1.3  31.8  1.5  1,290  
+30P 0.75 1.2 0.5  1.8  28.9  1.4  1,000  0.3  1.3  33.0  1.5  1,390  
+33P 0.75 1.2 0.5  1.8  30.0  1.4  1,070  0.4  1.4  34.8  1.5  1,510  
+37P 0.75 1.2 0.5  1.9  31.4  1.4  1,190  0.4  1.4  36.2  1.6  1,720  
+44P 0.75 1.2 0.5  2.0  35.5  1.6  1,450  0.4  1.5  40.5  1.7  2,060  
+48P 0.75 1.2 0.5  2.0  36.1  1.6  1,530  0.4  1.5  41.1  1.7  2,150  
+2T 0.75 1.2 0.5  1.1  11.5  0.8  160  0.3  0.9  14.8  0.9  300  
+3T 0.75 1.2 0.5  1.1  12.2  0.9  220  0.3  0.9  15.5  1.0  370  
+4T 0.75 1.2 0.5  1.2  13.5  0.9  240  0.3  0.9  16.8  1.0  410  
+5T 0.75 1.2 0.5  1.2  14.8  0.9  330  0.3  1.0  18.3  1.1  520  
+6T 0.75 1.2 0.5  1.3  15.7  1.0  380  0.3  1.0  19.2  1.1  580  
+7T 0.75 1.2 0.5  1.3  15.7  1.0  410  0.3  1.0  19.2  1.1  610  
+8T 0.75 1.2 0.5  1.3  17.0  1.0  470  0.3  1.0  20.5  1.1  690  
+9T 0.75 1.2 0.5  1.4  18.5  1.1  540  0.3  1.1  22.2  1.2  780  
+10T 0.75 1.2 0.5  1.4  20.2  1.1  600  0.3  1.1  23.9  1.2  870  
+11T 0.75 1.2 0.5  1.4  20.2  1.1  630  0.3  1.1  23.9  1.2  900  
+12T 0.75 1.2 0.5  1.5  21.0  1.1  690  0.3  1.1  24.7  1.2  970  
+13T 0.75 1.2 0.5  1.5  22.1  1.2  750  0.3  1.1  25.8  1.3  1,040  
+14T 0.75 1.2 0.5  1.5  22.1  1.2  780  0.3  1.1  25.8  1.3  1,070  
+15T 0.75 1.2 0.5  1.6  23.6  1.2  860  0.3  1.2  27.5  1.3  1,180  
+16T 0.75 1.2 0.5  1.6  23.6  1.2  890  0.3  1.2  27.5  1.3  1,210  
+17T 0.75 1.2 0.5  1.6  24.8  1.2  960  0.3  1.2  28.7  1.4  1,290  
+18T 0.75 1.2 0.5  1.6  24.8  1.2  990  0.3  1.2  28.7  1.4  1,320  
+19T 0.75 1.2 0.5  1.6  24.8  1.2  1,020  0.3  1.2  28.7  1.4  1,350  
+20T 0.75 1.2 0.5  1.6  25.7  1.3  1,070  0.3  1.2  29.6  1.4  1,420  
+24T 0.75 1.2 0.5  1.8  28.9  1.4  1,310  0.3  1.3  33.0  1.5  1,710  
+27T 0.75 1.2 0.5  1.8  29.6  1.4  1,430  0.3  1.3  33.7  1.5  1,840  
+30T 0.75 1.2 0.5  1.8  30.7  1.4  1,560  0.4  1.4  35.5  1.6  2,080  
+33T 0.75 1.2 0.5  1.9  32.1  1.5  1,710  0.4  1.4  36.9  1.6  2,250  
+37T 0.75 1.2 0.5  1.9  33.3  1.5  1,880  0.4  1.4  38.1  1.6  2,440  
+44T 0.75 1.2 0.5  2.1  37.9  1.6  2,110  0.4  1.5  42.9  1.8  2,770  
+ 
+ \n\n--- PAGE 30 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 30 / 64 
+ 
+TABLE. D6  250V ① F-TTCO(I), F-TTCO(I/C)  ② F-TTCOTBO(I), F-TTCOTBO(I/C)  1SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 1 1.4 0.5  1.1  11.6  0.8  150  0.3  0.9  14.9  0.9  300  
+3P 1 1.4 0.5  1.2  12.5  0.9  190  0.3  0.9  15.8  1.0  350  
+4P 1 1.4 0.5  1.2  13.7  0.9  230  0.3  0.9  17.0  1.0  400  
+5P 1 1.4 0.5  1.3  15.2  1.0  280  0.3  1.0  18.7  1.1  480  
+6P 1 1.4 0.5  1.3  15.8  1.0  320  0.3  1.0  19.3  1.1  520  
+7P 1 1.4 0.5  1.3  15.8  1.0  340  0.3  1.0  19.3  1.1  540  
+8P 1 1.4 0.5  1.3  17.2  1.0  380  0.3  1.0  20.7  1.1  600  
+9P 1 1.4 0.5  1.4  18.7  1.1  440  0.3  1.1  22.4  1.2  690  
+10P 1 1.4 0.5  1.5  20.5  1.1  510  0.3  1.1  24.2  1.2  780  
+11P 1 1.4 0.5  1.5  20.5  1.1  530  0.3  1.1  24.2  1.2  800  
+12P 1 1.4 0.5  1.5  21.2  1.1  570  0.3  1.1  24.9  1.2  840  
+13P 1 1.4 0.5  1.5  22.3  1.2  610  0.3  1.1  26.0  1.3  900  
+14P 1 1.4 0.5  1.5  22.3  1.2  630  0.3  1.1  26.0  1.3  920  
+15P 1 1.4 0.5  1.6  23.8  1.2  700  0.3  1.2  27.7  1.3  1,020  
+16P 1 1.4 0.5  1.6  23.8  1.2  720  0.3  1.2  27.7  1.3  1,040  
+17P 1 1.4 0.5  1.6  25.1  1.3  770  0.3  1.2  29.0  1.4  1,110  
+18P 1 1.4 0.5  1.6  25.1  1.3  800  0.3  1.2  29.0  1.4  1,130  
+19P 1 1.4 0.5  1.6  25.1  1.3  820  0.3  1.2  29.0  1.4  1,150  
+20P 1 1.4 0.5  1.7  26.1  1.3  870  0.3  1.2  30.0  1.4  1,230  
+24P 1 1.4 0.5  1.8  29.2  1.4  1,060  0.3  1.3  33.3  1.5  1,460  
+27P 1 1.4 0.5  1.8  29.8  1.4  1,140  0.3  1.3  33.9  1.5  1,550  
+30P 1 1.4 0.5  1.8  31.0  1.4  1,240  0.4  1.4  35.8  1.6  1,760  
+33P 1 1.4 0.5  1.9  32.4  1.5  1,360  0.4  1.4  37.2  1.6  1,900  
+37P 1 1.4 0.5  1.9  33.6  1.5  1,480  0.4  1.4  38.4  1.7  2,050  
+44P 1 1.4 0.5  2.1  38.2  1.6  1,830  0.4  1.6  43.4  1.8  2,510  
+48P 1 1.4 0.5  2.1  38.9  1.7  1,940  0.4  1.6  44.1  1.8  2,620  
+2T 1 1.4 0.5  1.2  12.4  0.9  190  0.3  0.9  15.7  1.0  350  
+3T 1 1.4 0.5  1.2  13.2  0.9  270  0.3  0.9  16.5  1.0  430  
+4T 1 1.4 0.5  1.2  14.4  0.9  290  0.3  0.9  17.7  1.0  460  
+5T 1 1.4 0.5  1.3  16.1  1.0  410  0.3  1.0  19.6  1.1  620  
+6T 1 1.4 0.5  1.3  16.8  1.0  470  0.3  1.0  20.3  1.1  680  
+7T 1 1.4 0.5  1.3  16.8  1.0  510  0.3  1.0  20.3  1.1  720  
+8T 1 1.4 0.5  1.4  18.4  1.1  590  0.3  1.0  21.9  1.2  820  
+9T 1 1.4 0.5  1.4  19.8  1.1  660  0.3  1.1  23.5  1.2  920  
+10T 1 1.4 0.5  1.5  21.8  1.2  760  0.3  1.1  25.5  1.3  1,040  
+11T 1 1.4 0.5  1.5  21.8  1.2  800  0.3  1.1  25.5  1.3  1,080  
+12T 1 1.4 0.5  1.5  22.5  1.2  860  0.3  1.1  26.2  1.3  1,150  
+13T 1 1.4 0.5  1.6  23.9  1.2  950  0.3  1.2  27.8  1.3  1,270  
+14T 1 1.4 0.5  1.6  23.9  1.2  990  0.3  1.2  27.8  1.3  1,310  
+15T 1 1.4 0.5  1.6  25.2  1.3  1,070  0.3  1.2  29.1  1.4  1,410  
+16T 1 1.4 0.5  1.6  25.2  1.3  1,110  0.3  1.2  29.1  1.4  1,450  
+17T 1 1.4 0.5  1.7  26.8  1.3  1,210  0.3  1.3  30.9  1.4  1,580  
+18T 1 1.4 0.5  1.7  26.8  1.3  1,250  0.3  1.3  30.9  1.4  1,620  
+19T 1 1.4 0.5  1.7  26.8  1.3  1,290  0.3  1.3  30.9  1.4  1,670  
+20T 1 1.4 0.5  1.7  27.7  1.3  1,360  0.3  1.3  31.8  1.5  1,750  
+24T 1 1.4 0.5  1.8  31.0  1.4  1,650  0.4  1.4  35.8  1.6  2,170  
+27T 1 1.4 0.5  1.9  31.9  1.5  1,810  0.4  1.4  36.7  1.6  2,350  
+30T 1 1.4 0.5  1.9  33.1  1.5  1,980  0.4  1.4  37.9  1.6  2,540  
+33T 1 1.4 0.5  2.0  34.6  1.5  2,180  0.4  1.5  39.6  1.7  2,780  
+37T 1 1.4 0.5  2.0  35.9  1.6  2,400  0.4  1.5  40.9  1.7  3,020  
+44T 1 1.4 0.5  2.2  40.9  1.7  2,650  0.4  1.6  46.1  1.9  3,380  
+ 
+ \n\n--- PAGE 31 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 31 / 64 
+ 
+TABLE. D7  250V  ① F-TTCO(I), F-TTCO(I/C)  ② F-TTCOTBO(I), F-TTCOTBO(I/C)  1.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 1.5 1.7  0.6  1.2  13.2  0.9  200  0.3  0.9  16.5  1.0  360  
+3P 1.5 1.7  0.6  1.2  14.0  0.9  240  0.3  0.9  17.3  1.0  410  
+4P 1.5 1.7  0.6  1.3  15.5  1.0  300  0.3  1.0  19.0  1.1  500  
+5P 1.5 1.7  0.6  1.3  17.0  1.0  360  0.3  1.0  20.5  1.1  580  
+6P 1.5 1.7  0.6  1.4  18.0  1.0  410  0.3  1.0  21.5  1.1  640  
+7P 1.5 1.7  0.6  1.4  18.0  1.0  440  0.3  1.0  21.5  1.1  670  
+8P 1.5 1.7  0.6  1.4  19.5  1.1  510  0.3  1.1  23.2  1.2  760  
+9P 1.5 1.7  0.6  1.5  21.3  1.1  580  0.3  1.1  25.0  1.2  860  
+10P 1.5 1.7  0.6  1.6  23.4  1.2  670  0.3  1.2  27.3  1.3  980  
+11P 1.5 1.7  0.6  1.6  23.4  1.2  700  0.3  1.2  27.3  1.3  1,010  
+12P 1.5 1.7  0.6  1.6  24.1  1.2  750  0.3  1.2  28.0  1.3  1,070  
+13P 1.5 1.7  0.6  1.6  25.4  1.3  810  0.3  1.2  29.3  1.4  1,150  
+14P 1.5 1.7  0.6  1.6  25.4  1.3  840  0.3  1.2  29.3  1.4  1,180  
+15P 1.5 1.7  0.6  1.7  27.1  1.3  920  0.3  1.3  31.2  1.4  1,300  
+16P 1.5 1.7  0.6  1.7  27.1  1.3  950  0.3  1.3  31.2  1.4  1,330  
+17P 1.5 1.7  0.6  1.8  28.7  1.4  1,040  0.3  1.3  32.8  1.5  1,440  
+18P 1.5 1.7  0.6  1.8  28.7  1.4  1,070  0.3  1.3  32.8  1.5  1,470  
+19P 1.5 1.7  0.6  1.8  28.7  1.4  1,100  0.3  1.3  32.8  1.5  1,500  
+20P 1.5 1.7  0.6  1.8  29.7  1.4  1,160  0.3  1.3  33.8  1.5  1,570  
+24P 1.5 1.7  0.6  1.9  33.3  1.5  1,410  0.4  1.4  38.1  1.6  1,970  
+27P 1.5 1.7  0.6  2.0  34.2  1.5  1,540  0.4  1.5  39.2  1.7  2,130  
+30P 1.5 1.7  0.6  2.0  35.5  1.6  1,670  0.4  1.5  40.5  1.7  2,290  
+33P 1.5 1.7  0.6  2.1  37.1  1.6  1,830  0.4  1.5  42.1  1.8  2,470  
+37P 1.5 1.7  0.6  2.1  38.5  1.7  2,000  0.4  1.6  43.7  1.8  2,690  
+44P 1.5 1.7  0.6  2.3  43.8  1.8  2,460  0.4  1.7  49.2  2.0  3,250  
+48P 1.5 1.7  0.6  2.3  44.5  1.8  2,610  0.4  1.7  49.9  2.0  3,420  
+2T 1.5 1.7  0.6  1.2  13.9  0.9  240  0.3  0.9  17.2  1.0  420  
+3T 1.5 1.7  0.6  1.2  14.8  0.9  350  0.3  1.0  18.3  1.0  540  
+4T 1.5 1.7  0.6  1.3  16.4  1.0  380  0.3  1.0  19.9  1.1  590  
+5T 1.5 1.7  0.6  1.4  18.3  1.0  560  0.3  1.0  21.8  1.2  790  
+6T 1.5 1.7  0.6  1.4  19.1  1.1  630  0.3  1.1  22.8  1.2  890  
+7T 1.5 1.7  0.6  1.4  19.1  1.1  700  0.3  1.1  22.8  1.2  950  
+8T 1.5 1.7  0.6  1.5  20.9  1.1  810  0.3  1.1  24.6  1.2  1,080  
+9T 1.5 1.7  0.6  1.5  22.6  1.2  910  0.3  1.2  26.5  1.3  1,210  
+10T 1.5 1.7  0.6  1.6  24.8  1.2  1,040  0.3  1.2  28.7  1.4  1,370  
+11T 1.5 1.7  0.6  1.6  24.8  1.2  1,100  0.3  1.2  28.7  1.4  1,430  
+12T 1.5 1.7  0.6  1.6  25.6  1.3  1,180  0.3  1.2  29.5  1.4  1,530  
+13T 1.5 1.7  0.6  1.7  27.2  1.3  1,300  0.3  1.3  31.3  1.4  1,680  
+14T 1.5 1.7  0.6  1.7  27.2  1.3  1,360  0.3  1.3  31.3  1.4  1,740  
+15T 1.5 1.7  0.6  1.8  28.9  1.4  1,480  0.3  1.3  33.0  1.5  1,880  
+16T 1.5 1.7  0.6  1.8  28.9  1.4  1,550  0.3  1.3  33.0  1.5  1,950  
+17T 1.5 1.7  0.6  1.8  30.5  1.4  1,660  0.4  1.4  35.3  1.6  2,180  
+18T 1.5 1.7  0.6  1.8  30.5  1.4  1,720  0.4  1.4  35.3  1.6  2,240  
+19T 1.5 1.7  0.6  1.8  30.5  1.4  1,780  0.4  1.4  35.3  1.6  2,300  
+20T 1.5 1.7  0.6  1.9  31.8  1.5  1,890  0.4  1.4  36.6  1.6  2,430  
+24T 1.5 1.7  0.6  2.0  35.6  1.6  2,290  0.4  1.5  40.6  1.7  2,910  
+27T 1.5 1.7  0.6  2.0  36.3  1.6  2,500  0.4  1.5  41.3  1.7  3,130  
+30T 1.5 1.7  0.6  2.1  38.0  1.6  2,760  0.4  1.5  43.0  1.8  3,420  
+33T 1.5 1.7  0.6  2.2  39.6  1.7  3,030  0.4  1.6  44.8  1.8  3,730  
+37T 1.5 1.7  0.6  2.2  41.2  1.7  3,340  0.4  1.6  46.4  1.9  4,070  
+44T 1.5 1.7  0.6  2.4  46.8  1.9  4,060  0.4  1.8  52.4  2.1  4,930  
+ 
+ \n\n--- PAGE 32 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 32 / 64 
+ 
+TABLE. D8  250V  ① F-TTCO(I), F-TTCO(I/C)  ② F-TTCOTBO(I), F-TTCOTBO(I/C)  2.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 2.5 2.2  0.6  1.2  14.8  0.9  260  0.3  1.0  18.3  1.0  450  
+3P 2.5 2.2  0.6  1.3  15.9  1.0  330  0.3  1.0  19.4  1.1  530  
+4P 2.5 2.2  0.6  1.3  17.5  1.0  410  0.3  1.0  21.0  1.1  630  
+5P 2.5 2.2  0.6  1.4  19.4  1.1  500  0.3  1.1  23.1  1.2  750  
+6P 2.5 2.2  0.6  1.5  20.5  1.1  570  0.3  1.1  24.2  1.2  840  
+7P 2.5 2.2  0.6  1.5  20.5  1.1  620  0.3  1.1  24.2  1.2  890  
+8P 2.5 2.2  0.6  1.5  22.3  1.2  710  0.3  1.1  26.0  1.3  1,000  
+9P 2.5 2.2  0.6  1.6  24.3  1.2  810  0.3  1.2  28.2  1.3  1,140  
+10P 2.5 2.2  0.6  1.7  26.7  1.3  930  0.3  1.3  30.8  1.4  1,300  
+11P 2.5 2.2  0.6  1.7  26.7  1.3  980  0.3  1.3  30.8  1.4  1,350  
+12P 2.5 2.2  0.6  1.7  27.5  1.3  1,050  0.3  1.3  31.6  1.4  1,430  
+13P 2.5 2.2  0.6  1.8  29.2  1.4  1,150  0.3  1.3  33.3  1.5  1,560  
+14P 2.5 2.2  0.6  1.8  29.2  1.4  1,200  0.3  1.3  33.3  1.5  1,600  
+15P 2.5 2.2  0.6  1.8  30.9  1.4  1,300  0.4  1.4  35.7  1.6  1,820  
+16P 2.5 2.2  0.6  1.8  30.9  1.4  1,340  0.4  1.4  35.7  1.6  1,860  
+17P 2.5 2.2  0.6  1.9  32.8  1.5  1,460  0.4  1.4  37.6  1.6  2,020  
+18P 2.5 2.2  0.6  1.9  32.8  1.5  1,510  0.4  1.4  37.6  1.6  2,060  
+19P 2.5 2.2  0.6  1.9  32.8  1.5  1,550  0.4  1.4  37.6  1.6  2,110  
+20P 2.5 2.2  0.6  2.0  34.1  1.5  1,660  0.4  1.5  39.1  1.7  2,250  
+24P 2.5 2.2  0.6  2.1  38.2  1.6  2,000  0.4  1.6  43.4  1.8  2,680  
+27P 2.5 2.2  0.6  2.1  39.0  1.7  2,170  0.4  1.6  44.2  1.8  2,870  
+30P 2.5 2.2  0.6  2.2  40.7  1.7  2,390  0.4  1.6  45.9  1.9  3,120  
+33P 2.5 2.2  0.6  2.3  42.5  1.8  2,620  0.4  1.7  47.9  1.9  3,400  
+37P 2.5 2.2  0.6  2.3  44.2  1.8  2,880  0.4  1.7  49.6  2.0  3,680  
+44P 2.5 2.2  0.6  2.6  50.4  2.0  3,550  0.4  1.9  56.2  2.2  4,510  
+48P 2.5 2.2  0.6  2.6  51.3  2.0  3,770  0.4  1.9  57.1  2.2  4,750  
+2T 2.5 2.2  0.6  1.3  15.9  1.0  330  0.3  1.0  19.4  1.1  540  
+3T 2.5 2.2  0.6  1.3  16.9  1.0  500  0.3  1.0  20.4  1.1  710  
+4T 2.5 2.2  0.6  1.4  18.7  1.1  530  0.3  1.1  22.4  1.2  780  
+5T 2.5 2.2  0.6  1.5  20.8  1.1  790  0.3  1.1  24.5  1.2  1,060  
+6T 2.5 2.2  0.6  1.5  21.8  1.2  910  0.3  1.1  25.5  1.3  1,190  
+7T 2.5 2.2  0.6  1.5  21.8  1.2  1,000  0.3  1.1  25.5  1.3  1,280  
+8T 2.5 2.2  0.6  1.6  23.9  1.2  1,160  0.3  1.2  27.8  1.3  1,480  
+9T 2.5 2.2  0.6  1.7  26.0  1.3  1,320  0.3  1.2  29.9  1.4  1,670  
+10T 2.5 2.2  0.6  1.7  28.3  1.3  1,480  0.3  1.3  32.4  1.5  1,880  
+11T 2.5 2.2  0.6  1.7  28.3  1.3  1,580  0.3  1.3  32.4  1.5  1,970  
+12T 2.5 2.2  0.6  1.8  29.4  1.4  1,720  0.3  1.3  33.5  1.5  2,130  
+13T 2.5 2.2  0.6  1.8  31.1  1.4  1,870  0.4  1.4  35.9  1.6  2,390  
+14T 2.5 2.2  0.6  1.8  31.1  1.4  1,960  0.4  1.4  35.9  1.6  2,490  
+15T 2.5 2.2  0.6  1.9  33.0  1.5  2,140  0.4  1.4  37.8  1.6  2,700  
+16T 2.5 2.2  0.6  1.9  33.0  1.5  2,230  0.4  1.4  37.8  1.6  2,790  
+17T 2.5 2.2  0.6  2.0  35.1  1.6  2,410  0.4  1.5  40.1  1.7  3,020  
+18T 2.5 2.2  0.6  2.0  35.1  1.6  2,510  0.4  1.5  40.1  1.7  3,120  
+19T 2.5 2.2  0.6  2.0  35.1  1.6  2,610  0.4  1.5  40.1  1.7  3,210  
+20T 2.5 2.2  0.6  2.0  36.3  1.6  2,740  0.4  1.5  41.3  1.7  3,370  
+24T 2.5 2.2  0.6  2.2  40.8  1.7  3,340  0.4  1.6  46.0  1.9  4,060  
+27T 2.5 2.2  0.6  2.2  41.7  1.8  3,660  0.4  1.6  46.9  1.9  4,400  
+30T 2.5 2.2  0.6  2.3  43.6  1.8  4,040  0.4  1.7  49.0  2.0  4,840  
+33T 2.5 2.2  0.6  2.4  45.4  1.9  4,430  0.4  1.7  50.8  2.0  5,260  
+37T 2.5 2.2  0.6  2.4  47.3  1.9  4,900  0.4  1.8  52.9  2.1  5,780  
+44T 2.5 2.2  0.6  2.7  53.9  2.1  5,970  0.4  1.9  59.7  2.3  6,990  
+ \n\n--- PAGE 33 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 33 / 64 
+ 
+0.6/1kV F-GO 
+ 
+[Earthing cables] 
+[TABLE. E]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+- Base Std.  : IEC 60092-350, 353 
+- Sheath        : IEC 60092-360  SHF1 
+- Flame retardant : IEC 60332-3-22 (Cat.A) 
+- HCl gas emission : IEC 60754-1 (Max.0.5%) 
+- Smoke emission   : IEC 61034 (Min.60%) 
+ 
+CONSTRUCTION DETAIL 
+ Classification  Detail Code letters 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2   
+Sheath SHF1 to IEC 60092-360 GO 
+ 
+ 
+TABLE. E   0.6/1kV  F-GO  
+No. 
+of cores 
+Conductor Thick. 
+of Sheath 
+Nominal 
+Dia. 
+Tolerance 
+(±) 
+Weight 
+Approx. Size Max. Dia. 
+No. SQMM mm mm mm mm kg/km 
+1 
+1.5 1.7 1.0  3.6  0.6  30  
+2.5 2.2 1.0  4.0  0.6  40  
+4 2.7 1.0  4.5  0.6  60  
+6 3.3 1.0  5.1  0.7  70  
+10 4.2 1.0  6.0  0.7  110  
+16 5.3 1.0  7.1  0.7  170  
+25 6.6 1.2  8.8  0.8  260  
+35 7.9 1.2  9.9  0.8  350  
+50 9.1 1.4  11.6  0.8  480  
+70 11.0 1.4  13.4  0.9  670  
+95 12.9 1.6  15.6  1.0  920  
+120 14.5 1.6  17.2  1.0  1,150  
+150 16.2 1.8  19.2  1.1  1,410  
+185 18.0 2.0  21.4  1.1  1,770  
+240 20.6 2.2  24.4  1.2  2,310  
+300 23.1 2.4  27.2  1.3  2,890  
+400 26.1 2.6  30.5  1.4  3,670  
+500 29.2 2.8  34.2  1.5  4,690  
+630 33.2 2.8  38.1  1.6  5,990  
+ 
+ 
+ \n\n--- PAGE 34 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 34 / 64 
+ 
+0.6/1kV   
+FRT-SCO, DCO, DCO(C), TCO, TCO(C), FCO, FCO(C) 
+FRT-DCOE, TCOE, FCOE, MCO, MCO(C), MCOE, MCOE(C) 
+FRT-SCOTBO, DCOTBO, DCOTBO(C), TCOTBO, TCOTBO(C), 
+FRT-FCOTBO, FCOTBO(C), DCOTBOE, TCOTBOE, FCOTBOE, 
+FRT-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C) 
+ 
+[LV  POWER CABLES, FLAME RETARDANT & FIRE RESISTANT] 
+[TABLE. F]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+- Base Std.  : IEC 60092-350, 353 
+- Insulation  : IEC 60092-360 XLPE 
+- Sheath                 : IEC 60092-360  SHF1  
+- Fire resistant : IEC 60331-1&2 
+- Flame retardant : IEC 60332-3-22 (Cat.A) 
+- HCl gas emission : IEC 60754-1 (Max.0.5%) 
+- Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2  
+Fire proof layer Mica tape FRT- 
+Insulation XLPE to IEC 60092-360   C 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Overall screen Copper/polyester tape with drain wire 
+* (C) type only (C) 
+Inner sheath SHF1 to IEC 60092-360 O 
+Armor Tinned annealed copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 35 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 35 / 64 
+ 
+TABLE. F1  0.6/1kV  ① FRT-SCO  ② FRT-SCOTBO 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1C 
+1.5 1.7  0.7  1.0  5.4  0.7  50  0.2  0.8  8.0  0.7  130  
+2.5 2.2  0.7  1.0  5.8  0.7  60  0.2  0.8  8.4  0.8  140  
+4 2.7  0.7  1.0  6.4  0.7  80  0.2  0.8  9.0  0.8  170  
+6 3.3  0.7  1.0  6.9  0.7  100  0.2  0.8  9.5  0.8  190  
+10 4.2  0.7  1.0  7.9  0.7  140  0.2  0.8  10.5  0.8  250  
+16 5.3  0.7  1.0  9.0  0.8  200  0.2  0.8  11.6  0.8  320  
+25 6.6  0.9  1.1  10.8  0.8  310  0.3  0.9  14.1  0.9  460  
+35 7.9  0.9  1.1  11.9  0.9  400  0.3  0.9  15.2  1.0  570  
+50 9.1  1.0  1.2  13.6  0.9  540  0.3  0.9  16.9  1.0  720  
+70 11.0  1.1  1.3  15.8  1.0  750  0.3  1.0  19.3  1.1  970  
+95 12.9  1.1  1.4  17.9  1.0  1,010  0.3  1.0  21.4  1.1  1,250  
+120 14.5  1.2  1.4  19.6  1.1  1,250  0.3  1.1  23.3  1.2  1,530  
+150 16.2  1.4  1.5  21.7  1.2  1,530  0.3  1.1  25.4  1.3  1,840  
+185 18.0  1.6  1.6  24.1  1.2  1,910  0.3  1.2  28.0  1.3  2,250  
+240  20.6  1.7  1.7  27.1  1.3  2,470  0.3  1.3  31.2  1.4  2,870  
+300  23.1  1.8  1.8  29.8  1.4  3,060  0.3  1.3  33.9  1.5  3,500  
+400  26.1 2.0  1.9  33.3  1.5  3,870  0.4  1.4  38.1  1.6  4,470  
+500  29.2 2.2  2.1  37.4  1.6  4,940  0.4  1.5  42.4  1.8  5,630  
+630  33.2 2.4  2.2  41.9  1.8  6,320  0.4  1.6  47.1  1.9  7,110  
+ 
+ 
+TABLE. F2  0.6/1kV  ① FRT-DCO, FRT-DCO(C)  ② FRT-DCOTBO, FRT-DCOTBO(C) 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2C 
+1.5 1.7  0.7  1.0  8.7  0.8  100  0.2  0.8  11.3  0.8  210  
+2.5 2.2  0.7  1.1  9.7  0.8  130  0.2  0.8  12.3  0.9  250  
+4 2.7  0.7  1.1  10.8  0.8  170  0.3  0.9  14.1  0.9  310  
+6 3.3  0.7  1.1  11.8  0.9  220  0.3  0.9  15.1  1.0  370  
+10 4.2  0.7  1.2  14.1  0.9  330  0.3  0.9  17.4  1.0  500  
+16 5.3  0.7  1.3  17.2  1.0  510  0.3  1.0  20.7  1.1  730  
+25 6.6  0.9  1.4  20.7  1.1  750  0.3  1.1  24.4  1.2  1,020  
+35 7.9  0.9  1.5  22.9  1.2  960  0.3  1.2  26.8  1.3  1,270  
+50 9.1  1.0  1.6  26.1  1.3  1,260  0.3  1.2  30.0  1.4  1,620  
+70 11.0  1.1  1.8  30.4  1.4  1,770  0.4  1.4  35.2  1.6  2,200  
+95 12.9  1.1  2.0  34.1  1.5  2,320  0.4  1.5  39.1  1.7  2,910  
+120 14.5  1.2  2.1  37.8  1.6  2,880  0.4  1.5  42.8  1.8  3,530  
+150 16.2  1.4  2.2  41.8  1.8  3,520  0.4  1.6  47.0  1.9  4,250  
+185 18.0  1.6  2.4  46.6  1.9  4,380  0.4  1.8  52.2  2.1  5,250  
+240  20.6  1.7  2.6  52.5  2.1  5,660  0.4  1.9  58.3  2.2  6,660  
+300  23.1  1.8  2.8  58.0  2.2  7,020  0.4  2.1  64.2  2.4  8,180  
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 36 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 36 / 64 
+ 
+TABLE. F3  0.6/1kV  ① FRT-TCO, FRT-TCO(C) ② FRT-TCOTBO, FRT-TCOTBO(C) 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+3C 
+1.5 1.7  0.7  1.0  9.2  0.8  120  0.2  0.8  11.8  0.9  230 
+2.5 2.2  0.7  1.1  10.3  0.8  160  0.3  0.8  13.4  0.9  290 
+4 2.7  0.7  1.1  11.4  0.8  220  0.3  0.9  14.7  0.9  360 
+6 3.3  0.7  1.2  12.8  0.9  290  0.3  0.9  16.1  1.0  450 
+10 4.2  0.7  1.3  15.2  1.0  440  0.3  1.0  18.7  1.1  630 
+16 5.3  0.7  1.3  18.4  1.1  680  0.3  1.0  21.9  1.2  910 
+25 6.6  0.9  1.5  22.2  1.2  1,010  0.3  1.1  25.9  1.3  1,300 
+35 7.9  0.9  1.6  24.8  1.2  1,330  0.3  1.2  28.7  1.4  1,670 
+50 9.1  1.0  1.7  27.9  1.3  1,730  0.3  1.3  32.0  1.5  2,110 
+70 11.0  1.1  1.9  32.5  1.5  2,420  0.4  1.4  37.3  1.6  2,970 
+95 12.9  1.1  2.0  36.3  1.6  3,190  0.4  1.5  41.3  1.7  3,810 
+120 14.5  1.2  2.2  40.5  1.7  3,990  0.4  1.6  45.7  1.9  4,710 
+150 16.2  1.4  2.4  45.0  1.8  4,910  0.4  1.7  50.4  2.0  5,720 
+185 18.0  1.6  2.5  49.9  2.0  6,080  0.4  1.8  55.5  2.2  7,010 
+240  20.6  1.7  2.8  56.4  2.2  7,920  0.4  2.0  62.4  2.4  9,020 
+300  23.1  1.8  3.0  62.3  2.4  9,820  0.4  2.2  68.7  2.6  11,100 
+ 
+ 
+TABLE. F4  0.6/1kV  ① FRT-FCO, FRT-FCO(C) ② FRT-FCOTBO, FRT-FCOTBO(C) 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+4C 
+1.5 1.7  0.7  1.1  10.2  0.8  150  0.3  0.8  13.3  0.9  280  
+2.5 2.2  0.7  1.1  11.3  0.8  200  0.3  0.9  14.6  0.9  350  
+4 2.7  0.7  1.2  12.7  0.9  280  0.3  0.9  16.0  1.0  440  
+6 3.3  0.7  1.2  14.0  0.9  360  0.3  0.9  17.3  1.0  540  
+10 4.2  0.7  1.3  16.7  1.0  550  0.3  1.0  20.2  1.1  770  
+16 5.3  0.7  1.4  19.4  1.1  810  0.3  1.1  23.1  1.2  1,060  
+25 6.6  0.9  1.6  23.8  1.2  1,240  0.3  1.2  27.7  1.3  1,570  
+35 7.9  0.9  1.7  26.7  1.3  1,650  0.3  1.3  30.8  1.4  2,030  
+50 9.1  1.0  1.8  30.5  1.4  2,190  0.4  1.4  35.3  1.6  2,710  
+70 11.0  1.1  2.0  35.6  1.6  3,090  0.4  1.5  40.6  1.7  3,700  
+95 12.9  1.1  2.2  40.6  1.7  4,170  0.4  1.6  45.8  1.9  4,890  
+120 14.5  1.2  2.4  45.2  1.9  5,220  0.4  1.7  50.6  2.0  6,040  
+150 16.2  1.4  2.5  50.0  2.0  6,390  0.4  1.8  55.6  2.2  7,310  
+185 18.0  1.6  2.8  55.9  2.2  7,990  0.4  2.0  61.9  2.4  9,080  
+240  20.6  1.7  3.0  62.9  2.4  10,350  0.4  2.2  69.3  2.6  11,640  
+300  23.1  1.8  3.3  69.7  2.6  12,880  0.4  2.3  76.3  2.8  14,340  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 37 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 37 / 64 
+ 
+TABLE. F5  0.6/1kV  ① FRT-DCOE  ② FRT-DCOTBOE 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2C+E 
+1.5 1.7  0.7  1.0  9.2  0.8  190  0.2  0.8  11.8  0.9  300  
+2.5 2.2  0.7  1.1  10.3  0.8  250  0.3  0.8  13.4  0.9  370  
+4 2.7  0.7  1.1  11.4  0.8  320  0.3  0.9  14.7  0.9  470  
+6 3.3  0.7  1.2  12.8  0.9  410  0.3  0.9  16.1  1.0  570  
+10 4.2  0.7  1.3  15.2  1.0  600  0.3  1.0  18.7  1.1  790  
+16 5.3  0.7  1.3  18.4  1.1  680  0.3  1.0  21.9  1.2  910  
+25 6.6  0.9  1.5  20.6  1.1  1,110  0.3  1.1  24.3  1.2  1,390  
+35 7.9  0.9  1.6  23.5  1.2  1,490  0.3  1.2  27.4  1.3  1,800  
+50 9.1  1.0  1.7  26.2  1.3  1,810  0.3  1.2  30.1  1.4  2,160  
+70 11.0  1.1  1.8  30.9  1.4  2,590  0.4  1.4  35.7  1.6  3,110  
+95 12.9  1.1  2.0  34.5  1.5  3,220  0.4  1.5  39.5  1.7  3,820  
+120 14.5  1.2  2.1  38.6  1.7  4,050  0.4  1.6  43.8  1.8  4,740  
+150 16.2  1.4  2.3  43.1  1.8  5,020  0.4  1.7  48.5  2.0  5,810  
+185 18.0  1.6  2.4  47.0  1.9  5,880  0.4  1.8  52.6  2.1  6,750  
+240  20.6  1.7  2.7  53.0  2.1  7,500  0.4  1.9  58.8  2.3  8,510  
+300  23.1  1.8  2.9  58.6  2.3  9,200  0.4  2.1  64.8  2.4  10,370  
+ 
+ 
+TABLE. F6  0.6/1kV  ① FRT-TCOE  ② FRT-TCOTBOE 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+3C+E 
+1.5 1.7  0.7  1.1  10.2  0.8  240  0.3  0.8  13.3  0.9  370  
+2.5 2.2  0.7  1.1  11.3  0.8  310  0.3  0.9  14.6  0.9  460  
+4 2.7  0.7  1.2  12.7  0.9  420  0.3  0.9  16.0  1.0  580  
+6 3.3  0.7  1.2  14.0  0.9  530  0.3  0.9  17.3  1.0  710  
+10 4.2  0.7  1.3  16.7  1.0  760  0.3  1.0  20.2  1.1  980  
+16 5.3  0.7  1.4  19.4  1.1  1,080  0.3  1.1  23.1  1.2  1,330  
+25 6.6  0.9  1.5  22.9  1.2  1,470  0.3  1.2  26.8  1.3  1,780  
+35 7.9  0.9  1.7  26.2  1.3  1,960  0.3  1.2  30.1  1.4  2,310  
+50 9.1  1.0  1.8  29.4  1.4  2,430  0.3  1.3  33.5  1.5  2,830  
+70 11.0  1.1  2.0  34.8  1.5  3,460  0.4  1.5  39.8  1.7  4,060  
+95 12.9  1.1  2.1  38.8  1.7  4,340  0.4  1.6  44.0  1.8  5,030  
+120 14.5  1.2  2.3  43.5  1.8  5,460  0.4  1.7  48.9  2.0  6,250  
+150 16.2  1.4  2.5  48.5  2.0  6,730  0.4  1.8  54.1  2.1  7,630  
+185 18.0  1.6  2.7  53.3  2.1  8,000  0.4  1.9  59.1  2.3  9,020  
+240  20.6  1.7  2.9  59.9  2.3  10,190  0.4  2.1  66.1  2.5  11,390  
+300  23.1  1.8  3.1  66.2  2.5  12,510  0.4  2.3  72.8  2.7  13,890  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 38 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 38 / 64 
+ 
+TABLE. F7  0.6/1kV  ① FRT-FCOE  ② FRT-FCOTBOE 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+4C+E 
+1.5 1.7  0.7  1.1  11.2  0.8  300  0.3  0.9  14.5  0.9  440  
+2.5 2.2  0.7  1.2  12.5  0.9  390  0.3  0.9  15.8  1.0  550  
+4 2.7  0.7  1.2  13.9  0.9  510  0.3  0.9  17.2  1.0  680  
+6 3.3  0.7  1.3  15.6  1.0  660  0.3  1.0  19.1  1.1  860  
+10 4.2  0.7  1.4  18.6  1.1  950  0.3  1.1  22.3  1.2  1,200  
+16 5.3  0.7  1.5  21.6  1.1  1,340  0.3  1.1  25.3  1.3  1,620  
+25 6.6  0.9  1.6  25.6  1.3  1,850  0.3  1.2  29.5  1.4  2,190  
+35 7.9  0.9  1.8  29.3  1.4  2,460  0.3  1.3  33.4  1.5  2,860  
+50 9.1  1.0  1.9  33.0  1.5  3,070  0.4  1.4  37.8  1.6  3,620  
+70 11.0  1.1  2.1  38.9  1.7  4,330  0.4  1.6  44.1  1.8  5,020  
+95 12.9  1.1  2.3  43.7  1.8  5,530  0.4  1.7  49.1  2.0  6,320  
+120 14.5  1.2  2.5  48.9  2.0  6,920  0.4  1.8  54.5  2.1  7,830  
+150 16.2  1.4  2.7  54.4  2.1  8,500  0.4  2.0  60.4  2.3  9,560  
+185 18.0  1.6  2.9  60.0  2.3  10,180  0.4  2.1  66.2  2.5  11,380  
+240  20.6  1.7  3.2  67.6  2.5  13,010  0.4  2.3  74.2  2.7  14,430  
+300  23.1  1.8  3.5  74.9  2.7  16,020  0.4  2.5  81.9  3.0  17,610  
+ 
+TABLE. F8  0.6/1kV  ① FRT-MCO, MCO(C), MCOE, MCOE(C) 
+② FRT-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)  1SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1 1.4 0.7  1.0  8.3  0.7  90  0.2  0.8  10.9  0.8  190  
+3(2+E) 1 1.4 0.7  1.0  8.7  0.8  110  0.2  0.8  11.3  0.8  220  
+4(3+E) 1 1.4 0.7  1.1  9.7  0.8  140  0.2  0.8  12.3  0.9  250  
+5(4+E) 1 1.4 0.7  1.1  10.6  0.8  160  0.3  0.9  13.9  0.9  300  
+6(5+E) 1 1.4 0.7  1.1  11.5  0.8  180  0.3  0.9  14.8  0.9  330  
+7(6+E) 1 1.4 0.7  1.1  11.5  0.8  200  0.3  0.9  14.8  0.9  340  
+8(7+E) 1 1.4 0.7  1.2  12.6  0.9  230  0.3  0.9  15.9  1.0  390  
+9(8+E) 1 1.4 0.7  1.2  13.5  0.9  260  0.3  0.9  16.8  1.0  430  
+10(9+E) 1 1.4 0.7  1.2  14.7  0.9  290  0.3  1.0  18.2  1.0  480  
+11(10+E) 1 1.4 0.7  1.2  14.7  0.9  300  0.3  1.0  18.2  1.0  490  
+12(11+E) 1 1.4 0.7  1.3  15.3  1.0  330  0.3  1.0  18.8  1.1  530  
+13(12+E) 1 1.4 0.7  1.3  16.1  1.0  360  0.3  1.0  19.6  1.1  560  
+14(13+E) 1 1.4 0.7  1.3  16.1  1.0  370  0.3  1.0  19.6  1.1  580  
+15(14+E) 1 1.4 0.7  1.3  17.0  1.0  400  0.3  1.0  20.5  1.1  610  
+16(15+E) 1 1.4 0.7  1.3  17.0  1.0  410  0.3  1.0  20.5  1.1  620  
+17(16+E) 1 1.4 0.7  1.4  18.1  1.0  450  0.3  1.0  21.6  1.1  680  
+18(17+E) 1 1.4 0.7  1.4  18.1  1.0  460  0.3  1.0  21.6  1.1  690  
+19(18+E) 1 1.4 0.7  1.4  18.1  1.0  470  0.3  1.0  21.6  1.1  700  
+20(19+E) 1 1.4 0.7  1.4  19.0  1.1  510  0.3  1.1  22.7  1.2  760  
+21(20+E) 1 1.4 0.7  1.4  19.0  1.1  520  0.3  1.1  22.7  1.2  770  
+24(23+E) 1 1.4 0.7  1.5  21.3  1.1  610  0.3  1.1  25.0  1.2  890  
+25(24+E) 1 1.4 0.7  1.5  21.3  1.1  630  0.3  1.1  25.0  1.2  900  
+26(25+E) 1 1.4 0.7  1.5  21.3  1.1  640  0.3  1.1  25.0  1.2  920  
+27(26+E) 1 1.4 0.7  1.5  21.7  1.2  660  0.3  1.1  25.4  1.3  940  
+28(27+E) 1 1.4 0.7  1.5  22.5  1.2  690  0.3  1.2  26.4  1.3  1,000  
+30(29+E) 1 1.4 0.7  1.5  22.5  1.2  720  0.3  1.2  26.4  1.3  1,020  
+31(30+E) 1 1.4 0.7  1.6  23.6  1.2  760  0.3  1.2  27.5  1.3  1,080  \n\n--- PAGE 39 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 39 / 64 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+33(32+E) 1 1.4 0.7  1.6  23.6  1.2  790  0.3  1.2  27.5  1.3  1,110  
+34(33+E) 1 1.4 0.7  1.6  24.5  1.2  820  0.3  1.2  28.4  1.4  1,150  
+36(35+E) 1 1.4 0.7  1.6  24.5  1.2  850  0.3  1.2  28.4  1.4  1,180  
+37(36+E) 1 1.4 0.7  1.6  24.5  1.2  860  0.3  1.2  28.4  1.4  1,190  
+38(37+E) 1 1.4 0.7  1.6  25.4  1.3  900  0.3  1.2  29.3  1.4  1,240  
+44(43+E) 1 1.4 0.7  1.7  27.7  1.3  1,050  0.3  1.3  31.8  1.5  1,430  
+45(44+E) 1 1.4 0.7  1.7  27.7  1.3  1,050  0.3  1.3  31.8  1.5  1,430  
+48(47+E) 1 1.4 0.7  1.7  28.1  1.3  1,110  0.3  1.3  32.2  1.5  1,500  
+49(48+E) 1 1.4 0.7  1.8  29.1  1.4  1,160  0.3  1.3  33.2  1.5  1,560  
+ 
+TABLE. F9  0.6/1kV  ① FRT-MCO, MCO(C), MCOE, MCOE(C) 
+② FRT-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)   1.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1.5 1.7  0.7  1.0  8.8  0.8  110  0.2  0.8  11.4  0.8  220  
+3(2+E) 1.5 1.7  0.7  1.0  9.3  0.8  130  0.2  0.8  11.9  0.9  240  
+4(3+E) 1.5 1.7  0.7  1.1  10.4  0.8  160  0.3  0.8  13.5  0.9  290  
+5(4+E) 1.5 1.7  0.7  1.1  11.3  0.8  190  0.3  0.9  14.6  0.9  340  
+6(5+E) 1.5 1.7  0.7  1.2  12.5  0.9  230  0.3  0.9  15.8  1.0  390  
+7(6+E) 1.5 1.7  0.7  1.2  12.5  0.9  250  0.3  0.9  15.8  1.0  410  
+8(7+E) 1.5 1.7  0.7  1.2  13.6  0.9  280  0.3  0.9  16.9  1.0  450  
+9(8+E) 1.5 1.7  0.7  1.2  14.6  0.9  320  0.3  1.0  18.1  1.0  510  
+10(9+E) 1.5 1.7  0.7  1.3  16.0  1.0  360  0.3  1.0  19.5  1.1  570  
+11(10+E) 1.5 1.7  0.7  1.3  16.0  1.0  380  0.3  1.0  19.5  1.1  590  
+12(11+E) 1.5 1.7  0.7  1.3  16.5  1.0  410  0.3  1.0  20.0  1.1  620  
+13(12+E) 1.5 1.7  0.7  1.3  17.4  1.0  440  0.3  1.0  20.9  1.1  660  
+14(13+E) 1.5 1.7  0.7  1.3  17.4  1.0  460  0.3  1.0  20.9  1.1  680  
+15(14+E) 1.5 1.7  0.7  1.4  18.5  1.1  500  0.3  1.1  22.2  1.2  750  
+16(15+E) 1.5 1.7  0.7  1.4  18.5  1.1  520  0.3  1.1  22.2  1.2  770  
+17(16+E) 1.5 1.7  0.7  1.4  19.5  1.1  560  0.3  1.1  23.2  1.2  820  
+18(17+E) 1.5 1.7  0.7  1.4  19.5  1.1  580  0.3  1.1  23.2  1.2  830  
+19(18+E) 1.5 1.7  0.7  1.4  19.5  1.1  590  0.3  1.1  23.2  1.2  850  
+20(19+E) 1.5 1.7  0.7  1.5  20.7  1.1  640  0.3  1.1  24.4  1.2  920  
+21(20+E) 1.5 1.7  0.7  1.5  20.7  1.1  660  0.3  1.1  24.4  1.2  930  
+24(23+E) 1.5 1.7  0.7  1.5  23.0  1.2  770  0.3  1.2  26.9  1.3  1,080  
+25(24+E) 1.5 1.7  0.7  1.5  23.0  1.2  780  0.3  1.2  26.9  1.3  1,090  
+26(25+E) 1.5 1.7  0.7  1.5  23.0  1.2  800  0.3  1.2  26.9  1.3  1,110  
+27(26+E) 1.5 1.7  0.7  1.6  23.7  1.2  840  0.3  1.2  27.6  1.3  1,160  
+28(27+E) 1.5 1.7  0.7  1.6  24.6  1.2  880  0.3  1.2  28.5  1.4  1,210  
+30(29+E) 1.5 1.7  0.7  1.6  24.6  1.2  920  0.3  1.2  28.5  1.4  1,250  
+31(30+E) 1.5 1.7  0.7  1.6  25.5  1.3  960  0.3  1.2  29.4  1.4  1,300  
+33(32+E) 1.5 1.7  0.7  1.6  25.5  1.3  990  0.3  1.2  29.4  1.4  1,330  
+34(33+E) 1.5 1.7  0.7  1.7  26.7  1.3  1,050  0.3  1.3  30.8  1.4  1,420  
+36(35+E) 1.5 1.7  0.7  1.7  26.7  1.3  1,090  0.3  1.3  30.8  1.4  1,460  
+37(36+E) 1.5 1.7  0.7  1.7  26.7  1.3  1,100  0.3  1.3  30.8  1.4  1,470  
+38(37+E) 1.5 1.7  0.7  1.7  27.7  1.3  1,150  0.3  1.3  31.8  1.5  1,530  
+44(43+E) 1.5 1.7  0.7  1.8  30.2  1.4  1,340  0.4  1.4  35.0  1.5  1,770  
+45(44+E) 1.5 1.7  0.7  1.8  30.2  1.4  1,340  0.4  1.4  35.0  1.5  1,770  
+48(47+E) 1.5 1.7  0.7  1.8  30.7  1.4  1,420  0.4  1.4  35.5  1.6  1,940  \n\n--- PAGE 40 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 40 / 64 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+49(48+E) 1.5 1.7  0.7  1.9  31.7  1.5  1,480  0.4  1.4  36.5  1.6  2,020  
+ 
+TABLE. F10  0.6/1kV  ① FRT-MCO, MCO(C), MCOE, MCOE(C) 
+② FRT-MCOTBO, MCOTBO(C), MCOTBOE, MCOTBOE(C)   2.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 2.5 2.2  0.7  1.1  9.9  0.8  140  0.2  0.8  12.5  0.9  260  
+3(2+E) 2.5 2.2  0.7  1.1  10.5  0.8  180  0.3  0.8  13.6  0.9  300  
+4(3+E) 2.5 2.2  0.7  1.1  11.4  0.8  210  0.3  0.9  14.7  0.9  360  
+5(4+E) 2.5 2.2  0.7  1.2  12.7  0.9  260  0.3  0.9  16.0  1.0  420  
+6(5+E) 2.5 2.2  0.7  1.2  13.8  0.9  310  0.3  0.9  17.1  1.0  480  
+7(6+E) 2.5 2.2  0.7  1.2  13.8  0.9  330  0.3  0.9  17.1  1.0  500  
+8(7+E) 2.5 2.2  0.7  1.3  15.2  1.0  380  0.3  1.0  18.7  1.1  580  
+9(8+E) 2.5 2.2  0.7  1.3  16.3  1.0  430  0.3  1.0  19.8  1.1  640  
+10(9+E) 2.5 2.2  0.7  1.4  17.9  1.0  490  0.3  1.0  21.4  1.1  720  
+11(10+E) 2.5 2.2  0.7  1.4  17.9  1.0  520  0.3  1.0  21.4  1.1  750  
+12(11+E) 2.5 2.2  0.7  1.4  18.5  1.1  560  0.3  1.0  22.0  1.2  790  
+13(12+E) 2.5 2.2  0.7  1.4  19.5  1.1  600  0.3  1.1  23.2  1.2  860  
+14(13+E) 2.5 2.2  0.7  1.4  19.5  1.1  630  0.3  1.1  23.2  1.2  880  
+15(14+E) 2.5 2.2  0.7  1.5  20.7  1.1  690  0.3  1.1  24.4  1.2  960  
+16(15+E) 2.5 2.2  0.7  1.5  20.7  1.1  720  0.3  1.1  24.4  1.2  990  
+17(16+E) 2.5 2.2  0.7  1.5  21.9  1.2  770  0.3  1.1  25.6  1.3  1,050  
+18(17+E) 2.5 2.2  0.7  1.5  21.9  1.2  790  0.3  1.1  25.6  1.3  1,080  
+19(18+E) 2.5 2.2  0.7  1.5  21.9  1.2  820  0.3  1.1  25.6  1.3  1,100  
+20(19+E) 2.5 2.2  0.7  1.6  23.2  1.2  890  0.3  1.2  27.1  1.3  1,200  
+21(20+E) 2.5 2.2  0.7  1.6  23.2  1.2  910  0.3  1.2  27.1  1.3  1,220  
+24(23+E) 2.5 2.2  0.7  1.7  26.0  1.3  1,070  0.3  1.2  29.9  1.4  1,420  
+25(24+E) 2.5 2.2  0.7  1.7  26.0  1.3  1,100  0.3  1.2  29.9  1.4  1,440  
+26(25+E) 2.5 2.2  0.7  1.7  26.0  1.3  1,120  0.3  1.2  29.9  1.4  1,470  
+27(26+E) 2.5 2.2  0.7  1.7  26.5  1.3  1,160  0.3  1.3  30.6  1.4  1,530  
+28(27+E) 2.5 2.2  0.7  1.7  27.5  1.3  1,220  0.3  1.3  31.6  1.4  1,600  
+30(29+E) 2.5 2.2  0.7  1.7  27.5  1.3  1,270  0.3  1.3  31.6  1.4  1,650  
+31(30+E) 2.5 2.2  0.7  1.8  28.8  1.4  1,340  0.3  1.3  32.9  1.5  1,740  
+33(32+E) 2.5 2.2  0.7  1.8  28.8  1.4  1,390  0.3  1.3  32.9  1.5  1,790  
+34(33+E) 2.5 2.2  0.7  1.8  29.9  1.4  1,450  0.3  1.3  34.0  1.5  1,860  
+36(35+E) 2.5 2.2  0.7  1.8  29.9  1.4  1,500  0.3  1.3  34.0  1.5  1,910  
+37(36+E) 2.5 2.2  0.7  1.8  29.9  1.4  1,530  0.3  1.3  34.0  1.5  1,940  
+38(37+E) 2.5 2.2  0.7  1.8  31.0  1.4  1,590  0.4  1.4  35.8  1.6  2,120  
+44(43+E) 2.5 2.2  0.7  2.0  34.0  1.5  1,870  0.4  1.5  39.0  1.7  2,460  
+45(44+E) 2.5 2.2  0.7  2.0  34.0  1.5  1,870  0.4  1.5  39.0  1.7  2,460  
+48(47+E) 2.5 2.2  0.7  2.0  34.6  1.5  1,990  0.4  1.5  39.6  1.7  2,590  
+49(48+E) 2.5 2.2  0.7  2.0  35.5  1.6  2,050  0.4  1.5  40.5  1.7  2,670  
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 41 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 41 / 64 
+ 
+250V    
+FRT-MCO, MCO(C), MCOTBO, MCOTBO(C) 
+ 
+ 
+[CONTROL CABLES, FLAME RETARDANT & FIRE RESISTANT] 
+[TABLE. G]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+- Base Std.  : IEC 60092-350, 376 
+- Insulation  : IEC 60092-360 XLPE 
+- Sheath                 : IEC 60092-360  SHF1  
+- Fire resistant : IEC 60331-1&2 
+- Flame retardant : IEC 60332-3-22 (Cat.A) 
+- HCl gas emission : IEC 60754-1 (Max.0.5%) 
+- Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2   
+Fire proof layer Mica tape FRT- 
+Insulation XLPE to IEC 60092-360   C 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Overall screen Copper/polyester tape with drain wire 
+* (C) type only (C) 
+Inner sheath SHF1 to IEC 60092-360 O 
+Armor Tinned annealed copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 42 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 42 / 64 
+ 
+TABLE. G1 250V  ① FRT-MCO, MCO(C)  ② FRT-MCOTBO, MCOTBO(C)  0.75SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 0.75 1.2 0.5  1.0  7.4  0.7  70  0.2  0.8  10.0  0.8  170  
+3 0.75 1.2 0.5  1.0  7.8  0.7  90  0.2  0.8  10.4  0.8  180  
+4 0.75 1.2 0.5  1.0  8.4  0.8  100  0.2  0.8  11.0  0.8  200  
+5 0.75 1.2 0.5  1.0  9.2  0.8  120  0.2  0.8  11.8  0.9  230  
+6 0.75 1.2 0.5  1.1  10.1  0.8  140  0.2  0.8  12.7  0.9  270  
+7 0.75 1.2 0.5  1.1  10.1  0.8  150  0.2  0.8  12.7  0.9  270  
+8 0.75 1.2 0.5  1.1  10.9  0.8  170  0.2  0.8  13.5  0.9  300  
+9 0.75 1.2 0.5  1.1  11.7  0.9  190  0.3  0.9  15.0  1.0  340  
+10 0.75 1.2 0.5  1.2  12.9  0.9  220  0.3  0.9  16.2  1.0  380  
+11 0.75 1.2 0.5  1.2  12.9  0.9  230  0.3  0.9  16.2  1.0  390  
+12 0.75 1.2 0.5  1.2  13.3  0.9  240  0.3  0.9  16.6  1.0  410  
+13 0.75 1.2 0.5  1.2  14.0  0.9  260  0.3  0.9  17.3  1.0  430  
+14 0.75 1.2 0.5  1.2  14.0  0.9  270  0.3  0.9  17.3  1.0  440  
+15 0.75 1.2 0.5  1.2  14.7  0.9  290  0.3  1.0  18.2  1.0  480  
+16 0.75 1.2 0.5  1.2  14.7  0.9  300  0.3  1.0  18.2  1.0  490  
+17 0.75 1.2 0.5  1.3  15.7  1.0  330  0.3  1.0  19.2  1.1  530  
+18 0.75 1.2 0.5  1.3  15.7  1.0  340  0.3  1.0  19.2  1.1  540  
+19 0.75 1.2 0.5  1.3  15.7  1.0  350  0.3  1.0  19.2  1.1  550  
+20 0.75 1.2 0.5  1.3  16.5  1.0  370  0.3  1.0  20.0  1.1  580  
+24 0.75 1.2 0.5  1.4  18.4  1.1  450  0.3  1.0  21.9  1.2  680  
+25 0.75 1.2 0.5  1.4  18.4  1.1  460  0.3  1.0  21.9  1.2  690  
+27 0.75 1.2 0.5  1.4  18.8  1.1  480  0.3  1.1  22.5  1.2  730  
+30 0.75 1.2 0.5  1.4  19.5  1.1  520  0.3  1.1  23.2  1.2  780  
+33 0.75 1.2 0.5  1.4  20.2  1.1  560  0.3  1.1  23.9  1.2  830  
+36 0.75 1.2 0.5  1.5  21.2  1.1  620  0.3  1.1  24.9  1.2  900  
+37 0.75 1.2 0.5  1.5  21.2  1.1  630  0.3  1.1  24.9  1.2  900  
+44 0.75 1.2 0.5  1.6  23.9  1.2  760  0.3  1.2  27.8  1.3  1,080  
+48 0.75 1.2 0.5  1.6  24.3  1.2  810  0.3  1.2  28.2  1.3  1,130  
+ 
+TABLE. G2 250V  ① FRT-MCO, MCO(C)  ② FRT-MCOTBO, MCOTBO(C)  1SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1 1.4 0.5  1.0  7.8  0.7  80  0.2  0.8  10.4  0.8  180  
+3 1 1.4 0.5  1.0  8.2  0.7  100  0.2  0.8  10.8  0.8  200  
+4 1 1.4 0.5  1.0  8.9  0.8  120  0.2  0.8  11.5  0.8  230  
+5 1 1.4 0.5  1.1  9.9  0.8  140  0.2  0.8  12.5  0.9  260  
+6 1 1.4 0.5  1.1  10.7  0.8  170  0.2  0.8  13.3  0.9  290  
+7 1 1.4 0.5  1.1  10.7  0.8  180  0.2  0.8  13.3  0.9  310  
+8 1 1.4 0.5  1.1  11.5  0.8  200  0.3  0.9  14.8  0.9  350  
+9 1 1.4 0.5  1.2  12.6  0.9  230  0.3  0.9  15.9  1.0  390  
+10 1 1.4 0.5  1.2  13.6  0.9  260  0.3  0.9  16.9  1.0  430  
+11 1 1.4 0.5  1.2  13.6  0.9  270  0.3  0.9  16.9  1.0  440  
+12 1 1.4 0.5  1.2  14.1  0.9  290  0.3  0.9  17.4  1.0  460  
+13 1 1.4 0.5  1.2  14.8  0.9  310  0.3  1.0  18.3  1.0  500  
+14 1 1.4 0.5  1.2  14.8  0.9  320  0.3  1.0  18.3  1.0  510  
+15 1 1.4 0.5  1.3  15.8  1.0  350  0.3  1.0  19.3  1.1  560  
+16 1 1.4 0.5  1.3  15.8  1.0  360  0.3  1.0  19.3  1.1  570  
+17 1 1.4 0.5  1.3  16.6  1.0  390  0.3  1.0  20.1  1.1  600  \n\n--- PAGE 43 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 43 / 64 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+18 1 1.4 0.5  1.3  16.6  1.0  400  0.3  1.0  20.1  1.1  610  
+19 1 1.4 0.5  1.3  16.6  1.0  410  0.3  1.0  20.1  1.1  630  
+20 1 1.4 0.5  1.3  17.4  1.0  440  0.3  1.0  20.9  1.1  660  
+24 1 1.4 0.5  1.4  19.5  1.1  530  0.3  1.1  23.2  1.2  790  
+25 1 1.4 0.5  1.4  19.5  1.1  540  0.3  1.1  23.2  1.2  800  
+27 1 1.4 0.5  1.4  19.9  1.1  580  0.3  1.1  23.6  1.2  840  
+30 1 1.4 0.5  1.5  20.9  1.1  640  0.3  1.1  24.6  1.2  910  
+33 1 1.4 0.5  1.5  21.6  1.1  690  0.3  1.1  25.3  1.3  970  
+36 1 1.4 0.5  1.5  22.5  1.2  740  0.3  1.1  26.2  1.3  1,030  
+37 1 1.4 0.5  1.5  22.5  1.2  750  0.3  1.1  26.2  1.3  1,040  
+44 1 1.4 0.5  1.6  25.4  1.3  910  0.3  1.2  29.3  1.4  1,250  
+48 1 1.4 0.5  1.7  26.0  1.3  980  0.3  1.2  29.9  1.4  1,330  
+ 
+ 
+TABLE. G3 250V  ① FRT-MCO, MCO(C)  ② FRT-MCOTBO, MCOTBO(C)  1.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 1.5 1.7  0.6  1.0  8.5  0.8  100  0.2  0.8  11.1  0.8  210  
+3 1.5 1.7  0.6  1.0  9.0  0.8  120  0.2  0.8  11.6  0.8  230  
+4 1.5 1.7  0.6  1.1  10.0  0.8  150  0.2  0.8  12.6  0.9  270  
+5 1.5 1.7  0.6  1.1  10.9  0.8  180  0.2  0.8  13.5  0.9  310  
+6 1.5 1.7  0.6  1.1  11.8  0.9  210  0.3  0.9  15.1  1.0  360  
+7 1.5 1.7  0.6  1.1  11.8  0.9  230  0.3  0.9  15.1  1.0  380  
+8 1.5 1.7  0.6  1.2  13.0  0.9  270  0.3  0.9  16.3  1.0  430  
+9 1.5 1.7  0.6  1.2  13.9  0.9  300  0.3  0.9  17.2  1.0  470  
+10 1.5 1.7  0.6  1.3  15.3  1.0  340  0.3  1.0  18.8  1.1  540  
+11 1.5 1.7  0.6  1.3  15.3  1.0  360  0.3  1.0  18.8  1.1  560  
+12 1.5 1.7  0.6  1.3  15.8  1.0  380  0.3  1.0  19.3  1.1  590  
+13 1.5 1.7  0.6  1.3  16.6  1.0  420  0.3  1.0  20.1  1.1  630  
+14 1.5 1.7  0.6  1.3  16.6  1.0  430  0.3  1.0  20.1  1.1  640  
+15 1.5 1.7  0.6  1.3  17.5  1.0  460  0.3  1.0  21.0  1.1  690  
+16 1.5 1.7  0.6  1.3  17.5  1.0  480  0.3  1.0  21.0  1.1  700  
+17 1.5 1.7  0.6  1.4  18.6  1.1  530  0.3  1.1  22.3  1.2  770  
+18 1.5 1.7  0.6  1.4  18.6  1.1  540  0.3  1.1  22.3  1.2  790  
+19 1.5 1.7  0.6  1.4  18.6  1.1  560  0.3  1.1  22.3  1.2  810  
+20 1.5 1.7  0.6  1.4  19.6  1.1  600  0.3  1.1  23.3  1.2  850  
+24 1.5 1.7  0.6  1.5  21.9  1.2  720  0.3  1.1  25.6  1.3  1,010  
+25 1.5 1.7  0.6  1.5  21.9  1.2  740  0.3  1.1  25.6  1.3  1,020  
+27 1.5 1.7  0.6  1.5  22.4  1.2  780  0.3  1.1  26.1  1.3  1,070  
+30 1.5 1.7  0.6  1.6  23.4  1.2  860  0.3  1.2  27.3  1.3  1,180  
+33 1.5 1.7  0.6  1.6  24.3  1.2  930  0.3  1.2  28.2  1.3  1,260  
+36 1.5 1.7  0.6  1.6  25.2  1.3  1,010  0.3  1.2  29.1  1.4  1,350  
+37 1.5 1.7  0.6  1.6  25.2  1.3  1,020  0.3  1.2  29.1  1.4  1,360  
+44 1.5 1.7  0.6  1.8  28.7  1.4  1,260  0.3  1.3  32.8  1.5  1,660  
+48 1.5 1.7  0.6  1.8  29.2  1.4  1,340  0.3  1.3  33.3  1.5  1,740  
+ 
+ 
+ 
+ \n\n--- PAGE 44 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 44 / 64 
+ 
+TABLE. G4 250V  ① FRT-MCO, MCO(C)  ② FRT-MCOTBO, MCOTBO(C)  2.5SQ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2 2.5 2.2  0.6  1.0  9.3  0.8  130  0.2  0.8  11.9  0.9  240  
+3 2.5 2.2  0.6  1.1  10.1  0.8  170  0.2  0.8  12.7  0.9  290  
+4 2.5 2.2  0.6  1.1  11.0  0.8  200  0.2  0.8  13.6  0.9  330  
+5 2.5 2.2  0.6  1.1  12.0  0.9  240  0.3  0.9  15.3  1.0  400  
+6 2.5 2.2  0.6  1.2  13.3  0.9  290  0.3  0.9  16.6  1.0  460  
+7 2.5 2.2  0.6  1.2  13.3  0.9  320  0.3  0.9  16.6  1.0  480  
+8 2.5 2.2  0.6  1.2  14.4  0.9  360  0.3  0.9  17.7  1.0  540  
+9 2.5 2.2  0.6  1.3  15.7  1.0  410  0.3  1.0  19.2  1.1  610  
+10 2.5 2.2  0.6  1.3  17.0  1.0  460  0.3  1.0  20.5  1.1  680  
+11 2.5 2.2  0.6  1.3  17.0  1.0  490  0.3  1.0  20.5  1.1  700  
+12 2.5 2.2  0.6  1.3  17.5  1.0  520  0.3  1.0  21.0  1.1  740  
+13 2.5 2.2  0.6  1.4  18.7  1.1  570  0.3  1.1  22.4  1.2  820  
+14 2.5 2.2  0.6  1.4  18.7  1.1  600  0.3  1.1  22.4  1.2  850  
+15 2.5 2.2  0.6  1.4  19.7  1.1  650  0.3  1.1  23.4  1.2  900  
+16 2.5 2.2  0.6  1.4  19.7  1.1  670  0.3  1.1  23.4  1.2  930  
+17 2.5 2.2  0.6  1.5  21.0  1.1  730  0.3  1.1  24.7  1.2  1,000  
+18 2.5 2.2  0.6  1.5  21.0  1.1  760  0.3  1.1  24.7  1.2  1,030  
+19 2.5 2.2  0.6  1.5  21.0  1.1  780  0.3  1.1  24.7  1.2  1,050  
+20 2.5 2.2  0.6  1.5  22.0  1.2  830  0.3  1.1  25.7  1.3  1,120  
+24 2.5 2.2  0.6  1.6  24.7  1.2  1,000  0.3  1.2  28.6  1.4  1,340  
+25 2.5 2.2  0.6  1.6  24.7  1.2  1,030  0.3  1.2  28.6  1.4  1,360  
+27 2.5 2.2  0.6  1.6  25.2  1.3  1,090  0.3  1.2  29.1  1.4  1,430  
+30 2.5 2.2  0.6  1.7  26.4  1.3  1,210  0.3  1.2  30.3  1.4  1,560  
+33 2.5 2.2  0.6  1.7  27.4  1.3  1,310  0.3  1.3  31.5  1.4  1,690  
+36 2.5 2.2  0.6  1.8  28.6  1.4  1,430  0.3  1.3  32.7  1.5  1,830  
+37 2.5 2.2  0.6  1.8  28.6  1.4  1,460  0.3  1.3  32.7  1.5  1,850  
+44 2.5 2.2  0.6  1.9  32.4  1.5  1,760  0.4  1.4  37.2  1.6  2,300  
+48 2.5 2.2  0.6  1.9  32.9  1.5  1,880  0.4  1.4  37.7  1.6  2,430  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 45 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 45 / 64 
+ 
+250V   
+FRT-TTCO, TTCO(C), TTCO(I), TTCO(I/C)  
+FRT-TTCOTBO, TTCOTBO(C), TTCOTBO(I), TTCOTBO(I/C) 
+ 
+ 
+[INSTRUMENT CABLES, FLAME RETARDANT & FIRE RESISTANT] 
+[TABLE. H]  
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+- Base Std.  : IEC 60092-350, 376 
+- Insulation  : IEC 60092-360 XLPE 
+- Sheath                 : IEC 60092-360  SHF1  
+- Fire resistant : IEC 60331-1&2 
+- Flame retardant : IEC 60332-3-22 (Cat.A) 
+- HCl gas emission : IEC 60754-1 (Max.0.5%) 
+- Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2   
+Fire proof layer Mica tape FRT- 
+Insulation XLPE to IEC 60092-360   C 
+Individual screen Copper/polyester tape with drain wire 
+* (I) type only (I) 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core   
+Overall screen Copper/polyester tape with drain wire 
+* (C) type only (C) 
+Inner sheath SHF1 to IEC 60092-360 O  
+Armor Tinned annealed copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O  
+ 
+ 
+ \n\n--- PAGE 46 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 46 / 64 
+ 
+TABLE. H1  250V  ① FRT-TTCO, TTCO(C)  ② FRT-TTCOTBO, TTCOTBO(C)  0.75SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 0.75 1.2 0.5  1.0  8.0  0.7  90  0.2  0.8  10.6  0.8  180  
+2P 0.75 1.2 0.5  1.2  12.6  0.9  170  0.3  0.9  15.9  1.0  330  
+3P 0.75 1.2 0.5  1.2  13.4  0.9  200  0.3  0.9  16.7  1.0  370  
+4P 0.75 1.2 0.5  1.2  14.6  0.9  240  0.3  1.0  18.1  1.0  430  
+5P 0.75 1.2 0.5  1.3  16.5  1.0  300  0.3  1.0  20.0  1.1  520  
+6P 0.75 1.2 0.5  1.3  17.1  1.0  330  0.3  1.0  20.6  1.1  550  
+7P 0.75 1.2 0.5  1.3  17.1  1.0  350  0.3  1.0  20.6  1.1  570  
+8P 0.75 1.2 0.5  1.4  19.0  1.1  420  0.3  1.1  22.7  1.2  670  
+9P 0.75 1.2 0.5  1.4  20.1  1.1  460  0.3  1.1  23.8  1.2  730  
+10P 0.75 1.2 0.5  1.5  21.8  1.2  530  0.3  1.1  25.5  1.3  810  
+11P 0.75 1.2 0.5  1.5  22.0  1.2  550  0.3  1.1  25.7  1.3  840  
+12P 0.75 1.2 0.5  1.5  22.6  1.2  580  0.3  1.2  26.5  1.3  890  
+13P 0.75 1.2 0.5  1.5  22.9  1.2  610  0.3  1.2  26.8  1.3  920  
+14P 0.75 1.2 0.5  1.6  23.9  1.2  670  0.3  1.2  27.8  1.3  990  
+15P 0.75 1.2 0.5  1.6  24.5  1.2  700  0.3  1.2  28.4  1.4  1,030  
+16P 0.75 1.2 0.5  1.6  25.7  1.3  750  0.3  1.2  29.6  1.4  1,090  
+17P 0.75 1.2 0.5  1.7  26.1  1.3  790  0.3  1.2  30.0  1.4  1,140  
+18P 0.75 1.2 0.5  1.7  26.4  1.3  820  0.3  1.2  30.3  1.4  1,170  
+19P 0.75 1.2 0.5  1.7  26.4  1.3  840  0.3  1.2  30.3  1.4  1,190  
+20P 0.75 1.2 0.5  1.7  27.0  1.3  870  0.3  1.3  31.1  1.4  1,250  
+24P 0.75 1.2 0.5  1.8  30.9  1.4  1,080  0.4  1.4  35.7  1.6  1,600  
+27P 0.75 1.2 0.5  1.9  31.9  1.5  1,180  0.4  1.4  36.7  1.6  1,720  
+30P 0.75 1.2 0.5  1.9  33.1  1.5  1,280  0.4  1.4  37.9  1.6  1,840  
+33P 0.75 1.2 0.5  2.0  35.0  1.5  1,420  0.4  1.5  40.0  1.7  2,020  
+37P 0.75 1.2 0.5  2.0  35.6  1.6  1,520  0.4  1.5  40.6  1.7  2,130  
+44P 0.75 1.2 0.5  2.2  40.2  1.7  1,860  0.4  1.6  45.4  1.9  2,570  
+48P 0.75 1.2 0.5  2.2  41.1  1.7  1,970  0.4  1.6  46.3  1.9  2,700  
+1T 0.75 1.2 0.5  1.0  8.4  0.8  100  0.2  0.8  11.0  0.8  200  
+2T 0.75 1.2 0.5  1.2  14.3  0.9  240  0.3  0.9  17.6  1.0  420  
+3T 0.75 1.2 0.5  1.3  15.4  1.0  270  0.3  1.0  18.9  1.1  470  
+4T 0.75 1.2 0.5  1.3  16.9  1.0  370  0.3  1.0  20.4  1.1  580  
+5T 0.75 1.2 0.5  1.4  18.8  1.1  450  0.3  1.1  22.5  1.2  700  
+6T 0.75 1.2 0.5  1.4  19.6  1.1  510  0.3  1.1  23.3  1.2  760  
+7T 0.75 1.2 0.5  1.4  19.6  1.1  540  0.3  1.1  23.3  1.2  800  
+8T 0.75 1.2 0.5  1.5  21.5  1.1  630  0.3  1.1  25.2  1.3  910  
+9T 0.75 1.2 0.5  1.6  23.4  1.2  730  0.3  1.2  27.3  1.3  1,040  
+10T 0.75 1.2 0.5  1.6  25.5  1.3  820  0.3  1.2  29.4  1.4  1,160  
+11T 0.75 1.2 0.5  1.6  25.5  1.3  860  0.3  1.2  29.4  1.4  1,200  
+12T 0.75 1.2 0.5  1.7  26.5  1.3  940  0.3  1.3  30.6  1.4  1,310  
+13T 0.75 1.2 0.5  1.7  27.9  1.3  1,020  0.3  1.3  32.0  1.5  1,400  
+14T 0.75 1.2 0.5  1.7  27.9  1.3  1,050  0.3  1.3  32.0  1.5  1,440  
+15T 0.75 1.2 0.5  1.8  29.7  1.4  1,160  0.3  1.3  33.8  1.5  1,570  
+16T 0.75 1.2 0.5  1.8  29.7  1.4  1,200  0.3  1.3  33.8  1.5  1,610  
+17T 0.75 1.2 0.5  1.9  31.6  1.4  1,310  0.4  1.4  36.4  1.6  1,840  
+18T 0.75 1.2 0.5  1.9  31.6  1.4  1,340  0.4  1.4  36.4  1.6  1,880  
+19T 0.75 1.2 0.5  1.9  31.6  1.4  1,380  0.4  1.4  36.4  1.6  1,920  
+20T 0.75 1.2 0.5  1.9  32.6  1.5  1,460  0.4  1.4  37.4  1.6  2,010  
+24T 0.75 1.2 0.5  2.1  36.8  1.6  1,780  0.4  1.5  41.8  1.8  2,420  
+27T 0.75 1.2 0.5  2.1  37.6  1.6  1,930  0.4  1.5  42.6  1.8  2,580  
+30T 0.75 1.2 0.5  2.1  39.0  1.7  2,100  0.4  1.6  44.2  1.8  2,800  
+33T 0.75 1.2 0.5  2.2  40.7  1.7  2,300  0.4  1.6  45.9  1.9  3,020  
+37T 0.75 1.2 0.5  2.3  42.5  1.8  2,550  0.4  1.7  47.9  1.9  3,320  
+1Q 0.75 1.2 0.5  1.0  9.1  0.8  120  0.2  0.8  11.7  0.9  230  \n\n--- PAGE 47 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 47 / 64 
+ 
+TABLE. H2  250V  ① FRT-TTCO, TTCO(C)  ② FRT-TTCOTBO, TTCOTBO(C)  1SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 1 1.4 0.5  1.0  8.3  0.7  100  0.2  0.8  10.9  0.8  200  
+2P 1 1.4 0.5  1.2  13.3  0.9  200  0.3  0.9  16.6  1.0  360  
+3P 1 1.4 0.5  1.2  14.1  0.9  230  0.3  0.9  17.4  1.0  410  
+4P 1 1.4 0.5  1.3  15.6  1.0  290  0.3  1.0  19.1  1.1  490  
+5P 1 1.4 0.5  1.3  17.4  1.0  350  0.3  1.0  20.9  1.1  570  
+6P 1 1.4 0.5  1.4  18.2  1.0  400  0.3  1.0  21.7  1.2  630  
+7P 1 1.4 0.5  1.4  18.2  1.0  420  0.3  1.0  21.7  1.2  650  
+8P 1 1.4 0.5  1.4  20.0  1.1  480  0.3  1.1  23.7  1.2  750  
+9P 1 1.4 0.5  1.5  21.4  1.1  550  0.3  1.1  25.1  1.3  820  
+10P 1 1.4 0.5  1.5  22.9  1.2  610  0.3  1.2  26.8  1.3  920  
+11P 1 1.4 0.5  1.6  23.5  1.2  650  0.3  1.2  27.4  1.3  970  
+12P 1 1.4 0.5  1.6  24.1  1.2  690  0.3  1.2  28.0  1.3  1,020  
+13P 1 1.4 0.5  1.6  24.4  1.2  730  0.3  1.2  28.3  1.3  1,050  
+14P 1 1.4 0.5  1.6  25.3  1.3  770  0.3  1.2  29.2  1.4  1,110  
+15P 1 1.4 0.5  1.7  26.1  1.3  830  0.3  1.2  30.0  1.4  1,180  
+16P 1 1.4 0.5  1.7  27.3  1.3  890  0.3  1.3  31.4  1.4  1,270  
+17P 1 1.4 0.5  1.7  27.6  1.3  920  0.3  1.3  31.7  1.5  1,310  
+18P 1 1.4 0.5  1.7  27.9  1.3  960  0.3  1.3  32.0  1.5  1,340  
+19P 1 1.4 0.5  1.7  27.9  1.3  980  0.3  1.3  32.0  1.5  1,370  
+20P 1 1.4 0.5  1.8  28.7  1.4  1,040  0.3  1.3  32.8  1.5  1,440  
+24P 1 1.4 0.5  1.9  32.8  1.5  1,280  0.4  1.4  37.6  1.6  1,830  
+27P 1 1.4 0.5  1.9  33.7  1.5  1,390  0.4  1.4  38.5  1.7  1,950  
+30P 1 1.4 0.5  2.0  35.1  1.6  1,520  0.4  1.5  40.1  1.7  2,130  
+33P 1 1.4 0.5  2.1  37.2  1.6  1,680  0.4  1.5  42.2  1.8  2,330  
+37P 1 1.4 0.5  2.1  37.8  1.6  1,810  0.4  1.5  42.8  1.8  2,460  
+44P 1 1.4 0.5  2.3  42.7  1.8  2,210  0.4  1.7  48.1  1.9  2,990  
+48P 1 1.4 0.5  2.3  43.6  1.8  2,350  0.4  1.7  49.0  2.0  3,140  
+1T 1 1.4 0.5  1.0  8.8  0.8  110  0.2  0.8  11.4  0.8  220  
+2T 1 1.4 0.5  1.3  15.2  1.0  280  0.3  1.0  18.7  1.1  480  
+3T 1 1.4 0.5  1.3  16.2  1.0  310  0.3  1.0  19.7  1.1  520  
+4T 1 1.4 0.5  1.4  18.0  1.0  440  0.3  1.0  21.5  1.1  660  
+5T 1 1.4 0.5  1.4  19.8  1.1  530  0.3  1.1  23.5  1.2  780  
+6T 1 1.4 0.5  1.5  20.8  1.1  610  0.3  1.1  24.5  1.2  880  
+7T 1 1.4 0.5  1.5  20.8  1.1  650  0.3  1.1  24.5  1.2  930  
+8T 1 1.4 0.5  1.5  22.7  1.2  750  0.3  1.2  26.6  1.3  1,050  
+9T 1 1.4 0.5  1.6  24.7  1.2  850  0.3  1.2  28.6  1.4  1,190  
+10T 1 1.4 0.5  1.7  27.1  1.3  980  0.3  1.3  31.2  1.4  1,360  
+11T 1 1.4 0.5  1.7  27.1  1.3  1,030  0.3  1.3  31.2  1.4  1,410  
+12T 1 1.4 0.5  1.7  28.0  1.3  1,100  0.3  1.3  32.1  1.5  1,490  
+13T 1 1.4 0.5  1.8  29.7  1.4  1,210  0.3  1.3  33.8  1.5  1,630  
+14T 1 1.4 0.5  1.8  29.7  1.4  1,260  0.3  1.3  33.8  1.5  1,670  
+15T 1 1.4 0.5  1.9  31.6  1.4  1,380  0.4  1.4  36.4  1.6  1,920  
+16T 1 1.4 0.5  1.9  31.6  1.4  1,430  0.4  1.4  36.4  1.6  1,970  
+17T 1 1.4 0.5  1.9  33.4  1.5  1,540  0.4  1.4  38.2  1.6  2,100  
+18T 1 1.4 0.5  1.9  33.4  1.5  1,590  0.4  1.4  38.2  1.6  2,150  
+19T 1 1.4 0.5  1.9  33.4  1.5  1,640  0.4  1.4  38.2  1.6  2,200  
+20T 1 1.4 0.5  2.0  34.7  1.5  1,750  0.4  1.5  39.7  1.7  2,350  
+24T 1 1.4 0.5  2.1  38.8  1.7  2,110  0.4  1.6  44.0  1.8  2,800  
+27T 1 1.4 0.5  2.2  39.9  1.7  2,320  0.4  1.6  45.1  1.9  3,020  
+30T 1 1.4 0.5  2.2  41.4  1.7  2,530  0.4  1.6  46.6  1.9  3,260  
+33T 1 1.4 0.5  2.3  43.2  1.8  2,770  0.4  1.7  48.6  2.0  3,550  
+37T 1 1.4 0.5  2.4  45.2  1.9  3,060  0.4  1.7  50.6  2.0  3,880  
+1Q 1 1.4 0.5  1.1  9.8  0.8  140  0.2  0.8  12.4  0.9  260  \n\n--- PAGE 48 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 48 / 64 
+ 
+TABLE. H3  250V  ① FRT-TTCO, TTCO(C)  ② FRT-TTCOTBO, TTCOTBO(C)  1.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 1.5 1.7  0.6  1.0  9.1  0.8  120  0.2  0.8  11.7  0.8  220  
+2P 1.5 1.7  0.6  1.2  14.5  0.9  240  0.3  1.0  18.0  1.0  420  
+3P 1.5 1.7  0.6  1.3  15.6  1.0  300  0.3  1.0  19.1  1.1  490  
+4P 1.5 1.7  0.6  1.3  17.1  1.0  360  0.3  1.0  20.6  1.1  580  
+5P 1.5 1.7  0.6  1.4  19.4  1.1  450  0.3  1.1  23.1  1.2  700  
+6P 1.5 1.7  0.6  1.4  20.0  1.1  500  0.3  1.1  23.7  1.2  760  
+7P 1.5 1.7  0.6  1.4  20.0  1.1  530  0.3  1.1  23.7  1.2  790  
+8P 1.5 1.7  0.6  1.5  22.3  1.2  630  0.3  1.1  26.0  1.3  910  
+9P 1.5 1.7  0.6  1.6  23.8  1.2  710  0.3  1.2  27.7  1.3  1,030  
+10P 1.5 1.7  0.6  1.6  25.5  1.3  790  0.3  1.2  29.4  1.4  1,130  
+11P 1.5 1.7  0.6  1.7  26.1  1.3  850  0.3  1.2  30.0  1.4  1,200  
+12P 1.5 1.7  0.6  1.7  26.7  1.3  910  0.3  1.3  30.8  1.4  1,270  
+13P 1.5 1.7  0.6  1.7  27.1  1.3  950  0.3  1.3  31.2  1.4  1,330  
+14P 1.5 1.7  0.6  1.7  28.1  1.3  1,020  0.3  1.3  32.2  1.5  1,400  
+15P 1.5 1.7  0.6  1.8  29.0  1.4  1,090  0.3  1.3  33.1  1.5  1,480  
+16P 1.5 1.7  0.6  1.8  30.3  1.4  1,170  0.4  1.4  35.1  1.6  1,600  
+17P 1.5 1.7  0.6  1.8  30.7  1.4  1,210  0.4  1.4  35.5  1.6  1,730  
+18P 1.5 1.7  0.6  1.8  31.0  1.4  1,260  0.4  1.4  35.8  1.6  1,780  
+19P 1.5 1.7  0.6  1.8  31.0  1.4  1,290  0.4  1.4  35.8  1.6  1,820  
+20P 1.5 1.7  0.6  1.9  31.9  1.5  1,370  0.4  1.4  36.7  1.6  1,900  
+24P 1.5 1.7  0.6  2.0  36.5  1.6  1,690  0.4  1.5  41.5  1.7  2,310  
+27P 1.5 1.7  0.6  2.1  37.7  1.6  1,860  0.4  1.5  42.7  1.8  2,500  
+30P 1.5 1.7  0.6  2.1  39.1  1.7  2,010  0.4  1.6  44.3  1.8  2,700  
+33P 1.5 1.7  0.6  2.2  41.3  1.7  2,230  0.4  1.6  46.5  1.9  2,950  
+37P 1.5 1.7  0.6  2.3  42.2  1.8  2,420  0.4  1.7  47.6  1.9  3,180  
+44P 1.5 1.7  0.6  2.5  47.7  1.9  2,950  0.4  1.8  53.3  2.1  3,840  
+48P 1.5 1.7  0.6  2.5  48.7  2.0  3,140  0.4  1.8  54.3  2.1  4,050  
+1T 1.5 1.7  0.6  1.1  9.8  0.8  150  0.2  0.8  12.4  0.9  260  
+2T 1.5 1.7  0.6  1.3  16.7  1.0  350  0.3  1.0  20.2  1.1  570  
+3T 1.5 1.7  0.6  1.4  18.0  1.0  400  0.3  1.0  21.5  1.1  630  
+4T 1.5 1.7  0.6  1.4  19.8  1.1  560  0.3  1.1  23.5  1.2  820  
+5T 1.5 1.7  0.6  1.5  22.0  1.2  690  0.3  1.1  25.7  1.3  980  
+6T 1.5 1.7  0.6  1.5  23.0  1.2  790  0.3  1.2  26.9  1.3  1,100  
+7T 1.5 1.7  0.6  1.5  23.0  1.2  860  0.3  1.2  26.9  1.3  1,170  
+8T 1.5 1.7  0.6  1.6  25.2  1.3  990  0.3  1.2  29.1  1.4  1,330  
+9T 1.5 1.7  0.6  1.7  27.4  1.3  1,140  0.3  1.3  31.5  1.4  1,520  
+10T 1.5 1.7  0.6  1.8  30.1  1.4  1,300  0.4  1.4  34.9  1.5  1,740  
+11T 1.5 1.7  0.6  1.8  30.1  1.4  1,370  0.4  1.4  34.9  1.5  1,810  
+12T 1.5 1.7  0.6  1.9  31.3  1.4  1,490  0.4  1.4  36.1  1.6  2,020  
+13T 1.5 1.7  0.6  1.9  33.0  1.5  1,620  0.4  1.4  37.8  1.6  2,180  
+14T 1.5 1.7  0.6  1.9  33.0  1.5  1,690  0.4  1.4  37.8  1.6  2,250  
+15T 1.5 1.7  0.6  2.0  35.1  1.6  1,850  0.4  1.5  40.1  1.7  2,460  
+16T 1.5 1.7  0.6  2.0  35.1  1.6  1,920  0.4  1.5  40.1  1.7  2,530  
+17T 1.5 1.7  0.6  2.1  37.3  1.6  2,080  0.4  1.5  42.3  1.8  2,730  
+18T 1.5 1.7  0.6  2.1  37.3  1.6  2,150  0.4  1.5  42.3  1.8  2,800  
+19T 1.5 1.7  0.6  2.1  37.3  1.6  2,220  0.4  1.5  42.3  1.8  2,870  
+20T 1.5 1.7  0.6  2.1  38.6  1.7  2,340  0.4  1.6  43.8  1.8  3,030  
+24T 1.5 1.7  0.6  2.3  43.4  1.8  2,860  0.4  1.7  48.8  2.0  3,650  
+27T 1.5 1.7  0.6  2.3  44.3  1.8  3,110  0.4  1.7  49.7  2.0  3,920  
+30T 1.5 1.7  0.6  2.4  46.3  1.9  3,430  0.4  1.8  51.9  2.1  4,290  
+33T 1.5 1.7  0.6  2.5  48.3  1.9  3,750  0.4  1.8  53.9  2.1  4,650  
+37T 1.5 1.7  0.6  2.6  50.4  2.0  4,160  0.4  1.9  56.2  2.2  5,120  
+1Q 1.5 1.7  0.6  1.1  10.6  0.8  170  0.3  0.9  13.9  0.9  310  \n\n--- PAGE 49 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 49 / 64 
+ 
+TABLE. H4  250V  ① FRT-TTCO, TTCO(C)  ② FRT-TTCOTBO, TTCOTBO(C)  2.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+1P 2.5 2.2  0.6  1.1  10.1  0.8  150  0.3  0.8  13.2  0.9  270  
+2P 2.5 2.2  0.6  1.3  16.2  1.0  310  0.3  1.0  19.7  1.1  510  
+3P 2.5 2.2  0.6  1.3  17.2  1.0  380  0.3  1.0  20.7  1.1  600  
+4P 2.5 2.2  0.6  1.4  19.1  1.1  480  0.3  1.1  22.8  1.2  730  
+5P 2.5 2.2  0.6  1.5  21.6  1.1  600  0.3  1.1  25.3  1.3  870  
+6P 2.5 2.2  0.6  1.5  22.4  1.2  670  0.3  1.1  26.1  1.3  950  
+7P 2.5 2.2  0.6  1.5  22.4  1.2  720  0.3  1.1  26.1  1.3  1,010  
+8P 2.5 2.2  0.6  1.6  24.9  1.2  850  0.3  1.2  28.8  1.4  1,170  
+9P 2.5 2.2  0.6  1.7  26.6  1.3  960  0.3  1.3  30.7  1.4  1,320  
+10P 2.5 2.2  0.6  1.8  28.7  1.4  1,080  0.3  1.3  32.8  1.5  1,470  
+11P 2.5 2.2  0.6  1.8  29.1  1.4  1,150  0.3  1.3  33.2  1.5  1,540  
+12P 2.5 2.2  0.6  1.8  29.9  1.4  1,220  0.3  1.3  34.0  1.5  1,630  
+13P 2.5 2.2  0.6  1.8  30.2  1.4  1,290  0.4  1.4  35.0  1.6  1,720  
+14P 2.5 2.2  0.6  1.9  31.6  1.4  1,390  0.4  1.4  36.4  1.6  1,920  
+15P 2.5 2.2  0.6  1.9  32.3  1.5  1,470  0.4  1.4  37.1  1.6  2,010  
+16P 2.5 2.2  0.6  2.0  34.1  1.5  1,600  0.4  1.5  39.1  1.7  2,190  
+17P 2.5 2.2  0.6  2.0  34.5  1.5  1,660  0.4  1.5  39.5  1.7  2,250  
+18P 2.5 2.2  0.6  2.0  34.8  1.5  1,730  0.4  1.5  39.8  1.7  2,330  
+19P 2.5 2.2  0.6  2.0  34.8  1.5  1,780  0.4  1.5  39.8  1.7  2,380  
+20P 2.5 2.2  0.6  2.0  35.6  1.6  1,860  0.4  1.5  40.6  1.7  2,480  
+24P 2.5 2.2  0.6  2.2  41.0  1.7  2,310  0.4  1.6  46.2  1.9  3,030  
+27P 2.5 2.2  0.6  2.3  42.3  1.8  2,550  0.4  1.7  47.7  1.9  3,310  
+30P 2.5 2.2  0.6  2.3  43.8  1.8  2,770  0.4  1.7  49.2  2.0  3,560  
+33P 2.5 2.2  0.6  2.4  46.3  1.9  3,060  0.4  1.8  51.9  2.1  3,920  
+37P 2.5 2.2  0.6  2.4  47.1  1.9  3,300  0.4  1.8  52.7  2.1  4,180  
+44P 2.5 2.2  0.6  2.7  53.4  2.1  4,050  0.4  1.9  59.2  2.3  5,060  
+48P 2.5 2.2  0.6  2.7  54.6  2.1  4,320  0.4  2.0  60.6  2.3  5,390  
+1T 2.5 2.2  0.6  1.1  10.7  0.8  190  0.3  0.9  14.0  0.9  320  
+2T 2.5 2.2  0.6  1.4  18.7  1.1  470  0.3  1.1  22.4  1.2  720  
+3T 2.5 2.2  0.6  1.4  19.9  1.1  520  0.3  1.1  23.6  1.2  780  
+4T 2.5 2.2  0.6  1.5  22.1  1.2  760  0.3  1.1  25.8  1.3  1,050  
+5T 2.5 2.2  0.6  1.6  24.5  1.2  940  0.3  1.2  28.4  1.4  1,270  
+6T 2.5 2.2  0.6  1.6  25.7  1.3  1,080  0.3  1.2  29.6  1.4  1,420  
+7T 2.5 2.2  0.6  1.6  25.7  1.3  1,180  0.3  1.2  29.6  1.4  1,530  
+8T 2.5 2.2  0.6  1.7  28.1  1.3  1,370  0.3  1.3  32.2  1.5  1,760  
+9T 2.5 2.2  0.6  1.8  30.6  1.4  1,560  0.4  1.4  35.4  1.6  2,080  
+10T 2.5 2.2  0.6  1.9  33.6  1.5  1,780  0.4  1.4  38.4  1.7  2,350  
+11T 2.5 2.2  0.6  1.9  33.6  1.5  1,880  0.4  1.4  38.4  1.7  2,450  
+12T 2.5 2.2  0.6  2.0  35.0  1.5  2,050  0.4  1.5  40.0  1.7  2,650  
+13T 2.5 2.2  0.6  2.1  37.1  1.6  2,250  0.4  1.5  42.1  1.8  2,890  
+14T 2.5 2.2  0.6  2.1  37.1  1.6  2,350  0.4  1.5  42.1  1.8  2,990  
+15T 2.5 2.2  0.6  2.2  39.4  1.7  2,560  0.4  1.6  44.6  1.8  3,260  
+16T 2.5 2.2  0.6  2.2  39.4  1.7  2,670  0.4  1.6  44.6  1.8  3,370  
+17T 2.5 2.2  0.6  2.2  41.6  1.7  2,870  0.4  1.6  46.8  1.9  3,600  
+18T 2.5 2.2  0.6  2.2  41.6  1.7  2,970  0.4  1.6  46.8  1.9  3,710  
+19T 2.5 2.2  0.6  2.2  41.6  1.7  3,070  0.4  1.6  46.8  1.9  3,810  
+20T 2.5 2.2  0.6  2.3  43.3  1.8  3,270  0.4  1.7  48.7  2.0  4,050  
+24T 2.5 2.2  0.6  2.5  48.7  2.0  3,970  0.4  1.8  54.3  2.1  4,880  
+27T 2.5 2.2  0.6  2.5  49.7  2.0  4,340  0.4  1.8  55.3  2.2  5,260  
+30T 2.5 2.2  0.6  2.6  51.9  2.1  4,780  0.4  1.9  57.7  2.2  5,770  
+33T 2.5 2.2  0.6  2.7  54.1  2.1  5,240  0.4  2.0  60.1  2.3  6,300  
+37T 2.5 2.2  0.6  2.8  56.5  2.2  5,810  0.4  2.0  62.5  2.4  6,910  
+1Q 2.5 2.2  0.6  1.1  11.7  0.9  230  0.3  0.9  15.0  0.9  370  \n\n--- PAGE 50 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 50 / 64 
+ 
+TABLE. H5 250V ①FRT-TTCO(I), TTCO(I/C) ②FRT-TTCOTBO(I), TTCOTBO(I/C) 0.75SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 0.75 1.2 0.5  1.2  13.9  0.9  190  0.3  0.9  17.2  1.0  360  
+3P 0.75 1.2 0.5  1.2  14.7  0.9  220  0.3  1.0  18.2  1.0  410  
+4P 0.75 1.2 0.5  1.3  16.4  1.0  270  0.3  1.0  19.9  1.1  480  
+5P 0.75 1.2 0.5  1.4  18.2  1.0  330  0.3  1.0  21.7  1.2  560  
+6P 0.75 1.2 0.5  1.4  19.0  1.1  360  0.3  1.1  22.7  1.2  610  
+7P 0.75 1.2 0.5  1.4  19.0  1.1  380  0.3  1.1  22.7  1.2  630  
+8P 0.75 1.2 0.5  1.5  20.9  1.1  440  0.3  1.1  24.6  1.2  710  
+9P 0.75 1.2 0.5  1.5  22.5  1.2  500  0.3  1.2  26.4  1.3  800  
+10P 0.75 1.2 0.5  1.6  24.7  1.2  580  0.3  1.2  28.6  1.4  910  
+11P 0.75 1.2 0.5  1.6  24.7  1.2  590  0.3  1.2  28.6  1.4  930  
+12P 0.75 1.2 0.5  1.6  25.5  1.3  630  0.3  1.2  29.4  1.4  980  
+13P 0.75 1.2 0.5  1.7  27.1  1.3  700  0.3  1.3  31.2  1.4  1,080  
+14P 0.75 1.2 0.5  1.7  27.1  1.3  720  0.3  1.3  31.2  1.4  1,100  
+15P 0.75 1.2 0.5  1.8  28.9  1.4  800  0.3  1.3  33.0  1.5  1,200  
+16P 0.75 1.2 0.5  1.8  28.9  1.4  810  0.3  1.3  33.0  1.5  1,210  
+17P 0.75 1.2 0.5  1.8  30.5  1.4  880  0.4  1.4  35.3  1.6  1,320  
+18P 0.75 1.2 0.5  1.8  30.5  1.4  890  0.4  1.4  35.3  1.6  1,330  
+19P 0.75 1.2 0.5  1.8  30.5  1.4  910  0.4  1.4  35.3  1.6  1,350  
+20P 0.75 1.2 0.5  1.9  31.7  1.5  980  0.4  1.4  36.5  1.6  1,510  
+24P 0.75 1.2 0.5  2.0  35.5  1.6  1,190  0.4  1.5  40.5  1.7  1,800  
+27P 0.75 1.2 0.5  2.0  36.2  1.6  1,270  0.4  1.5  41.2  1.7  1,890  
+30P 0.75 1.2 0.5  2.1  37.8  1.6  1,390  0.4  1.5  42.8  1.8  2,040  
+33P 0.75 1.2 0.5  2.2  39.5  1.7  1,520  0.4  1.6  44.7  1.8  2,220  
+37P 0.75 1.2 0.5  2.2  41.1  1.7  1,650  0.4  1.6  46.3  1.9  2,380  
+44P 0.75 1.2 0.5  2.4  46.7  1.9  2,040  0.4  1.8  52.3  2.1  2,910  
+48P 0.75 1.2 0.5  2.5  47.6  1.9  2,170  0.4  1.8  53.2  2.1  3,060  
+2T 0.75 1.2 0.5  1.2  14.7  0.9  220  0.3  1.0  18.2  1.0  410  
+3T 0.75 1.2 0.5  1.3  15.8  1.0  310  0.3  1.0  19.3  1.1  510  
+4T 0.75 1.2 0.5  1.3  17.4  1.0  330  0.3  1.0  20.9  1.1  550  
+5T 0.75 1.2 0.5  1.4  19.3  1.1  470  0.3  1.1  23.0  1.2  720  
+6T 0.75 1.2 0.5  1.4  20.2  1.1  520  0.3  1.1  23.9  1.2  790  
+7T 0.75 1.2 0.5  1.4  20.2  1.1  560  0.3  1.1  23.9  1.2  830  
+8T 0.75 1.2 0.5  1.5  22.1  1.2  660  0.3  1.1  25.8  1.3  950  
+9T 0.75 1.2 0.5  1.6  24.1  1.2  750  0.3  1.2  28.0  1.3  1,080  
+10T 0.75 1.2 0.5  1.7  26.5  1.3  870  0.3  1.2  30.4  1.4  1,220  
+11T 0.75 1.2 0.5  1.7  26.5  1.3  910  0.3  1.2  30.4  1.4  1,260  
+12T 0.75 1.2 0.5  1.7  27.3  1.3  970  0.3  1.3  31.4  1.4  1,350  
+13T 0.75 1.2 0.5  1.8  29.0  1.4  1,070  0.3  1.3  33.1  1.5  1,480  
+14T 0.75 1.2 0.5  1.8  29.0  1.4  1,110  0.3  1.3  33.1  1.5  1,520  
+15T 0.75 1.2 0.5  1.8  30.7  1.4  1,200  0.4  1.4  35.5  1.6  1,720  
+16T 0.75 1.2 0.5  1.8  30.7  1.4  1,240  0.4  1.4  35.5  1.6  1,760  
+17T 0.75 1.2 0.5  1.9  32.6  1.5  1,360  0.4  1.4  37.4  1.6  1,910  
+18T 0.75 1.2 0.5  1.9  32.6  1.5  1,400  0.4  1.4  37.4  1.6  1,950  
+19T 0.75 1.2 0.5  1.9  32.6  1.5  1,440  0.4  1.4  37.4  1.6  1,990  
+20T 0.75 1.2 0.5  1.9  33.7  1.5  1,510  0.4  1.4  38.5  1.7  2,080  
+24T 0.75 1.2 0.5  2.1  37.9  1.6  1,860  0.4  1.5  42.9  1.8  2,510  
+27T 0.75 1.2 0.5  2.1  38.7  1.7  2,010  0.4  1.6  43.9  1.8  2,700  
+30T 0.75 1.2 0.5  2.2  40.5  1.7  2,210  0.4  1.6  45.7  1.9  2,920  
+33T 0.75 1.2 0.5  2.3  42.2  1.8  2,420  0.4  1.7  47.6  1.9  3,190  
+37T 0.75 1.2 0.5  2.3  43.9  1.8  2,650  0.4  1.7  49.3  2.0  3,450  
+44T 0.75 1.2 0.5  2.5  49.9  2.0  3,250  0.4  1.8  55.5  2.2  4,170  
+ 
+ \n\n--- PAGE 51 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 51 / 64 
+ 
+TABLE. H6  250V ① FRT-TTCO(I), TTCO(I/C)  ② FRT-TTCOTBO(I), TTCOTBO(I/C)  1SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 1 1.4 0.5  1.2  14.6  0.9  210  0.3  1.0  18.1  1.0  400  
+3P 1 1.4 0.5  1.3  15.7  1.0  260  0.3  1.0  19.2  1.1  460  
+4P 1 1.4 0.5  1.3  17.2  1.0  310  0.3  1.0  20.7  1.1  530  
+5P 1 1.4 0.5  1.4  19.2  1.1  380  0.3  1.1  22.9  1.2  630  
+6P 1 1.4 0.5  1.4  20.0  1.1  420  0.3  1.1  23.7  1.2  680  
+7P 1 1.4 0.5  1.4  20.0  1.1  440  0.3  1.1  23.7  1.2  700  
+8P 1 1.4 0.5  1.5  22.0  1.2  520  0.3  1.1  25.7  1.3  800  
+9P 1 1.4 0.5  1.6  23.9  1.2  590  0.3  1.2  27.8  1.3  920  
+10P 1 1.4 0.5  1.7  26.3  1.3  690  0.3  1.2  30.2  1.4  1,040  
+11P 1 1.4 0.5  1.7  26.3  1.3  710  0.3  1.2  30.2  1.4  1,060  
+12P 1 1.4 0.5  1.7  27.1  1.3  760  0.3  1.3  31.2  1.4  1,140  
+13P 1 1.4 0.5  1.8  28.8  1.4  840  0.3  1.3  32.9  1.5  1,240  
+14P 1 1.4 0.5  1.8  28.8  1.4  860  0.3  1.3  32.9  1.5  1,260  
+15P 1 1.4 0.5  1.8  30.4  1.4  940  0.4  1.4  35.2  1.6  1,380  
+16P 1 1.4 0.5  1.8  30.4  1.4  960  0.4  1.4  35.2  1.6  1,400  
+17P 1 1.4 0.5  1.9  32.3  1.5  1,060  0.4  1.4  37.1  1.6  1,600  
+18P 1 1.4 0.5  1.9  32.3  1.5  1,080  0.4  1.4  37.1  1.6  1,620  
+19P 1 1.4 0.5  1.9  32.3  1.5  1,100  0.4  1.4  37.1  1.6  1,650  
+20P 1 1.4 0.5  1.9  33.4  1.5  1,160  0.4  1.4  38.2  1.6  1,720  
+24P 1 1.4 0.5  2.1  37.6  1.6  1,430  0.4  1.5  42.6  1.8  2,080  
+27P 1 1.4 0.5  2.1  38.4  1.7  1,530  0.4  1.6  43.6  1.8  2,210  
+30P 1 1.4 0.5  2.2  40.1  1.7  1,680  0.4  1.6  45.3  1.9  2,390  
+33P 1 1.4 0.5  2.2  41.7  1.7  1,810  0.4  1.6  46.9  1.9  2,550  
+37P 1 1.4 0.5  2.3  43.5  1.8  2,000  0.4  1.7  48.9  2.0  2,790  
+44P 1 1.4 0.5  2.5  49.4  2.0  2,470  0.4  1.8  55.0  2.2  3,390  
+48P 1 1.4 0.5  2.6  50.5  2.0  2,630  0.4  1.9  56.3  2.2  3,590  
+2T 1 1.4 0.5  1.3  15.7  1.0  260  0.3  1.0  19.2  1.1  460  
+3T 1 1.4 0.5  1.3  16.6  1.0  360  0.3  1.0  20.1  1.1  570  
+4T 1 1.4 0.5  1.4  18.5  1.1  390  0.3  1.0  22.0  1.2  630  
+5T 1 1.4 0.5  1.5  20.5  1.1  560  0.3  1.1  24.2  1.2  830  
+6T 1 1.4 0.5  1.5  21.4  1.1  630  0.3  1.1  25.1  1.3  910  
+7T 1 1.4 0.5  1.5  21.4  1.1  680  0.3  1.1  25.1  1.3  960  
+8T 1 1.4 0.5  1.6  23.5  1.2  790  0.3  1.2  27.4  1.3  1,110  
+9T 1 1.4 0.5  1.6  25.4  1.3  900  0.3  1.2  29.3  1.4  1,240  
+10T 1 1.4 0.5  1.7  27.9  1.3  1,030  0.3  1.3  32.0  1.5  1,410  
+11T 1 1.4 0.5  1.7  27.9  1.3  1,080  0.3  1.3  32.0  1.5  1,470  
+12T 1 1.4 0.5  1.8  29.0  1.4  1,180  0.3  1.3  33.1  1.5  1,570  
+13T 1 1.4 0.5  1.8  30.6  1.4  1,280  0.4  1.4  35.4  1.6  1,800  
+14T 1 1.4 0.5  1.8  30.6  1.4  1,330  0.4  1.4  35.4  1.6  1,850  
+15T 1 1.4 0.5  1.9  32.5  1.5  1,460  0.4  1.4  37.3  1.6  2,010  
+16T 1 1.4 0.5  1.9  32.5  1.5  1,510  0.4  1.4  37.3  1.6  2,060  
+17T 1 1.4 0.5  2.0  34.5  1.5  1,640  0.4  1.5  39.5  1.7  2,240  
+18T 1 1.4 0.5  2.0  34.5  1.5  1,690  0.4  1.5  39.5  1.7  2,290  
+19T 1 1.4 0.5  2.0  34.5  1.5  1,740  0.4  1.5  39.5  1.7  2,340  
+20T 1 1.4 0.5  2.0  35.7  1.6  1,840  0.4  1.5  40.7  1.7  2,460  
+24T 1 1.4 0.5  2.2  40.2  1.7  2,250  0.4  1.6  45.4  1.9  2,960  
+27T 1 1.4 0.5  2.2  41.1  1.7  2,440  0.4  1.6  46.3  1.9  3,170  
+30T 1 1.4 0.5  2.3  42.9  1.8  2,690  0.4  1.7  48.3  1.9  3,460  
+33T 1 1.4 0.5  2.3  44.5  1.8  2,910  0.4  1.7  49.9  2.0  3,720  
+37T 1 1.4 0.5  2.4  46.5  1.9  3,230  0.4  1.8  52.1  2.1  4,100  
+44T 1 1.4 0.5  2.7  53.0  2.1  3,970  0.4  1.9  58.8  2.3  4,980  
+ 
+ \n\n--- PAGE 52 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 52 / 64 
+ 
+TABLE. H7  250V ①FRT-TTCO(I), TTCO(I/C) ②FRT-TTCOTBO(I), TTCOTBO(I/C) 1.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 1.5 1.7  0.6  1.3  16.2  1.0  260  0.3  1.0  19.7  1.1  470  
+3P 1.5 1.7  0.6  1.3  17.2  1.0  310  0.3  1.0  20.7  1.1  530  
+4P 1.5 1.7  0.6  1.4  19.1  1.1  390  0.3  1.1  22.8  1.2  640  
+5P 1.5 1.7  0.6  1.5  21.2  1.1  480  0.3  1.1  24.9  1.2  750  
+6P 1.5 1.7  0.6  1.5  22.2  1.2  530  0.3  1.1  25.9  1.3  820  
+7P 1.5 1.7  0.6  1.5  22.2  1.2  560  0.3  1.1  25.9  1.3  850  
+8P 1.5 1.7  0.6  1.6  24.3  1.2  660  0.3  1.2  28.2  1.3  980  
+9P 1.5 1.7  0.6  1.7  26.5  1.3  760  0.3  1.2  30.4  1.4  1,110  
+10P 1.5 1.7  0.6  1.8  29.1  1.4  870  0.3  1.3  33.2  1.5  1,280  
+11P 1.5 1.7  0.6  1.8  29.1  1.4  910  0.3  1.3  33.2  1.5  1,310  
+12P 1.5 1.7  0.6  1.8  30.0  1.4  970  0.4  1.4  34.8  1.5  1,400  
+13P 1.5 1.7  0.6  1.9  31.9  1.5  1,070  0.4  1.4  36.7  1.6  1,610  
+14P 1.5 1.7  0.6  1.9  31.9  1.5  1,100  0.4  1.4  36.7  1.6  1,640  
+15P 1.5 1.7  0.6  1.9  33.7  1.5  1,190  0.4  1.4  38.5  1.7  1,760  
+16P 1.5 1.7  0.6  1.9  33.7  1.5  1,230  0.4  1.4  38.5  1.7  1,790  
+17P 1.5 1.7  0.6  2.0  35.8  1.6  1,350  0.4  1.5  40.8  1.7  1,960  
+18P 1.5 1.7  0.6  2.0  35.8  1.6  1,380  0.4  1.5  40.8  1.7  2,000  
+19P 1.5 1.7  0.6  2.0  35.8  1.6  1,410  0.4  1.5  40.8  1.7  2,030  
+20P 1.5 1.7  0.6  2.1  37.2  1.6  1,510  0.4  1.5  42.2  1.8  2,150  
+24P 1.5 1.7  0.6  2.2  41.6  1.7  1,830  0.4  1.6  46.8  1.9  2,560  
+27P 1.5 1.7  0.6  2.3  42.8  1.8  1,980  0.4  1.7  48.2  1.9  2,760  
+30P 1.5 1.7  0.6  2.3  44.4  1.8  2,150  0.4  1.7  49.8  2.0  2,960  
+33P 1.5 1.7  0.6  2.4  46.4  1.9  2,350  0.4  1.8  52.0  2.1  3,220  
+37P 1.5 1.7  0.6  2.5  48.4  2.0  2,590  0.4  1.8  54.0  2.1  3,490  
+44P 1.5 1.7  0.6  2.7  55.0  2.1  3,190  0.4  2.0  61.0  2.3  4,270  
+48P 1.5 1.7  0.6  2.8  56.1  2.2  3,400  0.4  2.0  62.1  2.4  4,500  
+2T 1.5 1.7  0.6  1.3  17.1  1.0  320  0.3  1.0  20.6  1.1  540  
+3T 1.5 1.7  0.6  1.4  18.4  1.1  470  0.3  1.0  21.9  1.2  700  
+4T 1.5 1.7  0.6  1.4  20.3  1.1  490  0.3  1.1  24.0  1.2  760  
+5T 1.5 1.7  0.6  1.5  22.5  1.2  710  0.3  1.2  26.4  1.3  1,020  
+6T 1.5 1.7  0.6  1.6  23.8  1.2  830  0.3  1.2  27.7  1.3  1,150  
+7T 1.5 1.7  0.6  1.6  23.8  1.2  900  0.3  1.2  27.7  1.3  1,220  
+8T 1.5 1.7  0.6  1.7  26.0  1.3  1,040  0.3  1.2  29.9  1.4  1,390  
+9T 1.5 1.7  0.6  1.7  28.1  1.3  1,170  0.3  1.3  32.2  1.5  1,570  
+10T 1.5 1.7  0.6  1.8  30.9  1.4  1,340  0.4  1.4  35.7  1.6  1,870  
+11T 1.5 1.7  0.6  1.8  30.9  1.4  1,420  0.4  1.4  35.7  1.6  1,940  
+12T 1.5 1.7  0.6  1.9  32.1  1.5  1,540  0.4  1.4  36.9  1.6  2,080  
+13T 1.5 1.7  0.6  2.0  34.1  1.5  1,690  0.4  1.5  39.1  1.7  2,290  
+14T 1.5 1.7  0.6  2.0  34.1  1.5  1,770  0.4  1.5  39.1  1.7  2,360  
+15T 1.5 1.7  0.6  2.0  36.0  1.6  1,910  0.4  1.5  41.0  1.7  2,540  
+16T 1.5 1.7  0.6  2.0  36.0  1.6  1,980  0.4  1.5  41.0  1.7  2,610  
+17T 1.5 1.7  0.6  2.1  38.3  1.6  2,160  0.4  1.6  43.5  1.8  2,840  
+18T 1.5 1.7  0.6  2.1  38.3  1.6  2,230  0.4  1.6  43.5  1.8  2,910  
+19T 1.5 1.7  0.6  2.1  38.3  1.6  2,300  0.4  1.6  43.5  1.8  2,980  
+20T 1.5 1.7  0.6  2.2  39.8  1.7  2,450  0.4  1.6  45.0  1.8  3,150  
+24T 1.5 1.7  0.6  2.3  44.5  1.8  2,960  0.4  1.7  49.9  2.0  3,770  
+27T 1.5 1.7  0.6  2.4  45.7  1.9  3,250  0.4  1.7  51.1  2.0  4,080  
+30T 1.5 1.7  0.6  2.5  47.7  1.9  3,580  0.4  1.8  53.3  2.1  4,460  
+33T 1.5 1.7  0.6  2.5  49.6  2.0  3,880  0.4  1.8  55.2  2.2  4,810  
+37T 1.5 1.7  0.6  2.6  51.7  2.1  4,300  0.4  1.9  57.5  2.2  5,290  
+44T 1.5 1.7  0.6  2.9  59.0  2.3  5,280  0.4  2.1  65.2  2.5  6,450  
+ 
+ \n\n--- PAGE 53 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 53 / 64 
+ 
+TABLE. H8  250V ①FRT-TTCO(I), TTCO(I/C) ②FRT-TTCOTBO(I), TTCOTBO(I/C)  2.5SQ 
+No. 
+of 
+Pairs 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+① Un-armoured Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+② Armoured 
+Size Max.  
+O.D. 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight 
+No. SQMM mm mm mm mm mm kg/km mm mm mm mm kg/km 
+2P 2.5 2.2  0.6  1.4  18.0  1.0  340  0.3  1.0  21.5  1.1  570  
+3P 2.5 2.2  0.6  1.4  19.1  1.1  410  0.3  1.1  22.8  1.2  660  
+4P 2.5 2.2  0.6  1.5  21.3  1.1  510  0.3  1.1  25.0  1.2  790  
+5P 2.5 2.2  0.6  1.6  23.6  1.2  630  0.3  1.2  27.5  1.3  950  
+6P 2.5 2.2  0.6  1.6  24.7  1.2  700  0.3  1.2  28.6  1.4  1,040  
+7P 2.5 2.2  0.6  1.6  24.7  1.2  750  0.3  1.2  28.6  1.4  1,080  
+8P 2.5 2.2  0.6  1.7  27.1  1.3  880  0.3  1.3  31.2  1.4  1,250  
+9P 2.5 2.2  0.6  1.8  29.5  1.4  1,010  0.3  1.3  33.6  1.5  1,410  
+10P 2.5 2.2  0.6  1.9  32.4  1.5  1,160  0.4  1.4  37.2  1.6  1,710  
+11P 2.5 2.2  0.6  1.9  32.4  1.5  1,210  0.4  1.4  37.2  1.6  1,750  
+12P 2.5 2.2  0.6  1.9  33.4  1.5  1,290  0.4  1.4  38.2  1.6  1,850  
+13P 2.5 2.2  0.6  2.0  35.5  1.6  1,430  0.4  1.5  40.5  1.7  2,040  
+14P 2.5 2.2  0.6  2.0  35.5  1.6  1,480  0.4  1.5  40.5  1.7  2,090  
+15P 2.5 2.2  0.6  2.1  37.7  1.6  1,620  0.4  1.5  42.7  1.8  2,270  
+16P 2.5 2.2  0.6  2.1  37.7  1.6  1,670  0.4  1.5  42.7  1.8  2,320  
+17P 2.5 2.2  0.6  2.2  40.0  1.7  1,830  0.4  1.6  45.2  1.9  2,540  
+18P 2.5 2.2  0.6  2.2  40.0  1.7  1,870  0.4  1.6  45.2  1.9  2,590  
+19P 2.5 2.2  0.6  2.2  40.0  1.7  1,920  0.4  1.6  45.2  1.9  2,630  
+20P 2.5 2.2  0.6  2.2  41.4  1.7  2,030  0.4  1.6  46.6  1.9  2,760  
+24P 2.5 2.2  0.6  2.4  46.6  1.9  2,480  0.4  1.8  52.2  2.1  3,350  
+27P 2.5 2.2  0.6  2.5  47.8  1.9  2,710  0.4  1.8  53.4  2.1  3,590  
+30P 2.5 2.2  0.6  2.5  49.7  2.0  2,940  0.4  1.8  55.3  2.2  3,860  
+33P 2.5 2.2  0.6  2.6  51.8  2.1  3,210  0.4  1.9  57.6  2.2  4,200  
+37P 2.5 2.2  0.6  2.7  54.1  2.1  3,550  0.4  2.0  60.1  2.3  4,610  
+44P 2.5 2.2  0.6  3.0  61.6  2.3  4,390  0.4  2.1  67.8  2.5  5,620  
+48P 2.5 2.2  0.6  3.0  62.6  2.4  4,640  0.4  2.2  69.0  2.6  5,930  
+2T 2.5 2.2  0.6  1.4  19.1  1.1  420  0.3  1.1  22.8  1.2  670  
+3T 2.5 2.2  0.6  1.4  20.3  1.1  620  0.3  1.1  24.0  1.2  880  
+4T 2.5 2.2  0.6  1.5  22.6  1.2  660  0.3  1.2  26.5  1.3  960  
+5T 2.5 2.2  0.6  1.6  25.1  1.3  970  0.3  1.2  29.0  1.4  1,310  
+6T 2.5 2.2  0.6  1.7  26.4  1.3  1,120  0.3  1.2  30.3  1.4  1,480  
+7T 2.5 2.2  0.6  1.7  26.4  1.3  1,230  0.3  1.2  30.3  1.4  1,580  
+8T 2.5 2.2  0.6  1.8  29.0  1.4  1,420  0.3  1.3  33.1  1.5  1,820  
+9T 2.5 2.2  0.6  1.9  31.5  1.4  1,630  0.4  1.4  36.3  1.6  2,160  
+10T 2.5 2.2  0.6  2.0  34.6  1.5  1,850  0.4  1.5  39.6  1.7  2,460  
+11T 2.5 2.2  0.6  2.0  34.6  1.5  1,960  0.4  1.5  39.6  1.7  2,560  
+12T 2.5 2.2  0.6  2.0  35.8  1.6  2,110  0.4  1.5  40.8  1.7  2,730  
+13T 2.5 2.2  0.6  2.1  37.9  1.6  2,320  0.4  1.5  42.9  1.8  2,970  
+14T 2.5 2.2  0.6  2.1  37.9  1.6  2,420  0.4  1.5  42.9  1.8  3,080  
+15T 2.5 2.2  0.6  2.2  40.3  1.7  2,640  0.4  1.6  45.5  1.9  3,360  
+16T 2.5 2.2  0.6  2.2  40.3  1.7  2,750  0.4  1.6  45.5  1.9  3,470  
+17T 2.5 2.2  0.6  2.3  42.8  1.8  2,980  0.4  1.7  48.2  1.9  3,760  
+18T 2.5 2.2  0.6  2.3  42.8  1.8  3,090  0.4  1.7  48.2  1.9  3,870  
+19T 2.5 2.2  0.6  2.3  42.8  1.8  3,200  0.4  1.7  48.2  1.9  3,980  
+20T 2.5 2.2  0.6  2.3  44.3  1.8  3,370  0.4  1.7  49.7  2.0  4,180  
+24T 2.5 2.2  0.6  2.5  49.8  2.0  4,100  0.4  1.8  55.4  2.2  5,030  
+27T 2.5 2.2  0.6  2.6  51.1  2.0  4,510  0.4  1.9  56.9  2.2  5,490  
+30T 2.5 2.2  0.6  2.7  53.3  2.1  4,970  0.4  1.9  59.1  2.3  5,990  
+33T 2.5 2.2  0.6  2.7  55.4  2.2  5,410  0.4  2.0  61.4  2.3  6,490  
+37T 2.5 2.2  0.6  2.8  57.8  2.2  6,000  0.4  2.0  63.8  2.4  7,130  
+44T 2.5 2.2  0.6  3.1  65.8  2.5  7,330  0.4  2.2  72.2  2.7  8,670  
+ 
+ \n\n--- PAGE 54 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 54 / 64 
+ 
+0.6/1kV   
+FRT-TCOTBO(VFD) 
+ 
+  
+[LV  VFD CABLES, FIRE RESISTANCE] 
+[TABLE. I]  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+☞ Max. Conductor Temperature : 90℃ 
+ 
+☞ Applied Standard 
+ - Base Std.  : IEC 60092-350, 353 
+ - Insulation : IEC 60092-360 XLPE 
+ - Sheath                 : IEC 60092-360 SHF1 
+ - Flame retardant : IEC 60332-3-22 (Cat.A) 
+- Fire resistant : IEC 60331-1&2 
+ - HCl gas emission : IEC 60754-1 (Max.0.5%) 
+ - Smoke emission   : IEC 61034 (Min.60%) 
+ 
+ 
+CONSTRUCTION DETAIL 
+ 
+ Classification  Detail Letter 
+Conductor Stranded annealed copper conductor to IEC 60228, Class 2  
+Fire proof layer Mica tape FRT- 
+Insulation XLPE to IEC 60092-360   C 
+Filler Non-hygroscopic material   
+Binder  tape Non-hygroscopic material shall be applied on the cabled core    
+Inner sheath SHF1 to IEC 60092-360 O 
+Armour 
+(Concentric shield) Copper/polyester tape + Tinned Copper wire braid TB 
+Outer sheath SHF1 to IEC 60092-360 O 
+ 
+ 
+ 
+ \n\n--- PAGE 55 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 55 / 64 
+ 
+TABLE I.  0.6/1kV FRT-TCOTBO(VFD) 3C+3E 
+ 
+No. 
+of 
+cores 
+Conductor Thick. 
+of 
+insulation 
+Thick. 
+of 
+inner 
+sheath 
+Nom.Dia. 
+inner 
+sheath 
+Toler 
+-ance 
+(±) 
+Min. 
+Dia. 
+of 
+wire 
+Thick. 
+of 
+outer 
+sheath 
+Nominal 
+Dia. 
+Toler 
+-ance 
+(±) 
+Approx. 
+cable 
+weight Size Max.  
+O.D. 
+No. SQMM mm mm mm mm mm mm mm mm mm kg/km 
+3C 10 4.2 2.0 1.5 22.2 1.2 0.3 1.1 25.9 1.3 1,230 3E 4 2.7 0.7 
+3C 16 5.3 2.0 1.6 24.7 1.3 0.3 1.2 28.6 1.5 1,570 3E 6 3.3 0.7 
+3C 25 6.6 2.0 1.7 27.0 1.4 0.3 1.3 31.1 1.6 1,920 3E 6 3.3 0.7 
+3C 35 7.9 2.0 1.8 29.6 1.5 0.3 1.3 33.7 1.7 2,310 3E 6 3.3 0.7 
+3C 50 9.1 2.0 1.9 32.6 1.7 0.4 1.4 37.4 1.9 3,100 3E 10 4.2 0.7 
+3C 70 11.0 2.0 2.1 36.8 1.9 0.4 1.5 41.8 2.1 4,140 3E 16 5.3 0.7 
+3C 95 12.9 2.0 2.2 41.1 2.1 0.4 1.6 46.3 2.4 5,050 3E 16 5.3 0.7 
+3C 120 14.5 2.0 2.4 44.9 2.3 0.4 1.7 50.3 2.6 6,160 3E 25 6.6 0.9 
+3C 150 16.2 2.0 2.5 48.4 2.5 0.4 1.8 54.0 2.7 7,230 3E 25 6.6 0.9 
+3C 185 18.0 2.0 2.6 52.6 2.7 0.4 1.9 58.4 3.0 8,680 3E 35 7.9 0.9 
+3C 240 20.6 2.0 2.9 58.7 3.0 0.4 2.1 64.9 3.3 11,000 3E 50 9.1 1.0 
+3C 300 23.1 2.0 3.1 64.2 3.3 0.4 2.2 70.6 3.6 13,050 3E 50 9.1  1.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 56 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 56 / 64 
+ 
+10. Technical information 
+ 
+10.1 Resistance & Test Voltage 
+ 
+10.1.1 For 0.6/1kV cables  
+ 
+Conductor 
+Size 
+Max. 
+Conductor resistance at 20℃ 
+Min. 
+Insulation resistance Test  voltage 
+A TA at 20℃ at 90℃ 
+SQMM Ohm/km Mohm-km kV/5min. 
+1 18.1 18.2  1,150   1.15  3.5 
+1.5 12.1 12.2  990   0.99  3.5 
+2.5 7.41 7.56  830   0.83  3.5 
+4 4.61 4.7  690   0.69  3.5 
+6 3.08 3.11  590   0.59  3.5 
+10 1.83 1.84  470   0.47  3.5 
+16 1.15 1.16  390   0.39  3.5 
+25 0.727 0.734  400   0.40  3.5 
+35 0.524 0.529  340   0.34  3.5 
+50 0.387 0.391  330   0.33  3.5 
+70 0.268 0.270  300   0.30  3.5 
+95 0.193 0.195  260   0.26  3.5 
+120 0.153 0.154  250   0.25  3.5 
+150 0.124 0.126  260   0.26  3.5 
+185 0.0991 0.100  270   0.27  3.5 
+240 0.0754 0.0762  250   0.25  3.5 
+300 0.0601 0.0607  240   0.24  3.5 
+400 0.0470 0.0475  230   0.23  3.5 
+500 0.0366 0.0369  220   0.22  3.5 
+630 0.0283 0.0286  220   0.22  3.5 
+ 
+ 
+10.1.2 For 250V cables  
+ 
+Conductor 
+Size 
+Max. 
+Conductor resistance at 20℃ 
+Min. 
+Insulation resistance Test  voltage 
+A TA at 20℃ at 90℃ 
+SQMM Ohm/km Mohm-km kV/5min. 
+0.75 26.0 26.3 1060 1.06 1.5 
+1 19.2 19.3 950 0.95 1.5 
+1.5 12.8 12.9 930 0.93 1.5 
+2.5 7.86 8.02 780 0.78 1.5 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 57 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 57 / 64 
+ 
+ 10.2 Determination of Earth core size and Insulation thickness 
+ 
+Phase Conductor Earth Conductor 
+Size Size 
+Min. Nos.  
+of wire  
+Max. overall  
+diameter  
+Insulation 
+Thickness  
+㎟ ㎟ No. mm mm 
+1.5 1.5 7 1.7  0.7 
+2.5 2.5 7 2.2  0.7 
+4 4 7 2.7  0.7 
+6 6 7 3.3  0.7 
+10 10 7 4.2  0.7 
+16 16 7 5.3  0.7 
+25 16 7 5.3 0.7 
+35 25 7 6.6 0.9 
+50 25 7 6.6 0.9 
+70 35 7 7.9 0.9 
+95 50 19 9.1  1.0 
+120 70 19 11.0  1.1 
+150 95 19 12.9 1.1 
+185 95 19 12.9  1.1 
+240 120 37 14.5  1.2 
+300 150 37 16.2  1.4 
+ 
+ 
+ 10.3 Bending Radius 
+ 
+Voltage rating Cable type Minimum allowable bending radius 
+Up to 1.8/3kV 
+Unarmored 
+Diameter≤ 25 ㎜ 4 x Diameter 
+Diameter＞25 ㎜ 6 x Diameter 
+Armored 6 x Diameter 
+Tape screened 8 x Diameter 
+3.6/6kV  
+and above 
+Single Core cable  12 x Diameter 
+3 Core cable  9 x Diameter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \n\n--- PAGE 58 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 58 / 64 
+ 
+ 10.4 Short circuit current rating 
+ 
+Conductor 
+Size Current rating according to short circuit duration (kA) 
+SQMM 0.2 s  0.3 s  0.4 s  0.5 s  0.6 s  0.7 s  0.8 s  0.9 s  1 s  2 s  3 s  4 s  5 s  
+1.0  0.32 0.26 0.22 0.20 0.18 0.17 0.16 0.15 0.14 0.10 0.08 0.07 0.06 
+1.5  0.47 0.39 0.34 0.30 0.27 0.25 0.24 0.22 0.21 0.15 0.12 0.11 0.09 
+2.5  0.79 0.65 0.56 0.50 0.46 0.42 0.40 0.37 0.35 0.25 0.20 0.18 0.16 
+4  1.27 1.03 0.90 0.80 0.73 0.68 0.63 0.60 0.57 0.40 0.33 0.28 0.25 
+6  1.90 1.55 1.34 1.20 1.10 1.02 0.95 0.90 0.85 0.60 0.49 0.42 0.38 
+10  3.17 2.58 2.24 2.00 1.83 1.69 1.58 1.49 1.42 1.00 0.82 0.71 0.63 
+16  5.1 4.1 3.6 3.2 2.9 2.7 2.5 2.4 2.3 1.6 1.3 1.1 1.0 
+25  7.9 6.5 5.6 5.0 4.6 4.2 4.0 3.7 3.5 2.5 2.0 1.8 1.6 
+35  11.1 9.0 7.8 7.0 6.4 5.9 5.5 5.2 5.0 3.5 2.9 2.5 2.2 
+50  15.8 12.9 11.2 10.0 9.1 8.5 7.9 7.5 7.1 5.0 4.1 3.5 3.2 
+70  22.2 18.1 15.7 14.0 12.8 11.8 11.1 10.4 9.9 7.0 5.7 5.0 4.4 
+95  30.1 24.6 21.3 19.0 17.4 16.1 15.0 14.2 13.4 9.5 7.8 6.7 6.0 
+120  38.0 31.0 26.9 24.0 21.9 20.3 19.0 17.9 17.0 12.0 9.8 8.5 7.6 
+150  47.5 38.8 33.6 30.0 27.4 25.4 23.7 22.4 21.2 15.0 12.3 10.6 9.5 
+185  58.6 47.8 41.4 37.0 33.8 31.3 29.3 27.6 26.2 18.5 15.1 13.1 11.7 
+240  76.0 62.0 53.7 48.1 43.9 40.6 38.0 35.8 34.0 24.0 19.6 17.0 15.2 
+300  95.0 77.5 67.2 60.1 54.8 50.8 47.5 44.8 42.5 30.0 24.5 21.2 19.0 
+400 126.6 103.4 89.5 80.1 73.1 67.7 63.3 59.7 56.6 40.0 32.7 28.3 25.3 
+500 158.3 129.2 111.9 100.1 91.4 84.6 79.1 74.6 70.8 50.1 40.9 35.4 31.7 
+630 199.4 162.8 141.0 126.1 115.1 106.6 99.7 94.0 89.2 63.1 51.5 44.6 39.9 
+ 
+10.5 Correction factor for various ambient air temperature 
+ 
+Max. rated 
+conductor 
+temperature 
+Correction factors for ambient air temperature of 
+°C 35°C 40°C 45°C 50°C 55°C 60°C 65°C 70°C 75°C 80°C 85°C 
+60 1.29 1.15 1.00 0.82 - - - - - - - 
+65 1.22 1.12 1.00 0.87 0.71 - - - - - - 
+70 1.18 1.10 1.00 0.89 0.77 0.63 - - - - - 
+75 1.15 1.08 1.00 0.91 0.82 0.71 0.58 - - - - 
+80 1.13 1.07 1.00 0.93 0.85 0.76 0.65 0.53 - - - 
+85 1.12 1.06 1.00 0.94 0.87 0.79 0.71 0.61 0.50 - - 
+90 1.10 1.05 1.00 0.94 0.88 0.82 0.74 0.67 0.58 0.47 - 
+95 1.10 1.05 1.00 0.95 0.89 0.84 0.77 0.71 0.63 0.55 0.45 
+ 
+10.6 Cross-section of Armor 
+  Cross section of armor can be changed depending on the actual process, use it for reference only. 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3196673 0.6/1KV F-DCOTBO 2X2.5SQ(BN,BL) BK 4.5 
+3196674 0.6/1KV F-DCOTBO 2X4SQ(BN,BL) BK 4.5 
+3196675 0.6/1KV F-DCOTBO 2X4SQ(RD,WH) BK 4.5 
+3196676 0.6/1KV F-DCOTBO 2X10SQ(BN,BL) BK 9.0 
+3196680 0.6/1KV F-DCOTBO 2X16SQ(RD,WH) BK 9.0 
+3196679 0.6/1KV F-DCOTBO 2X25SQ(RD,WH) BK 9.0 \n\n--- PAGE 59 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 59 / 64 
+ 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3196678 0.6/1KV F-DCOTBO 2X35SQ(RD,WH) BK 13.6 
+3196677 0.6/1KV F-DCOTBO 2X70SQ(RD,WH) BK 13.6 
+3196681 0.6/1KV F-DCOTBOE 2X2.5SQ+1X2.5SQ(BN,BL) BK 4.5 
+3196990 0.6/1KV F-DCOTBOE 2X4SQ+4SQ(BN,BL) BK 9.0 
+3196227 0.6/1KV F-DCOTBOE 2X6SQ+1X6SQ(BN,BL) BK 9.0 
+3197492 0.6/1KV F-DCOTBOE 2X10SQ+10SQ(BN,BL) BK 10.2 
+3196682 0.6/1KV F-DCOTBOE 2X50SQ+1X25SQ(RD,WH) BK 13.6 
+3196615 0.6/1KV F-FCO 4X10SQ BK N/A 
+3196616 0.6/1KV F-FCO 4X16SQ BK N/A 
+3196617 0.6/1KV F-FCO 4X25SQ BK N/A 
+3196618 0.6/1KV F-FCO 4X35SQ BK N/A 
+3196620 0.6/1KV F-FCO 4X70SQ BK N/A 
+3196622 0.6/1KV F-FCO 4X120SQ BK N/A 
+3196623 0.6/1KV F-FCO 4X150SQ BK N/A 
+3196624 0.6/1KV F-FCO 4X185SQ BK N/A 
+3196585 0.6/1KV F-FCOTBO 4X1.5SQ BK 4.5 
+3196586 0.6/1KV F-FCOTBO 4X2.5SQ BK 4.5 
+3196588 0.6/1KV F-FCOTBO 4X4SQ BK 9.0 
+3196589 0.6/1KV F-FCOTBO 4X6SQ BK 9.0 
+3196590 0.6/1KV F-FCOTBO 4X10SQ BK 9.0 
+3196591 0.6/1KV F-FCOTBO 4X16SQ BK 9.0 
+3196593 0.6/1KV F-FCOTBO 4X25SQ BK 13.6 
+3196595 0.6/1KV F-FCOTBO 4X35SQ BK 13.6 
+3196596 0.6/1KV F-FCOTBO 4X50SQ BK 13.6 
+3196598 0.6/1KV F-FCOTBO 4X70SQ BK 31.7 
+3196600 0.6/1KV F-FCOTBO 4X95SQ BK 36.2 
+3196602 0.6/1KV F-FCOTBO 4X120SQ BK 36.2 
+3196603 0.6/1KV F-FCOTBO 4X150SQ BK 36.2 
+3196604 0.6/1KV F-FCOTBO 4X185SQ BK 36.2 
+3196605 0.6/1KV F-FCOTBO 4X240SQ BK 36.2 
+3196606 0.6/1KV F-FCOTBO 4X300SQ BK 36.2 
+3197041 0.6/1KV F-FCOTBOE 4X2.5SQ+1X2.5SQ BK 10.2 
+3196587 0.6/1KV F-FCOTBOE 4X4SQ+1X4SQ BK 10.2 
+3197043 0.6/1KV F-FCOTBOE 4X6SQ+1X6SQ BK 10.2 
+3197045 0.6/1KV F-FCOTBOE 4X10SQ+1X10SQ BK 10.2 
+3196592 0.6/1KV F-FCOTBOE 4X16SQ+1X16SQ BK 15.3 
+3196594 0.6/1KV F-FCOTBOE 4X25SQ+1X16SQ BK 13.6 
+3196607 0.6/1KV F-FCOTBOE 4X35SQ+1X25SQ BK 13.6 
+3196608 0.6/1KV F-FCOTBOE 4X50SQ+1X25SQ BK 22.9 
+3196599 0.6/1KV F-FCOTBOE 4X70SQ+1X35SQ BK 40.7 
+3196609 0.6/1KV F-FCOTBOE 4X95SQ+1X50SQ BK 40.7 
+3196610 0.6/1KV F-FCOTBOE 4X120SQ+1X70SQ BK 36.2 
+3196611 0.6/1KV F-FCOTBOE 4X150SQ+1X95SQ BK 40.7 
+3196612 0.6/1KV F-FCOTBOE 4X185SQ+1X95SQ BK 36.2 
+3196613 0.6/1KV F-FCOTBOE 4X240SQ+1X120SQ BK 40.7 
+3196614 0.6/1KV F-FCOTBOE 4X300SQ+1X150SQ BK 40.7 
+3196665 0.6/1KV F-MCOTBO 7X1.5SQ BK 9.0 
+3196668 0.6/1KV F-MCOTBO 12X1.5SQ BK 10.2 
+3196670 0.6/1KV F-MCOTBO 19X1.5SQ BK 10.2 
+3196666 0.6/1KV F-MCOTBO 7X2.5SQ BK 10.2 
+3196669 0.6/1KV F-MCOTBO 12X2.5SQ BK 10.2 
+3196671 0.6/1KV F-MCOTBO 19X2.5SQ BK 10.2 
+3196985 0.6/1KV F-MCOTBO 7X4SQ BK 10.2 
+3196986 0.6/1KV F-MCOTBO 12X4SQ BK 10.2 
+3196663 0.6/1KV F-MCOTBOE 5X1.5SQ+1X1.5SQ BK 9.0 
+3196664 0.6/1KV F-MCOTBOE 6X1.5SQ+1X1.5SQ BK 9.0 
+3196672 0.6/1KV F-MCOTBOE 47X1.5SQ+1X1.5SQ BK 13.6 
+3196984 0.6/1KV F-MCOTBOE 7X4SQ+1X4SQ BK 10.2 
+3196573 0.6/1KV F-SCO 1X16SQ BK N/A 
+3196574 0.6/1KV F-SCO 1X25SQ BK N/A 
+3196575 0.6/1KV F-SCO 1X35SQ BK N/A 
+3196576 0.6/1KV F-SCO 1X50SQ BK N/A 
+3196577 0.6/1KV F-SCO 1X95SQ BK N/A 
+3196578 0.6/1KV F-SCO 1X185SQ BK N/A 
+3196579 0.6/1KV F-SCO 1X240SQ BK N/A 
+3196580 0.6/1KV F-SCO 1X300SQ BK N/A 
+3196581 0.6/1KV F-SCO 1X400SQ BK N/A \n\n--- PAGE 60 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 60 / 64 
+ 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3196582 0.6/1KV F-SCO 1X500SQ BK N/A 
+3196583 0.6/1KV F-SCO 1X630SQ BK N/A 
+3196559 0.6/1KV F-SCOTBO 1X16SQ BK 4.0 
+3196560 0.6/1KV F-SCOTBO 1X25SQ BK 4.5 
+3196561 0.6/1KV F-SCOTBO 1X35SQ BK 9.0 
+3196562 0.6/1KV F-SCOTBO 1X50SQ BK 10.2 
+3196563 0.6/1KV F-SCOTBO 1X70SQ BK 10.2 
+3196564 0.6/1KV F-SCOTBO 1X95SQ BK 10.2 
+3196565 0.6/1KV F-SCOTBO 1X120SQ BK 10.2 
+3196566 0.6/1KV F-SCOTBO 1X150SQ BK N/A 
+3196567 0.6/1KV F-SCOTBO 1X185SQ BK 15.3 
+3196568 0.6/1KV F-SCOTBO 1X240SQ BK 15.3 
+3196569 0.6/1KV F-SCOTBO 1X300SQ BK 15.3 
+3196570 0.6/1KV F-SCOTBO 1X400SQ BK 31.7 
+3196571 0.6/1KV F-SCOTBO 1X500SQ BK 36.2 
+3196572 0.6/1KV F-SCOTBO 1X630SQ BK 36.2 
+3196687 0.6/1KV F-TCO 3X1.5SQ(BN,BK,BL) BK N/A 
+3196688 0.6/1KV F-TCO 3X2.5SQ(BN,BK,BL) BK N/A 
+3196684 0.6/1KV F-TCO 3X4SQ(BN,BK,BL) BK N/A 
+3196683 0.6/1KV F-TCO 3X4SQ(BN,BK,GY) BK N/A 
+3196686 0.6/1KV F-TCO 3X6SQ(BN,BK,BL) BK N/A 
+3196685 0.6/1KV F-TCO 3X6SQ(BN,BK,GY) BK N/A 
+3196689 0.6/1KV F-TCO 3X25SQ(BN,BK,GY) BK N/A 
+3196690 0.6/1KV F-TCO 3X35SQ(BN,BK,GY) BK N/A 
+3196691 0.6/1KV F-TCO 3X50SQ(BN,BK,GY) BK N/A 
+3196692 0.6/1KV F-TCO 3X70SQ(BN,BK,GY) BK N/A 
+3196693 0.6/1KV F-TCO 3X95SQ(BN,BK,GY) BK N/A 
+3196694 0.6/1KV F-TCO 3X120SQ(BN,BK,GY) BK N/A 
+3196695 0.6/1KV F-TCO 3X150SQ(BN,BK,GY) BK N/A 
+3196696 0.6/1KV F-TCO 3X185SQ(BN,BK,GY) BK N/A 
+3196697 0.6/1KV F-TCO 3X240SQ(BN,BK,GY) BK N/A 
+3196196 0.6/1KV F-TCOTBO 3X1.5SQ(BN,BK,BL) BK 4.0 
+3196197 0.6/1KV F-TCOTBO 3X2.5SQ(BN,BK,BL) BK 4.5 
+3196198 0.6/1KV F-TCOTBO 3X2.5SQ(BN,BK,GY) BK 4.5 
+3196200 0.6/1KV F-TCOTBO 3X4SQ(BN,BK,BL) BK 9.0 
+3196199 0.6/1KV F-TCOTBO 3X4SQ(BN,BK,GY) BK 9.0 
+3196202 0.6/1KV F-TCOTBO 3X6SQ(BN,BK,BL) BK 9.0 
+3196201 0.6/1KV F-TCOTBO 3X6SQ(BN,BK,GY) BK 9.0 
+3196204 0.6/1KV F-TCOTBO 3X10SQ(BN,BK,BL) BK 9.0 
+3196203 0.6/1KV F-TCOTBO 3X10SQ(BN,BK,GY) BK 9.0 
+3196205 0.6/1KV F-TCOTBO 3X16SQ(BN,BK,GY) BK 10.2 
+3196206 0.6/1KV F-TCOTBO 3X25SQ(BN,BK,GY) BK 13.6 
+3196207 0.6/1KV F-TCOTBO 3X35SQ(BN,BK,GY) BK 15.3 
+3196208 0.6/1KV F-TCOTBO 3X50SQ(BN,BK,GY) BK 13.6 
+3196209 0.6/1KV F-TCOTBO 3X70SQ(BN,BK,GY) BK 22.9 
+3196210 0.6/1KV F-TCOTBO 3X95SQ(BN,BK,GY) BK 31.7 
+3196211 0.6/1KV F-TCOTBO 3X120SQ(BN,BK,GY) BK 36.2 
+3196212 0.6/1KV F-TCOTBO 3X150SQ(BN,BK,GY) BK 36.2 
+3196213 0.6/1KV F-TCOTBO 3X185SQ(BN,BK,GY) BK 36.2 
+3196214 0.6/1KV F-TCOTBO 3X240SQ(BN,BK,GY) BK 36.2 
+3196215 0.6/1KV F-TCOTBO 3X300SQ(BN,BK,GY) BK 36.2 
+3196241 0.6/1KV F-TCOTBO(VFD) 3X10SQ+3X4SQ BK 15.3 
+3196242 0.6/1KV F-TCOTBO(VFD) 3X16SQ+3X6SQ BK 15.3 
+3196243 0.6/1KV F-TCOTBO(VFD) 3X25SQ+3X6SQ BK 15.3 
+3196244 0.6/1KV F-TCOTBO(VFD) 3X35SQ+3X6SQ BK 15.3 
+3196245 0.6/1KV F-TCOTBO(VFD) 3X50SQ+3X10SQ BK 22.9 
+3196246 0.6/1KV F-TCOTBO(VFD) 3X70SQ+3X16SQ BK 31.7 
+3196247 0.6/1KV F-TCOTBO(VFD) 3X95SQ+3X16SQ BK 40.7 
+3196248 0.6/1KV F-TCOTBO(VFD) 3X120SQ+3X25SQ BK 36.2 
+3196249 0.6/1KV F-TCOTBO(VFD) 3X150SQ+3X25SQ BK 36.2 
+3196250 0.6/1KV F-TCOTBO(VFD) 3X185SQ+3X35SQ BK 40.7 
+3196751 0.6/1KV F-TCOTBO(VFD) 3X240SQ+3X50SQ BK 40.7 
+3196752 0.6/1KV F-TCOTBO(VFD) 3X300SQ+3X50SQ BK 40.7 
+3196216 0.6/1KV F-TCOTBOE 3X2.5SQ+2.5SQ(BN,BK,BL BK 4.5 
+3196991 0.6/1KV F-TCOTBOE 3X4SQ+4SQ(BN,BK,GY) BK 9.0 
+3196228 0.6/1KV F-TCOTBOE 3X6SQ+6SQ(BN,BK,GY) BK 10.2 
+3196217 0.6/1KV F-TCOTBOE 3X10SQ+10SQ(BN,BK,GY) BK 10.2 \n\n--- PAGE 61 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 61 / 64 
+ 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3196218 0.6/1KV F-TCOTBOE 3X16SQ+16SQ(BN,BK,GY) BK 10.2 
+3196219 0.6/1KV F-TCOTBOE 3X25SQ+16SQ(BN,BK,GY) BK 15.3 
+3196220 0.6/1KV F-TCOTBOE 3X35SQ+25SQ(BN,BK,GY) BK 15.3 
+3196221 0.6/1KV F-TCOTBOE 3X50SQ+25SQ(BN,BK,GY) BK 15.3 
+3197794 0.6/1KV F-TCOTBOE 3X70SQ+35SQ(BN,BK,GY) BK 22.9 
+3196222 0.6/1KV F-TCOTBOE 3X95SQ+50SQ(BN,BK,GY) BK 36.2 
+3196223 0.6/1KV F-TCOTBOE 3X120SQ+70SQ(BN,BK,GY) BK 36.2 
+3196224 0.6/1KV F-TCOTBOE 3X150SQ+95SQ(BN,BK,GY) BK 40.7 
+3196225 0.6/1KV F-TCOTBOE 3X240SQ+120SQ(BN,BK,GY BK 40.7 
+3196226 0.6/1KV F-TCOTBOE 3X300SQ+150SQ(BN,BK,GY BK 40.7 
+3197485 0.6/1KV FRT-DCOTBO 2X2.5SQ(BN,BL) BK 4.5 
+3197487 0.6/1KV FRT-DCOTBO 2X4SQ(BN,BL) BK 5.0 
+3197488 0.6/1KV FRT-DCOTBO 2X4SQ(RD,WH) BK 5.0 
+3196229 0.6/1KV FRT-DCOTBO 2X10SQ(BN,BL) BK 10.2 
+3197507 0.6/1KV FRT-DCOTBO 2X16SQ(RD,WH) BK 9.0 
+3197506 0.6/1KV FRT-DCOTBO 2X25SQ(RD,WH) BK 13.6 
+3197505 0.6/1KV FRT-DCOTBO 2X35SQ(RD,WH) BK 15.3 
+3197504 0.6/1KV FRT-DCOTBO 2X70SQ(RD,WH) BK 22.9 
+3196988 0.6/1KV FRT-DCOTBOE 2X2.5SQ+2.5SQ(BN,BL) BK 4.5 
+3196989 0.6/1KV FRT-DCOTBOE 2X4SQ+4SQ(BN,BL) BK 9.0 
+3196994 0.6/1KV FRT-DCOTBOE 2X4SQ+4SQ(RD,WH) BK 9.0 
+3196992 0.6/1KV FRT-DCOTBOE 2X6SQ+6SQ(BN,BL) BK 9.0 
+3196993 0.6/1KV FRT-DCOTBOE 2X10SQ+10SQ(BN,BL) BK 10.2 
+3197493 0.6/1KV FRT-DCOTBOE 2X16SQ+16SQ(BN,BL) BK 9.0 
+3197494 0.6/1KV FRT-DCOTBOE 2X25SQ+16SQ(BN,BL) BK 15.3 
+3197495 0.6/1KV FRT-DCOTBOE 2X35SQ+25SQ(BN,BL) BK 13.6 
+3197503 0.6/1KV FRT-DCOTBOE 2X50SQ+25SQ(RD,WH) BK 13.6 
+3197496 0.6/1KV FRT-DCOTBOE 2X95SQ+50SQ(BN,BL) BK 22.9 
+3197497 0.6/1KV FRT-DCOTBOE 2X120SQ+70SQ(BN,BL) BK 36.2 
+3197498 0.6/1KV FRT-DCOTBOE 2X150SQ+95SQ(BN,BL) BK 40.7 
+3197477 0.6/1KV FRT-FCO 4X10SQ BK N/A 
+3197478 0.6/1KV FRT-FCO 4X16SQ BK N/A 
+3197479 0.6/1KV FRT-FCO 4X25SQ BK N/A 
+3197480 0.6/1KV FRT-FCO 4X35SQ BK N/A 
+3196619 0.6/1KV FRT-FCO 4X50SQ BK N/A 
+3197481 0.6/1KV FRT-FCO 4X70SQ BK N/A 
+3196621 0.6/1KV FRT-FCO 4X95SQ BK N/A 
+3197482 0.6/1KV FRT-FCO 4X120SQ BK N/A 
+3197483 0.6/1KV FRT-FCO 4X150SQ BK N/A 
+3197484 0.6/1KV FRT-FCO 4X185SQ BK N/A 
+3197014 0.6/1KV FRT-FCOTBO 4X1.5SQ BK 5.0 
+3197021 0.6/1KV FRT-FCOTBO 4X2.5SQ BK 5.0 
+3197025 0.6/1KV FRT-FCOTBO 4X4SQ BK 10.2 
+3197026 0.6/1KV FRT-FCOTBO 4X6SQ BK 10.2 
+3197027 0.6/1KV FRT-FCOTBO 4X10SQ BK 10.2 
+3197028 0.6/1KV FRT-FCOTBO 4X16SQ BK 13.6 
+3197030 0.6/1KV FRT-FCOTBO 4X25SQ BK 15.3 
+3197032 0.6/1KV FRT-FCOTBO 4X35SQ BK 15.3 
+3196597 0.6/1KV FRT-FCOTBO 4X50SQ BK 22.9 
+3197033 0.6/1KV FRT-FCOTBO 4X70SQ BK 36.2 
+3196601 0.6/1KV FRT-FCOTBO 4X95SQ BK 36.2 
+3197035 0.6/1KV FRT-FCOTBO 4X120SQ BK 40.7 
+3197036 0.6/1KV FRT-FCOTBO 4X150SQ BK 40.7 
+3197037 0.6/1KV FRT-FCOTBO 4X185SQ BK 40.7 
+3197038 0.6/1KV FRT-FCOTBO 4X240SQ BK 40.7 
+3197039 0.6/1KV FRT-FCOTBO 4X300SQ BK 40.7 
+3197040 0.6/1KV FRT-FCOTBOE 4X2.5SQ+1X2.5SQ BK 10.2 
+3197024 0.6/1KV FRT-FCOTBOE 4X4SQ+1X4SQ BK 10.2 
+3197042 0.6/1KV FRT-FCOTBOE 4X6SQ+1X6SQ BK 10.2 
+3197044 0.6/1KV FRT-FCOTBOE 4X10SQ+1X10SQ BK 10.2 
+3197029 0.6/1KV FRT-FCOTBOE 4X16SQ+1X16SQ BK 15.3 
+3197031 0.6/1KV FRT-FCOTBOE 4X25SQ+1X16SQ BK 15.3 
+3197046 0.6/1KV FRT-FCOTBOE 4X35SQ+1X25SQ BK 22.9 
+3197047 0.6/1KV FRT-FCOTBOE 4X50SQ+1X25SQ BK 22.9 
+3197034 0.6/1KV FRT-FCOTBOE 4X70SQ+1X35SQ BK 36.2 
+3197048 0.6/1KV FRT-FCOTBOE 4X95SQ+1X50SQ BK 40.7 
+3197049 0.6/1KV FRT-FCOTBOE 4X120SQ+1X70SQ BK 40.7 \n\n--- PAGE 62 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 62 / 64 
+ 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3197050 0.6/1KV FRT-FCOTBOE 4X150SQ+1X95SQ BK 40.7 
+3197451 0.6/1KV FRT-FCOTBOE 4X185SQ+1X95SQ BK 40.7 
+3197452 0.6/1KV FRT-FCOTBOE 4X240SQ+1X120SQ BK 40.7 
+3197453 0.6/1KV FRT-FCOTBOE 4X300SQ+1X150SQ BK 40.7 
+3197017 0.6/1KV FRT-MCOTBO 7X1.5SQ BK 10.2 
+3197018 0.6/1KV FRT-MCOTBO 12X1.5SQ BK 10.2 
+3197019 0.6/1KV FRT-MCOTBO 19X1.5SQ BK 15.3 
+3197022 0.6/1KV FRT-MCOTBO 7X2.5SQ BK 10.2 
+3196240 0.6/1KV FRT-MCOTBO 12X2.5SQ BK 10.2 
+3197023 0.6/1KV FRT-MCOTBO 19X2.5SQ BK 15.3 
+3196981 0.6/1KV FRT-MCOTBO 24X2.5SQ BK 15.3 
+3197015 0.6/1KV FRT-MCOTBOE 5X1.5SQ+1X1.5SQ BK 10.2 
+3197016 0.6/1KV FRT-MCOTBOE 6X1.5SQ+1X1.5SQ BK 10.2 
+3197020 0.6/1KV FRT-MCOTBOE 47X1.5SQ+1X1.5SQ BK 22.9 
+3197466 0.6/1KV FRT-SCO 1X16SQ BK N/A 
+3197467 0.6/1KV FRT-SCO 1X25SQ BK N/A 
+3197468 0.6/1KV FRT-SCO 1X35SQ BK N/A 
+3197469 0.6/1KV FRT-SCO 1X50SQ BK N/A 
+3197470 0.6/1KV FRT-SCO 1X95SQ BK N/A 
+3197471 0.6/1KV FRT-SCO 1X185SQ BK N/A 
+3197472 0.6/1KV FRT-SCO 1X240SQ BK N/A 
+3197473 0.6/1KV FRT-SCO 1X300SQ BK N/A 
+3197474 0.6/1KV FRT-SCO 1X400SQ BK N/A 
+3197475 0.6/1KV FRT-SCO 1X500SQ BK N/A 
+3197476 0.6/1KV FRT-SCO 1X630SQ BK N/A 
+3197000 0.6/1KV FRT-SCOTBO 1X16SQ BK 4.5 
+3197001 0.6/1KV FRT-SCOTBO 1X25SQ BK 5.0 
+3197002 0.6/1KV FRT-SCOTBO 1X35SQ BK 10.2 
+3197003 0.6/1KV FRT-SCOTBO 1X50SQ BK 10.2 
+3197004 0.6/1KV FRT-SCOTBO 1X70SQ BK 10.2 
+3197005 0.6/1KV FRT-SCOTBO 1X95SQ BK 10.2 
+3197006 0.6/1KV FRT-SCOTBO 1X120SQ BK 13.6 
+3197007 0.6/1KV FRT-SCOTBO 1X150SQ BK 15.3 
+3197008 0.6/1KV FRT-SCOTBO 1X185SQ BK 15.3 
+3197009 0.6/1KV FRT-SCOTBO 1X240SQ BK 15.3 
+3197010 0.6/1KV FRT-SCOTBO 1X300SQ BK 22.9 
+3197011 0.6/1KV FRT-SCOTBO 1X400SQ BK 31.7 
+3197012 0.6/1KV FRT-SCOTBO 1X500SQ BK 36.2 
+3197013 0.6/1KV FRT-SCOTBO 1X630SQ BK 36.2 
+3197528 0.6/1KV FRT-TCO 3X1.5SQ(BN,BK,BL) BK N/A 
+3196230 0.6/1KV FRT-TCO 3X2.5SQ(BN,BK,BL) BK N/A 
+3196231 0.6/1KV FRT-TCO 3X4SQ(BN,BK,GY) BK N/A 
+3197526 0.6/1KV FRT-TCO 3X4SQ(BN,BK,BL) BK N/A 
+3196232 0.6/1KV FRT-TCO 3X6SQ(BN,BK,GY) BK N/A 
+3197527 0.6/1KV FRT-TCO 3X6SQ(BN,BK,BL) BK N/A 
+3196233 0.6/1KV FRT-TCO 3X10SQ(BN,BK,GY) BK N/A 
+3196234 0.6/1KV FRT-TCO 3X16SQ(BN,BK,GY) BK N/A 
+3197529 0.6/1KV FRT-TCO 3X25SQ(BN,BK,GY) BK N/A 
+3197530 0.6/1KV FRT-TCO 3X35SQ(BN,BK,GY) BK N/A 
+3197531 0.6/1KV FRT-TCO 3X50SQ(BN,BK,GY) BK N/A 
+3197532 0.6/1KV FRT-TCO 3X70SQ(BN,BK,GY) BK N/A 
+3197533 0.6/1KV FRT-TCO 3X95SQ(BN,BK,GY) BK N/A 
+3197534 0.6/1KV FRT-TCO 3X120SQ(BN,BK,GY) BK N/A 
+3197535 0.6/1KV FRT-TCO 3X150SQ(BN,BK,GY) BK N/A 
+3197536 0.6/1KV FRT-TCO 3X185SQ(BN,BK,GY) BK N/A 
+3197538 0.6/1KV FRT-TCO 3X185SQ(BN,BK,GY) BK N/A 
+3197537 0.6/1KV FRT-TCO 3X240SQ(BN,BK,GY) BK N/A 
+3197539 0.6/1KV FRT-TCO 3X240SQ(BN,BK,GY) BK N/A 
+3196980 0.6/1KV FRT-TCOTBO 3X1.5SQ(BN,BK,BL) BK 4.5 
+3196235 0.6/1KV FRT-TCOTBO 3X2.5SQ(BN,BK,BL) BK 9.0 
+3196236 0.6/1KV FRT-TCOTBO 3X2.5SQ(BN,BK,GY) BK 9.0 
+3196237 0.6/1KV FRT-TCOTBO 3X4SQ(BN,BK,GY) BK 9.0 
+3197489 0.6/1KV FRT-TCOTBO 3X4SQ(BN,BK,BL) BK 9.0 
+3196238 0.6/1KV FRT-TCOTBO 3X6SQ(BN,BK,GY) BK 10.2 
+3197490 0.6/1KV FRT-TCOTBO 3X6SQ(BN,BK,BL) BK 10.2 
+3197499 0.6/1KV FRT-TCOTBO 3X10SQ(BN,BK,GY) BK 10.2 
+3197500 0.6/1KV FRT-TCOTBO 3X10SQ(BN,BK,BL) BK 10.2 \n\n--- PAGE 63 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 63 / 64 
+ 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3196239 0.6/1KV FRT-TCOTBO 3X16SQ(BN,BK,GY) BK 10.2 
+3197501 0.6/1KV FRT-TCOTBO 3X25SQ(BN,BK,GY) BK 15.3 
+3197502 0.6/1KV FRT-TCOTBO 3X35SQ(BN,BK,GY) BK 15.3 
+3197508 0.6/1KV FRT-TCOTBO 3X50SQ(BN,BK,GY) BK 15.3 
+3197509 0.6/1KV FRT-TCOTBO 3X70SQ(BN,BK,GY) BK 22.9 
+3197510 0.6/1KV FRT-TCOTBO 3X95SQ(BN,BK,GY) BK 36.2 
+3197511 0.6/1KV FRT-TCOTBO 3X120SQ(BN,BK,GY) BK 36.2 
+3197512 0.6/1KV FRT-TCOTBO 3X150SQ(BN,BK,GY) BK 40.7 
+3197513 0.6/1KV FRT-TCOTBO 3X185SQ(BN,BK,GY) BK 40.7 
+3197514 0.6/1KV FRT-TCOTBO 3X240SQ(BN,BK,GY) BK 40.7 
+3197515 0.6/1KV FRT-TCOTBO 3X300SQ(BN,BK,GY) BK 40.7 
+3197454 0.6/1KV FRT-TCOTBO(VFD) 3X10SQ+3X4SQ BK 15.3 
+3197455 0.6/1KV FRT-TCOTBO(VFD) 3X16SQ+3X6SQ BK 15.3 
+3197456 0.6/1KV FRT-TCOTBO(VFD) 3X25SQ+3X6SQ BK 15.3 
+3197457 0.6/1KV FRT-TCOTBO(VFD) 3X35SQ+3X6SQ BK 22.9 
+3197458 0.6/1KV FRT-TCOTBO(VFD) 3X50SQ+3X10SQ BK 22.9 
+3197459 0.6/1KV FRT-TCOTBO(VFD) 3X70SQ+3X16SQ BK 36.2 
+3197460 0.6/1KV FRT-TCOTBO(VFD) 3X95SQ+3X16SQ BK 36.2 
+3197461 0.6/1KV FRT-TCOTBO(VFD) 3X120SQ+3X25SQ BK 40.7 
+3197462 0.6/1KV FRT-TCOTBO(VFD) 3X150SQ+3X25SQ BK 40.7 
+3197463 0.6/1KV FRT-TCOTBO(VFD) 3X185SQ+3X35SQ BK 40.7 
+3197464 0.6/1KV FRT-TCOTBO(VFD) 3X240SQ+3X50SQ BK 40.7 
+3197465 0.6/1KV FRT-TCOTBO(VFD) 3X300SQ+3X50SQ BK 40.7 
+3197486 0.6/1KV FRT-TCOTBOE 3X2.5SQ+2.5SQ(BNBKBL BK 5.0 
+3197491 0.6/1KV FRT-TCOTBOE 3X6SQ+6SQ(BN,BK,GY) BK 10.2 
+3197516 0.6/1KV FRT-TCOTBOE 3X10SQ+10SQ(BN,BK,GY BK 10.2 
+3197517 0.6/1KV FRT-TCOTBOE 3X16SQ+16SQ(BN,BK,GY BK 13.6 
+3197518 0.6/1KV FRT-TCOTBOE 3X25SQ+16SQ(BN,BK,GY BK 15.3 
+3197519 0.6/1KV FRT-TCOTBOE 3X35SQ+25SQ(BN,BK,GY BK 15.3 
+3197520 0.6/1KV FRT-TCOTBOE 3X50SQ+25SQ(BN,BK,GY BK 22.9 
+3197521 0.6/1KV FRT-TCOTBOE 3X95SQ+50SQ(BN,BK,GY BK 36.2 
+3197522 0.6/1KV FRT-TCOTBOE 3X120SQ+70SQ(BNBKGY) BK 40.7 
+3197523 0.6/1KV FRT-TCOTBOE 3X150SQ+95SQ(BNBKGY) BK 40.7 
+3197524 0.6/1KV FRT-TCOTBOE 3X240SQ+120SQ(BNBKGY BK 40.7 
+3197525 0.6/1KV FRT-TCOTBOE 3X300SQ+150SQ(BNBKGY BK 40.7 
+3196584 0.6/1KV FX-F-FCOTBO 4X70SQ BK 36.2 
+3196557 0.6/1KV FX-F-SCO 1X95SQ BK N/A 
+3196556 0.6/1KV FX-F-SCO 1X240SQ BK N/A 
+3196558 0.6/1KV FX-F-SCOTBO 1X240SQ BK 15.3 
+3196643 250V F-TTCO(C) 1PX1.5SQ GY N/A 
+3196645 250V F-TTCOTBO(C) 1PX0.75SQ GY 3.5 
+3196647 250V F-TTCOTBO(C) 1TX0.75SQ GY 4.0 
+3196649 250V F-TTCOTBO(C) 4PX0.75SQ GY 4.5 
+3196651 250V F-TTCOTBO(C) 7PX0.75SQ GY 9.0 
+3196644 250V F-TTCOTBO(C) 10PX0.75SQ GY 7.9 
+3196646 250V F-TTCOTBO(C) 1PX1.5SQ GY 4.0 
+3196650 250V F-TTCOTBO(C) 4PX1.5SQ GY 9.0 
+3196976 250V F-TTCOTBO(C) 16PX1.5SQ GY 15.3 
+3196648 250V F-TTCOTBO(C) 24PX1.5SQ GY 13.6 
+3196657 250V F-TTCOTBO(I/C) 2PX0.75SQ GY 4.5 
+3197795 250V F-TTCOTBO(I/C) 3TX0.75SQ GY 9.0 
+3196660 250V F-TTCOTBO(I/C) 4PX0.75SQ GY 9.0 
+3196652 250V F-TTCOTBO(I/C) 10PX0.75SQ GY 9.0 
+3196658 250V F-TTCOTBO(I/C) 2PX1SQ GY 4.5 
+3196661 250V F-TTCOTBO(I/C) 4PX1SQ GY 9.0 
+3196662 250V F-TTCOTBO(I/C) 8PX1SQ GY 9.0 
+3196654 250V F-TTCOTBO(I/C) 12PX1SQ GY 9.0 
+3196656 250V F-TTCOTBO(I/C) 16PX1SQ GY 13.6 
+3196659 250V F-TTCOTBO(I/C) 2TX1.5SQ GY 9.0 
+3198351 250V F-TTCOTBO(I/C) 8PX1.5SQ GY 9.0 
+3196653 250V F-TTCOTBO(I/C) 12PX1.5SQ GY 13.6 
+3196655 250V F-TTCOTBO(I/C) 16PX1.5SQ GY 13.6 
+3196625 250V FRT-TTCOTBO(C) 1PX0.75SQ GY 4.0 
+3196982 250V FRT-TTCOTBO(C) 4PX0.75SQ GY 10.2 
+3196978 250V FRT-TTCOTBO(C) 8PX0.75SQ GY 10.2 
+3196983 250V FRT-TTCOTBO(C) 10PX0.75SQ GY 13.6 
+3196632 250V FRT-TTCOTBO(C) 8PX1SQ GY 9.0 \n\n--- PAGE 64 ---\n 
+ 
+XLPE/SHF1 Cable 
+According to IEC 60092-350 
+Spec.no. DOC-23-H0001 Rev.5 
+Date 2023.06.19 
+Page 64 / 64 
+ 
+LS Code LS Description Color Cross Section of Armor(㎟) 
+3196977 250V FRT-TTCOTBO(C) 24PX1SQ GY 22.9 
+3196626 250V FRT-TTCOTBO(C) 1PX1.5SQ GY 4.5 
+3198352 250V FRT-TTCOTBO(C) 1TX1.5SQ GY 4.5 
+3196370 250V FRT-TTCOTBO(C) 4PX1.5SQ GY 9.0 
+3196630 250V FRT-TTCOTBO(C) 7PX1.5SQ GY 13.6 
+3196631 250V FRT-TTCOTBO(C) 8PX1.5SQ GY 13.6 
+3196975 250V FRT-TTCOTBO(C) 16PX1.5SQ GY 15.3 
+3196628 250V FRT-TTCOTBO(C) 24PX1.5SQ GY 36.2 
+3196627 250V FRT-TTCOTBO(C) 1PX2.5SQ GY 4.5 
+3196979 250V FRT-TTCOTBO(C) 12PX2.5SQ GY 15.3 
+3196629 250V FRT-TTCOTBO(C) 24PX2.5SQ GY 36.2 
+3196640 250V FRT-TTCOTBO(I/C) 4PX0.75SQ GY 9.0 
+3196633 250V FRT-TTCOTBO(I/C) 10PX0.75SQ GY 13.6 
+3196639 250V FRT-TTCOTBO(I/C) 2PX1SQ GY 9.0 
+3196641 250V FRT-TTCOTBO(I/C) 4PX1SQ GY 9.0 
+3196634 250V FRT-TTCOTBO(I/C) 12PX1SQ GY 13.6 
+3196638 250V FRT-TTCOTBO(I/C) 16PX1SQ GY 13.6 
+3198353 250V FRT-TTCOTBO(I/C) 2PX1.5SQ GY 9.0 
+3196642 250V FRT-TTCOTBO(I/C) 8PX1.5SQ GY 13.6 
+3198354 250V FRT-TTCOTBO(I/C) 12PX1.5SQ GY 15.3 
+3196636 250V FRT-TTCOTBO(I/C) 12TX1.5SQ GY 22.9 
+3196637 250V FRT-TTCOTBO(I/C) 16PX1.5SQ GY 22.9 
+3196635 250V FRT-TTCOTBO(I/C) 12PX2.5SQ GY 22.9 
+3196144 0.6/1KV F-GO 1X1.5SQ GN/YL N/A 
+3196145 0.6/1KV F-GO 1X2.5SQ GN/YL N/A 
+3196146 0.6/1KV F-GO 1X4SQ GN/YL N/A 
+3189921 0.6/1KV F-GO 1X6SQ GN/YL N/A 
+3196147 0.6/1KV F-GO 1X10SQ GN/YL N/A 
+3189922 0.6/1KV F-GO 1X16SQ GN/YL N/A 
+3189923 0.6/1KV F-GO 1X25SQ GN/YL N/A 
+3189924 0.6/1KV F-GO 1X35SQ GN/YL N/A 
+3194496 0.6/1KV F-GO 1X50SQ GN/YL N/A 
+3189925 0.6/1KV F-GO 1X70SQ GN/YL N/A 
+3196148 0.6/1KV F-GO 1X95SQ GN/YL N/A 
+3196149 0.6/1KV F-GO 1X120SQ GN/YL N/A 
+3196150 0.6/1KV F-GO 1X150SQ GN/YL N/A 
+3196551 0.6/1KV F-GO 1X185SQ GN/YL N/A 
+3196552 0.6/1KV F-GO 1X240SQ GN/YL N/A 
+3196553 0.6/1KV F-GO 1X300SQ GN/YL N/A 
+3196554 0.6/1KV F-GO 1X400SQ GN/YL N/A 
+3196555 0.6/1KV F-GO 1X500SQ GN/YL N/A 
+ 
+ 

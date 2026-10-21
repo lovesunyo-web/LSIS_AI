@@ -1,0 +1,13 @@
+.fs-page{padding-bottom:21mm}
+.content-table{table-layout:fixed}
+.content-table th,.content-table td{overflow-wrap:anywhere;vertical-align:top}
+.preview-navigation{max-width:210mm;margin:0 auto 8px;display:flex;align-items:center;gap:8px;color:#486173;font:11px Arial,sans-serif}
+.preview-navigation button{border:1px solid #8eacbe;background:#fff;color:#075b96}
+.preview-navigation span{color:#6b7f8e;font-size:10px}
+@media screen{
+ .fs-page{content-visibility:auto;contain-intrinsic-size:210mm 297mm}
+}
+@media print{
+ .preview-navigation{display:none!important}
+ .fs-page{content-visibility:visible;contain-intrinsic-size:auto}
+}

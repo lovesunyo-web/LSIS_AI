@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FULL SPEC Builder</title>
+<link rel="stylesheet" href="full-spec.css?v=20260916-performance-overview-1">
+<link rel="stylesheet" href="full-spec-print.css?v=20260916-performance-overview-1">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pptxgenjs@3.12.0/dist/pptxgen.bundle.js"></script>
+</head>
+<body>
+<header class="appbar">
+  <img src="assets/ls-cable-logo.png" alt="LS Cable & System"><b>FULL SPEC Builder</b>
+  <span class="grow"></span>
+  <button onclick="saveProject()">프로젝트 저장</button>
+  <button onclick="exportProjectJson()" title="현재 작업을 임시저장 JSON 파일로 만듭니다.">임시저장</button>
+  <label class="filebtn" title="임시저장 JSON 파일을 불러옵니다.">임시저장 불러오기<input type="file" id="projectFile" accept=".json"></label>
+</header>
+<div class="workflow-shell">
+  <section class="workflow-dashboard" aria-label="Full Spec 작업 흐름">
+    <div class="workflow-heading">
+      <p class="workflow-eyebrow">PROJECT WORKFLOW</p>
+      <div><h1>Full Spec 발행 준비</h1><p>수집된 품목을 확인하고, STD를 연결한 뒤 검토·발행합니다.</p></div>
+    </div>
+    <div id="workflowSummary" class="workflow-summary" aria-live="polite">
+      <span class="workflow-summary-label">준비 상태</span><span>프로젝트 정보를 불러오는 중입니다.</span>
+    </div>
+    <nav id="workflowSteps" class="workflow-steps" aria-label="작업 단계">
+      <button type="button" class="workflow-step" data-workflow-target="collect"><span>01</span><b>수집</b><small>SPEC SHEET</small></button>
+      <button type="button" class="workflow-step" data-workflow-target="document"><span>02</span><b>문서 정보</b><small>표지·기본값</small></button>
+      <button type="button" class="workflow-step" data-workflow-target="standards"><span>03</span><b>STD 검토</b><small>요구사항 연결</small></button>
+      <button type="button" class="workflow-step" data-workflow-target="review"><span>04</span><b>검토</b><small>본문·Preflight</small></button>
+      <button type="button" class="workflow-step" data-workflow-target="publish"><span>05</span><b>발행</b><small>내보내기</small></button>
+    </nav>
+  </section>
+<div class="workspace">
+<aside class="panel">
+  <section class="workflow-pane" data-workflow-pane="collect"><h2>1. 수집된 SPEC SHEET</h2>
+    <div id="itemList" class="item-list"></div>
+    <p class="help">각 SPEC SHEET 탭에서 <b>FULL SPEC에 추가</b>를 눌러 수집합니다.</p>
+  </section>
+  <section class="workflow-pane" data-workflow-pane="document"><h2>2. 표지 / 문서 정보</h2>
+    <div class="grid2">
+      <label>Title<input id="docTitle" value="CABLE TECHNICAL SPECIFICATION"></label>
+      <label>Product Name<input id="productName" value="[확인 필요]"></label>
+      <label>Spec. No.<input id="specNo" value="[확인 필요]"></label>
+      <label>Revision No.<input id="revNo" value="0"></label>
+      <label>Issued Date<input id="issuedDate" type="date"></label>
+      <label>Application<input id="application" value="[확인 필요]"></label>
+      <label>Prepared By<input id="preparedBy" value=""></label>
+      <label>Reviewed By<input id="reviewedBy" value=""></label>
+      <label>Approved By<input id="approvedBy" value=""></label>
+      <label>Language<select id="language"><option value="en">English</option><option value="ko">국문</option></select></label>
+    </div>
+    <h3>System Certification 표기</h3>
+    <div id="certEditor" class="cert-editor"></div>
+  </section>
+  <section class="workflow-pane" data-workflow-pane="standards"><h2>3. 적용 STD 업로드</h2>
+    <input id="stdFiles" type="file" accept=".pdf,.txt" multiple>
+    <button class="wide" onclick="parseStandards()">STD 분석</button>
+    <div id="stdStatus" class="help">원본 파일은 GitHub에 저장되지 않고 브라우저에서만 처리됩니다.</div>
+    <div id="stdDiagnostics" class="std-diagnostics" aria-live="polite"></div>
+    <details class="manual-standard">
+      <summary>텍스트 직접 분석 (스캔 PDF / OCR 결과)</summary>
+      <p class="help">PDF에서 복사한 본문이나 OCR 결과를 붙여넣어 분석할 수 있습니다. 후보는 자동 확정되지 않으며, 반드시 적용 여부와 범위를 검토해야 합니다.</p>
+      <div class="grid2">
+        <label>출처 / STD 명칭<input id="stdManualSource" placeholder="예: KS C 0000"></label>
+        <label>페이지<input id="stdManualPage" type="number" min="1" value="1"></label>
+      </div>
+      <label>복사한 본문 또는 OCR 결과<textarea id="stdManualText" rows="7" placeholder="여기에 STD 본문 또는 OCR 결과를 붙여넣으세요."></textarea></label>
+      <button type="button" class="wide" onclick="parseManualStandardText()">붙여넣은 텍스트 분석</button>
+    </details>
+    <div id="stdCandidates"></div>
+    <details class="requirement-library" id="requirementLibraryPanel">
+      <summary>요구사항 라이브러리 (STD / Company / Project)</summary>
+      <p class="help">원본 PDF를 계속 보관하거나 매번 분석하지 않습니다. 표준·회사사양·프로젝트 요구사항을 출처와 판본, 조항, 적용조건, 승인상태까지 함께 등록합니다. <b>APPROVED</b> 행만 Full Spec의 시험·물성표에 확정값으로 반영됩니다.</p>
+      <div id="requirementLibrarySummary" class="requirement-library-summary" aria-live="polite"></div>
+      <div class="requirement-library-actions">
+        <button type="button" onclick="addRequirementSource()">출처 추가</button>
+        <button type="button" onclick="addMaterialProfile()">재질 프로필 추가</button>
+        <button type="button" onclick="addLibraryRequirement()">요구사항 추가</button>
+      </div>
+      <div class="requirement-library-actions">
+        <button type="button" class="library-primary" onclick="saveRequirementLibrary()">라이브러리 저장</button>
+        <button type="button" onclick="exportRequirementLibraryJson()">라이브러리 JSON 저장</button>
+        <label class="filebtn library-filebtn">라이브러리 불러오기<input type="file" id="requirementLibraryFile" accept=".json"></label>
+      </div>
+      <div class="requirement-library-sections">
+        <section><h3>출처 문서</h3><div id="requirementLibrarySources"></div></section>
+        <section><h3>재질 프로필</h3><div id="requirementLibraryProfiles"></div></section>
+        <section><h3>시험 · 물성 요구사항</h3><div id="requirementLibraryRows"></div></section>
+      </div>
+    </details>
+  </section>
+  <div class="workflow-pane" data-workflow-pane="review">
+  <section><h2>4. 본문 초안</h2>
+    <label>Scope<textarea id="scopeText" rows="6"></textarea></label>
+    <div class="actions"><button onclick="generateDraft()">초안 재생성</button><button onclick="resetManualDraft()">자동 초안 복원</button></div>
+  </section>
+  <section><h2>5. 문서 상태 / 발행 전 사전검토</h2>
+    <label>Document Status<select id="documentStatus" onchange="updateDocumentStatus(this.value)"><option value="DRAFT">Draft</option><option value="IN_REVIEW">In Review</option><option value="ISSUED">Issued</option></select></label>
+    <div class="actions"><button class="wide" onclick="runPreflight(true)">사전검토 실행</button></div>
+    <div id="preflightSummary" class="preflight-summary" aria-live="polite"></div>
+    <div class="actions"><button type="button" class="wide" onclick="goToProductOverview()">4. 제품 통합표로 이동</button></div>
+    <p class="help">오류는 발행을 차단하고, 경고는 검토 후 발행할 수 있습니다.</p>
+  </section>
+  </div>
+  <section class="workflow-pane workflow-publish" data-workflow-pane="publish">
+    <h2>6. 발행 / 내보내기</h2>
+    <p class="help">사전검토를 통과한 뒤 필요한 형식으로 내보냅니다. 저장용 JSON은 상단에서 별도로 관리할 수 있습니다.</p>
+    <div class="publish-actions">
+      <button class="wide" onclick="exportHtml()">HTML 내보내기</button>
+      <button class="wide" onclick="printFullSpec()">PDF / 인쇄</button>
+      <button class="wide primary" onclick="exportPptx()">PPTX 내보내기</button>
+    </div>
+  </section>
+</aside>
+<main class="preview-wrap">
+  <div class="preview-tools"><b>FULL SPEC 미리보기</b><span>표와 문장은 미리보기에서 직접 수정할 수 있습니다.</span></div>
+  <div class="preview-navigation"><button type="button" onclick="goToProductOverview()">4. PRODUCT OVERVIEW</button><span id="previewState" aria-live="polite"></span></div>
+  <div id="preview"></div>
+</main>
+</div>
+</div>
+<script src="full-spec-storage.js?v=20260916-performance-overview-1"></script>
+<script src="full-spec-requirements.js?v=20260916-performance-overview-1"></script>
+<script src="full-spec.js?v=20260916-performance-overview-1"></script>
+</body></html>
